@@ -1,0 +1,30 @@
+8000
+
+
+B401
+B40F
+
+último: F66C, mas está em outra tabela
+
+6A81 aponta para 0x185B na tabela
+
+Terceiro bloco de texto começa em: 025DE0
+
+Bloco 1:
+1- Inverter os Bytes;
+2- Subtrair por 0x8000;
+3- Ir até o Offset
+
+Bloco 2:
+1- Shift 8 para direita;
+2- Inverter os dois Bytes;
+3- Ir até o Offset
+
+calc_offset = ptr >> 8;
+
+byte1 = (unsigned char)(calc_offset & 0x000000FF);
+byte2 = (unsigned char)((calc_offset >>8) & 0x000000FF);
+
+offset_ini = ((byte2 << 8) | byte1);
+ 
+

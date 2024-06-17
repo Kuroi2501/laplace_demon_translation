@@ -1,0 +1,1343 @@
+{00002b21}
+The Elder Sign is sealed.{02}
+{00}
+------------------
+{00002b24}
+If you're serious about{03}
+fighting Master Laplace,{02}
+you probably should see the{03}
+old spinstress.{02}
+{00}
+------------------
+{00002b27}
+Suddenly, the space before{03}
+me warps.{02}
+{00}
+------------------
+{00002b2a}
+{01}{14}I see. Well then,{03}
+farewell.{02}
+{01} {00}
+------------------
+{00002b2d}
+{01}{14}But first, I'll take that{03}
+rod of yours and put it to{03}
+good use{75}{02}
+{01} Mistletoe Rod stolen.{02}
+{00}
+------------------
+{00002b30}
+{01}{14}I see. Oh well...{02}
+{01} {00}
+------------------
+{00002b33}
+{01}{14}But I'll relieve you of{03}
+that rod as I go. Thanks{75}{02}
+{01} {00}
+------------------
+{00002b36}
+Louvain barks a spell.{03}
+Mistletoe Rod stolen.{02}
+{00}
+------------------
+{00002b39}
+{01}{0d}{04}{00}
+------------------
+{00002b3c}
+Bayard thrusts straight at{03}
+Louvain.{02}
+{01}{0d}Feel the power of the holy{03}
+sword bestowed upon me by{03}
+the Princess{75}{02}
+{01} {00}
+------------------
+{00002b3f}
+Louvain suffered 99 points{03}
+of damage.{02}
+{01}{0d}You must run away while you{03}
+still can{75}{01} {02}
+Louvain attacks.{02}
+{00}
+------------------
+{00002b42}
+Bayard suffered 207 points{03}
+of damage.{02}
+Bayard was defeated.{02}
+{00}
+------------------
+{00002b45}
+{01}{00}
+------------------
+{00002b48}
+{01}{01}Bayard{75} Sorry...{03}
+Bayard...{02}
+{01} {00}
+------------------
+{00002b4b}
+{04}{00}
+------------------
+{00002b4e}
+I am Laplace's servant.{03}
+This is a path only he may{03}
+pass. Leave at once.{02}
+{00}
+------------------
+{00002b51}
+Cassandra approaches the{03}
+stone statue.{02}
+{01}{07}I am Cassandra. Laplace's{03}
+daughter, and part of his{03}
+bloodline.{02}
+Guardian of Laplace, I{03}
+order you in my father's{03}
+name. Open the path{75}{02}
+{01} {00}
+------------------
+{00002b54}
+I cannot disobey one of{03}
+the Laplace name.{02}
+{00}
+------------------
+{00002b57}
+The stone guardian slowly{03}
+crumbles away..{02}
+{00}
+------------------
+{00002b5a}
+King Laplace is not the{03}
+only one who can influence{03}
+his servants.{02}
+Those of his bloodline{03}
+will be obeyed by his{03}
+creations as well.{02}
+{00}
+------------------
+{00002b5d}
+There was some kind of{03}
+explosion here.{02}
+A man's corpse lies in the{03}
+blast's epicenter.{02}
+{00}
+------------------
+{00002b60}
+The corpse is bent, as if{03}
+crushed by the hand of some{03}
+giant.{02}
+{00}
+------------------
+{00002b63}
+Are you here to see Master{03}
+Laplace{76}{02}
+If anybody can stop him,{03}
+it'd be you. Take this.{02}
+{00}
+------------------
+{00002b66}
+Mistletoe Rod acquired.{02}
+{00}
+------------------
+{00002b69}
+That should weaken{03}
+Master Laplace's magic.{02}
+{00}
+------------------
+{00002b6c}
+Master Laplace is scared.{02}
+Perhaps we may be able to{03}
+rescue him from that what's{03}
+got him spooked.{02}
+{00}
+------------------
+{00002b6f}
+The remnants of an{03}
+explosion is here...{02}
+And in its center there is{03}
+a corpse of an old woman.{02}
+{00}
+------------------
+{00002b72}
+The corpse is grotesquely{03}
+bent, as though a giant's{03}
+hand had twisted it.{02}
+{00}
+------------------
+{00002b75}
+Cassandra's voice rings out{03}
+clearly..{02}
+{01}{07}Father, I must tell you{03}
+something. Please come out{03}
+and meet me{75}{02}
+{01} {00}
+------------------
+{00002b78}
+Laplace's voice rumbles...{02}
+...{06}{06}{06}...{06}{06}{06}...{06}{06}{06}{01}{11}{03}
+Cassandra... and our guests{03}
+from another world.{02}
+Step before me.{02}
+{01} {00}
+------------------
+{00002b7b}
+{01}{07}We cannot go back until we{03}
+speak to my father.{02}
+{01} {00}
+------------------
+{00002b7e}
+Sat against the wall was{03}
+King Laplace on his throne{a8}{03}
+his face twisted with rage.{02}
+{00}
+------------------
+{00002b81}
+{01}{11}You who would conspire with{03}
+Benedict to usurp the power{03}
+of my demon{75}{02}
+You are not worthy to wield{03}
+the transcendent power that{03}
+my Demon bestowed upon me{75}{02}
+{01} {01}{07}You misunderstand, Father.{03}
+These people do not work{03}
+for Benedict.{02}
+Hear me out. We just want{03}
+to save you, Father{75}{02}
+{01} {01}{11}Save me{76} I don't need{03}
+saving{75}{02}
+{01} {00}
+------------------
+{00002b84}
+{01}{03}
+Laplace's Demon is too much{03}
+for you to handle{75}{02}
+It will consume you and{03}
+this world before long.{03}
+Relinquish its power{75}{02}
+{01} {00}
+------------------
+{00002b87}
+{01}{00}
+------------------
+{00002b8a}
+{01}{02}
+Are you daft{76} Don't you see{03}
+the danger you're in{76}{02}
+Relinquish power over this{03}
+thing before it bloody well{03}
+kills you{75}{02}
+{01} {00}
+------------------
+{00002b8d}
+{01}{01}Laplace's Demon is too{03}
+dangerous to control{75}{02}
+It'll consume you first,{03}
+and then your world.{03}
+Relinquish its power{75}{02}
+{01} {00}
+------------------
+{00002b90}
+{01}{11}.{06}.{06}.{06}.{06} I was wrong.{03}
+Repentance now will change{03}
+nothing. I am damned.{02}
+It's too late for me.{02}
+{01} {01}{07}Father...{02}
+{01} {01}{11}Leave{75} Get out of my sight{03}
+at once{75}{02}
+{01} {00}
+------------------
+{00002b93}
+Just then, a black shadow{03}
+appears behind Laplace.{02}
+{01}{07}Father, behind you{75}{02}
+{01} {00}
+------------------
+{00002b96}
+{01}{11}Benedict{76} Impossible{75}{02}
+{01} {01}{03}
+You can thank Cassandra for{03}
+removing the guardian.{02}
+{01} {01}{11}I'll show you just how{03}
+pathetic you are without{03}
+Louvain's aid.{02}
+I'll show you true proof of{03}
+sovereign majesty{75}{02}
+{01} {00}
+------------------
+{00002b99}
+{01}{0e}Checkmate.{02}
+{01} Benedict raised the{03}
+Mistletoe Rod and light{03}
+burst forth from it.{02}
+{00}
+------------------
+{00002b9c}
+{01}{11}Is this Divine Annulment{76}{03}
+That's a Mistletoe Rod{76}{03}
+My powers have left me{75}{02}
+{01} {00}
+------------------
+{00002b9f}
+{01}{0e}Now that your supernatural{03}
+powers have been frozen out,{03}
+you're just another man.{02}
+Just another man whose fate{03}
+it is to freeze to death{03}
+inside my Icy Nebula.{02}
+{01} {00}
+------------------
+{00002ba2}
+{01}{11}But, my power{75}{02}
+{01} {00}
+------------------
+{00002ba5}
+Laplace is toppled from his{03}
+throne.{02}
+{00}
+------------------
+{00002ba8}
+{01}{07}Father{75}{02}
+{01} Cassandra steps between{03}
+the two of them.{02}
+{00}
+------------------
+{00002bab}
+{01}{07}Benedict, please stop{75}{02}
+Even if you acquire{03}
+Laplace's Demon, all that{03}
+awaits you is destruction.{02}
+That foul monster is beyond{03}
+anyone's control{75}{02}
+{01} {01}{0e}You're wrong, Princess{03}
+Cassandra.{02}
+Where your father failed,{03}
+I shall succeed.{02}
+Louvain has awoken a new{03}
+power within me.{02}
+Now Cassandra, obey my will{03}
+and come to me.{02}
+You're a key part of the{03}
+ceremony to open the way...{02}
+... to the space where the{03}
+demon hides{75}{02}
+{01} {00}
+------------------
+{00002bae}
+{01}{07}No, please{75}{02}
+{01} {00}
+------------------
+{00002bb1}
+{01}{00}
+------------------
+{00002bb4}
+{01}{01}Benedict{75} Let go of{03}
+Princess Cassandra{75}{02}
+{01} {00}
+------------------
+{00002bb7}
+{01}{0e}She's already mine, fools{75}{03}
+And now I have everything{03}
+for my pact with the Demon{75}{02}
+{01} {00}
+------------------
+{00002bba}
+{01}{03}
+What strength{75} Is this{03}
+Louvain's doing{76}{02}
+This is nothing like the{03}
+Benedict from before{75}{02}
+{01} {00}
+------------------
+{00002bbd}
+{01}{0a}What overwhelming power{75}{02}
+This is on a completely new{03}
+level from the Benedict of{03}
+before{75}{02}
+This must be the new power{03}
+Louvain unlocked within{03}
+him.{02}
+{01} {00}
+------------------
+{00002bc0}
+{01}{06}His aura is incredible{75}{02}
+It's completely different{03}
+from what Benedict was like{03}
+before{75}{02}
+This is surely Louvain's{03}
+doing{75}{02}
+{01} {00}
+------------------
+{00002bc3}
+{01}{05}His energy density is{02}
+incredible{75} Nothing like{03}
+Benedict's earlier{03}
+measurements{75}{02}
+And he wasn't wrong{a8} Louvain{03}
+sure changed him.{02}
+{01} {00}
+------------------
+{00002bc6}
+{01}{02}
+What are we going to{03}
+do about Cassandra{76}{02}
+{01} {00}
+------------------
+{00002bc9}
+{01}{00}
+------------------
+{00002bcc}
+{01}{01}What are we going to{03}
+do about Cassandra{76}{02}
+{01} {00}
+------------------
+{00002bcf}
+{01}{03}
+Perhaps he intends to{03}
+sacrifice her...{02}
+{01} {00}
+------------------
+{00002bd2}
+{01}{0a}He likely intends to{03}
+sacrifice her...{02}
+{01} {00}
+------------------
+{00002bd5}
+{01}{06}Perhaps he intends to{03}
+sacrifice her...{02}
+{01} {00}
+------------------
+{00002bd8}
+{01}{05}I'm certain he intends to{03}
+sacrifice her.{02}
+{01} {00}
+------------------
+{00002bdb}
+{01}{09}We'd better hurry up and{03}
+save her{75}{02}
+{01} {00}
+------------------
+{00002bde}
+{01}{01}If we don't save her{03}
+quickly...{02}
+{01} {00}
+------------------
+{00002be1}
+{01}{02}
+Roger that{75} Onward{75}{02}
+{01} {00}
+------------------
+{00002be4}
+{01}{00}
+------------------
+{00002be7}
+{01}{03}
+Wait{75} I can hear a voice{03}
+coming from the throne{75}{02}
+{01} {00}
+------------------
+{00002bea}
+{01}{0a}Wait{75} I can hear a voice{03}
+coming from the throne{75}{02}
+{01} {00}
+------------------
+{00002bed}
+{01}{06}Wait{75} I can hear a voice{03}
+coming from the throne{75}{02}
+{01} {00}
+------------------
+{00002bf0}
+{01}{05}Wait{75} I can hear a voice{03}
+coming from the throne{75}{02}
+{01} {00}
+------------------
+{00002bf3}
+Laplace's life is ebbing{03}
+away, but he stirs faintly.{02}
+{00}
+------------------
+{00002bf6}
+{01}{11}Wait. Before you leave,{03}
+know this...{02}
+{01} {00}
+------------------
+{00002bf9}
+You... must stop{03}
+Benedict...{02}
+He cannot possibly control{03}
+Laplace's Demon. None can.{02}
+The demon... showed me all{03}
+possible futures...{02}
+so I could craft my own.{03}
+But what value is there in{03}
+a future without novelty{76}{02}
+Beware Louvain as well. He{03}
+is also but a puppet of{03}
+the demon.{02}
+... no, it might be best to{03}
+say he's the dark shadow of{03}
+my own mind.{02}
+Louvain sprang from my own{03}
+doubts of the pact I made.{02}
+My own fears of Laplace's{03}
+Demon birthed him.{02}
+You see, the demon cannot{03}
+judge morality.{02}
+It responds only to your{03}
+desires. Your needs.{02}
+And it does not discern{03}
+between good or evil.{02}
+Louvain's goal is dark, one{03}
+I had tried to bury inside.{02}
+And now, to fulfill this{03}
+desire I had tried to{03}
+suppress,{02}
+he used Benedict to try to{03}
+steal the demon's power.{02}
+And he still harbors one of{03}
+my other dark desires...{03}
+To conquer your world...{02}
+I bestow upon you my royal{03}
+regalia{7d}{7d}my crown and ring.{02}
+Donning my crown will cause{03}
+all secrets of the demesne{03}
+to show themselves to you.{02}
+Show the ring's crest to{03}
+Louvain, and remind him of{03}
+his humble origins.{02}
+It's the pact which first{03}
+bound his power to this{03}
+world.{02}
+The Demon bade Louvain from{03}
+my mind based on the Raven{03}
+crest on this ring.{02}
+Having possession of it is{03}
+a form of power over him.{02}
+Elder Ring and{03}
+Laplace Regalia acquired.{02}
+I wanted to build a perfect{03}
+future... but now I have no{03}
+future at all..{02}
+{01} Laplace's life faded away.{02}
+{00}
+------------------
+{00002bfc}
+It's Laplace's corpse.{02}
+{00}
+------------------
+{00002bff}
+I see before me an ornate{03}
+altar, atop which the{02}
+unconscious Cassandra{03}
+is being crucified.{02}
+Decked out in ceremonial{03}
+garb before the altar is{03}
+Benedict.{02}
+He holds a dagger and is{03}
+chanting a strange spell.{02}
+{79}... The stars are right,{03}
+and fate will see the path{03}
+now opened.{02}
+Oh great demon who sees{03}
+all futures{75}{02}
+May this sacrifice be your{03}
+beacon into this cursed{03}
+world{75}{7a}{02}
+{00}
+------------------
+{00002c02}
+{01}{00}
+------------------
+{00002c05}
+{01}{02}
+Halt{75} Not one more step{75}{02}
+{01} {00}
+------------------
+{00002c08}
+{01}{01}That's enough, Benedict{75}{02}
+{01} {00}
+------------------
+{00002c0b}
+{01}{09}That's enough, Benedict{75}{02}
+{01} {00}
+------------------
+{00002c0e}
+{01}{0e}{04}{00}
+------------------
+{00002c11}
+{01}{00}
+------------------
+{00002c14}
+{01}{01}Princess Cassandra{75} No{75}{02}
+{01} {00}
+------------------
+{00002c17}
+A rift in spacetime appears{03}
+behind the altar.{02}
+Inside the rift is an{03}
+endless void filled with{03}
+purple light.{02}
+{01} {00}
+------------------
+{00002c1a}
+{01}{0e}Hahaha{75} Today is the first{03}
+day of my world conquest{75}{02}
+{01} {00}
+------------------
+{00002c1d}
+Benedict is flung inside{03}
+the rift.{02}
+{00}
+------------------
+{00002c20}
+A deafening roar, like that{03}
+of a landslide, suddenly{03}
+filled our ears.{02}
+{00}
+------------------
+{00002c23}
+{01}{02}
+I don't like this shaking.{02}
+{01} {00}
+------------------
+{00002c26}
+{01}{03}
+Laplace and Cassandra are{03}
+now dead.{02}
+So, Laplace's world is now{03}
+collapsing.{02}
+The demon's connection to{03}
+this world has now been{03}
+severed.{02}
+{01} {00}
+------------------
+{00002c29}
+{01}{0a}Laplace's world has started{03}
+to collapse.{02}
+With Laplace and Cassandra{03}
+dead and without desires,{02}
+the demon no longer has{03}
+cause to sustain this{03}
+warped world.{02}
+{01} {00}
+------------------
+{00002c2c}
+{01}{06}This world is starting to{03}
+collapse.{02}
+Without Laplace or Princess{03}
+Cassandra to anchor it,{02}
+the demon has simply given{03}
+up on sustaining the world{03}
+it created.{02}
+{01} {00}
+------------------
+{00002c2f}
+{01}{08}Without its royalty, this{03}
+world has no one to direct{02}
+the demon. And this world{03}
+needed its power to remain.{02}
+So now everything is{03}
+falling apart, and this{03}
+world returns to nothing.{02}
+{01} {00}
+------------------
+{00002c32}
+{01}{02}
+Is this the end{76}{03}
+I don't want to die like{03}
+this{a8} forgotten.{02}
+{01} {00}
+------------------
+{00002c35}
+{01}{00}
+------------------
+{00002c38}
+{01}{03}
+Benedict must be prevented{03}
+from bringing the demon{03}
+to our world.{02}
+We must stop him, by{03}
+whatever means are{03}
+necessary.{02}
+{01} {00}
+------------------
+{00002c3b}
+{01}{0a}I don't know, but Benedict{03}
+must be stopped.{02}
+If we don't stop him from{03}
+summoning the demon into{03}
+our world...{02}
+{01} {00}
+------------------
+{00002c3e}
+{01}{06}All I know is Benedict{03}
+cannot be allowed to win.{02}
+If he manages to summon{03}
+Laplace's Demon into our{03}
+world...{02}
+{01} {00}
+------------------
+{00002c41}
+Enter the rift{76}{02}
+{00}
+------------------
+{00002c44}
+Cassandra's bracelet lies{03}
+beneath the altar.{02}
+After picking it up, I dive{03}
+into the rift.{02}
+Princess's Bracelet{03}
+acquired.{02}
+{00}
+------------------
+{00002c47}
+Save{76}{02}
+{00}
+------------------
+{00002c4a}
+Saved.{02}
+{00}
+------------------
+{00002c4d}
+To the south, there is a{03}
+mysterious distortion in{03}
+space.{02}
+{00}
+------------------
+{00002c50}
+This is the sacrifice room{03}
+used in Master Laplace's{03}
+ceremonies.{02}
+I better be careful.{02}
+I am an intruder, after all.{02}
+{00}
+------------------
+{00002c53}
+A girl sits sobbing in the{03}
+corner of the room.{02}
+{01}{12}I wanna go home now.{03}
+Mom... Help me... Mom...{02}
+{01} {00}
+------------------
+{00002c56}
+It's Amy, the girl who was{03}
+reported missing some time{03}
+ago.{02}
+The poor girl. All this{03}
+time locked in here...{02}
+{00}
+------------------
+{00002c59}
+{01}{00}
+------------------
+{00002c5c}
+{01}{01}You must be Amy. Your mom{03}
+sent us here to come rescue{03}
+you.{02}
+Let's get you to your mom.{02}
+{01} {00}
+------------------
+{00002c5f}
+Amy timidly approaches.{03}
+{04}{00}
+------------------
+{00002c62}
+This girl must be from{03}
+Newcam.{02}
+Better get her to town as{03}
+soon as possible.{02}
+I rescued Amy{75}{02}
+{00}
+------------------
+{00002c65}
+How strange this space{03}
+seems.{02}
+Purple light is coming from{03}
+all around.{02}
+There are no buildings,{03}
+only a road that stretches{03}
+onward.{02}
+{00}
+------------------
+{00002c68}
+Louvain waits for me here.{02}
+{01}{14}So you came this far...{02}
+But I can't let you{03}
+interfere as I sacrifice{03}
+Benedict.{02}
+{01} {00}
+------------------
+{00002c6b}
+{01}{00}
+------------------
+{00002c6e}
+{01}{01}Sacrifice Benedict{76}{02}
+{01} {00}
+------------------
+{00002c71}
+{01}{14}Didn't Laplace tell you{76}{03}
+Surely you recall.{02}
+To summon Laplace's Demon{03}
+into a world, one with{03}
+memories of that world must{02}
+be offered to it as a{03}
+sacrifice.{02}
+A role Benedict now{03}
+occupies, the fool.{02}
+He's probably going before{03}
+Laplace's Demon right now,{02}
+never once considering{03}
+that he's fallen right into{03}
+my little trap...{02}
+{01} {00}
+------------------
+{00002c74}
+{01}{00}
+------------------
+{00002c77}
+{01}{01}This is all too much{75}{02}
+{01} {00}
+------------------
+{00002c7a}
+{01}{14}He thought himself a king,{03}
+but instead was but a pawn.{02}
+I didn't expect you to{03}
+follow Benedict,{02}
+but your presence helped to{03}
+confuse Laplace, so thanks.{02}
+But your future ends here.{02}
+{01} {00}
+------------------
+{00002c7d}
+Magic pours out of the ring{03}
+and Louvain screams and{03}
+draws back.{02}
+{01} {01}{14}That ring... that sigil...{03}
+keep it away from me{75}{02}
+So that damned Laplace{03}
+figured out my true origin.{02}
+{01} {00}
+------------------
+{00002c80}
+{01}{14}But still, I will not{03}
+yield{75}{02}
+I must use Laplace's Demon{03}
+to invade and conquer other{03}
+worlds.{02}
+From that dark desire was I{03}
+made, and it shall be.{02}
+{01} {00}
+------------------
+{00002c83}
+{01}{02}
+So to you Laplace was only{03}
+just a means to an end{76}{02}
+{01} {00}
+------------------
+{00002c86}
+The ring's magic reveals{03}
+Louvain's true form{a8} his{03}
+illusion is shed.{02}
+His face remains that of a{03}
+handsome youth, but wings{03}
+of a bat grow on his back,{02}
+and the lower half of his{03}
+body becomes that of a{03}
+horrid giant serpent.{02}
+Louvain showed us his real{03}
+body, and it was uglier{03}
+than ugly should ever be.{02}
+{79}You think you're going to{03}
+live past this, but you{03}
+have no idea... heh heh...{7a}{02}
+{01} {00}
+------------------
+{00002c89}
+{01}{01}Even though Laplace was{03}
+killed...{02}
+{01} {00}
+------------------
+{00002c8c}
+{01}{09}Even though Laplace is dead{03}
+now...{02}
+{01} {00}
+------------------
+{00002c8f}
+{01}{00}
+------------------
+{00002c92}
+{01}{05}Thinking about it, I feel{03}
+sorry for him somehow.{02}
+{01} {00}
+------------------
+{00002c95}
+{01}{03}
+We must hurry.{02}
+If Laplace's Demon kills{03}
+Benedict, we'll all be in{03}
+terrible danger.{02}
+{01} {00}
+------------------
+{00002c98}
+{01}{00}
+------------------
+{00002c9b}
+{01}{01}We need to keep going.{02}
+If Benedict is killed by{03}
+Laplace's Demon, it's all{03}
+over for us.{02}
+{01} {00}
+------------------
+{00002c9e}
+I see a form before me made{03}
+of shadow.{02}
+In its center floats a{03}
+giant eye, one that seems{03}
+to be seeing everything.{02}
+It's Laplace's Demon{75}{02}
+{01}{0e}Laplace's Demon, come{03}
+before me{75} I command you{75}{02}
+Benedict holds up an amulet{03}
+and points it at the demon.{02}
+Tentacles that were before{03}
+crawling from the figure{03}
+now withdraw as if afraid.{02}
+{00}
+------------------
+{00002ca1}
+{01}{03}
+Stop{75}{03}
+Louvain has tricked you{75}{02}
+You can't control Laplace's{03}
+demon that way{75}{02}
+{01} {00}
+------------------
+{00002ca4}
+{01}{0a}Stop, Benedict{75} Louvain has{03}
+deceived you{75}{02}
+You can't control Laplace's{03}
+Demon that way{75}{02}
+{01} {00}
+------------------
+{00002ca7}
+{01}{06}Cease this mockery at once{75}{03}
+Louvain has tricked you{75}{02}
+You can't control Laplace's{03}
+Demon with that{75}{02}
+{01} {00}
+------------------
+{00002caa}
+{01}{08}Benedict, stop{75} It's all{03}
+a trick by Louvain{75}{02}
+Laplace's Demon cannot be{03}
+controlled{75}{02}
+{01} {00}
+------------------
+{00002cad}
+{01}{0e}Don't talk such nonsense{75}{02}
+With the extinction of{03}
+Laplace's bloodline, the{03}
+demon is mine to control{75}{02}
+{01} {00}
+------------------
+{00002cb0}
+But the tentacles are{03}
+already behind Benedict.{02}
+{00}
+------------------
+{00002cb3}
+{01}{00}
+------------------
+{00002cb6}
+{01}{01}Oh no, Benedict{75} Look out{03}
+behind you{75}{02}
+{01} {00}
+------------------
+{00002cb9}
+Before he could even turn,{03}
+the tentacles have him. He{03}
+is lifted up, then crushed.{02}
+{01}{0e}N{7d}no...{02}
+{01} He bursts open then,{03}
+a wet red pulp of flesh.{02}
+Blood pours down into the{03}
+demon's shadowy maw.{02}
+I hear a satisfied grunt,{03}
+and space around it twists{03}
+and tears like fabric.{02}
+{00}
+------------------
+{00002cbc}
+{01}{00}
+------------------
+{00002cbf}
+{01}{01}Oh God, what's happening{76}{02}
+{01} {00}
+------------------
+{00002cc2}
+{01}{03}
+Just as Laplace's world{03}
+collapsed, so too here.{02}
+There is no more need for{03}
+the demon to sustain it.{02}
+{01} {00}
+------------------
+{00002cc5}
+{01}{0a}This world is collapsing,{03}
+just like Laplace's world.{02}
+Soon it'll turn back into{03}
+nothing...{02}
+{01} {00}
+------------------
+{00002cc8}
+{01}{06}This space is going the{03}
+way of Laplace's world,{02}
+and has begun to collapse{03}
+as well...{02}
+{01} {00}
+------------------
+{00002ccb}
+{01}{08}No Benedict, no Louvain,{03}
+no more world.{02}
+Just like Laplace's world,{03}
+this one is fading away.{02}
+{01} {00}
+------------------
+{00002cce}
+{01}{00}
+------------------
+{00002cd1}
+{01}{01}Is this it{76} Is this where{03}
+we die{76}{02}
+{01} {00}
+------------------
+{00002cd4}
+Space itself rips apart as{03}
+the ground disappears{03}
+beneath our feet.{02}
+We're hurled into a rift{03}
+between dimensions.{02}
+{00}
+------------------
+{00002cd7}
+The Princess's bracelet{03}
+envelops us with a warm{03}
+glow.{02}
+It protects us as we enter{03}
+the dimensional rift.{02}
+{00}
+------------------
+{00002cda}
+{01}{00}
+------------------
+{00002cdd}
+{01}{01}What's going on{76}{02}
+{01} {00}
+------------------
+{00002ce0}
+{01}{03}
+It's the power in the{03}
+Princess's bracelet{75}{02}
+It appears to have been{03}
+imbued with protective{03}
+magics.{02}
+This magic will sustain us{03}
+within this place.{02}
+{01} {00}
+------------------
+{00002ce3}
+{01}{0a}That is magic from the{03}
+Princess's bracelet{75}{02}
+Protective spells were laid{03}
+upon it, a strong magic{03}
+indeed.{02}
+And it is this magic that's{03}
+come to our aid{75}{02}
+{01} {00}
+------------------
+{00002ce6}
+{01}{06}This power comes from the{03}
+Princess's bracelet.{02}
+I can sense that protective{03}
+energies have been placed{03}
+within it.{02}
+This amulet has just saved{03}
+our lives{75}{02}
+{01} {00}
+------------------
+{00002ce9}
+{01}{08}It's the power of the{03}
+Princess's bracelet{75}{02}
+Somehow it seems it was{03}
+endowed with magic of{03}
+protection.{02}
+It saved us all from a most{03}
+terrible end{75}{02}
+{01} {00}
+------------------
+{00002cec}
+{01}{00}
+------------------
+{00002cef}
+{01}{01}So where are we headed{76}{02}
+{01} {00}
+------------------
+{00002cf2}
+{01}{03}
+We're taking the path of{03}
+least resistance.{02}
+And that would mean we're{03}
+being sent right back to{03}
+our own world{75}{02}
+{01} {00}
+------------------
+{00002cf5}
+{01}{0a}It's the path of least{03}
+resistance, which can only{03}
+mean one thing...{02}
+We're headed home{75}{02}
+{01} {00}
+------------------
+{00002cf8}
+{01}{06}We're on the path of least{03}
+resistance, so that means{03}
+that our world...{02}
+It's calling us back{75}{02}
+{01} {00}
+------------------
+{00002cfb}
+{01}{08}Ever heard of the path of{03}
+least resistance{76}{03}
+That path in this case{02}
+leads us back to our world{75}{02}
+{01} {00}
+------------------
+{00002cfe}
+{01}{09}So you mean we're saved,{03}
+right{76}{02}
+{01} {00}
+------------------
+{00002d01}
+{01}{05}We'll be back in one piece{76}{03}
+Oh thank goodness.{02}
+{01} {00}
+------------------
+{00002d04}
+{01}{00}
+------------------
+{00002d07}
+{01}{01}But we're not done yet{75}{03}
+Look behind you{75}{02}
+{01} {00}
+------------------
+{00002d0a}
+There behind you, floating{03}
+in the void as you are, is{03}
+Laplace's Demon.{02}
+{01} {00}
+------------------
+{00002d0d}
+{01}{03}
+The spirit of Benedict is{03}
+pulling it to our world{75}{02}
+{01} {00}
+------------------
+{00002d10}
+{01}{0a}The spirit of Benedict is{03}
+guiding it to our world{75}{02}
+{01} {00}
+------------------
+{00002d13}
+{01}{06}Benedict's spirit must be{03}
+guiding it to our world{75}{02}
+{01} {00}
+------------------
+{00002d16}
+{01}{08}Benedict's spirit must be{03}
+guiding it to our world{75}{02}
+{01} {00}
+------------------
+{00002d19}
+{01}{02}
+It's time to put {79}Ugly{7a} here{03}
+down for good.{02}
+{01} {00}
+------------------
+{00002d1c}
+{01}{00}
+------------------
+{00002d1f}
+{01}{01}But how{76}{02}
+{01} {00}
+------------------
+{00002d22}
+{01}{09}But how{76}{02}
+{01} {00}
+------------------
+{00002d25}
+{01}{05}But how{76}{02}
+{01} {00}
+------------------
+{00002d28}
+{01}{03}
+Look up ahead{75} There's an{03}
+Elder Sign we can take back{03}
+to Weathertop Hall{75}{02}
+We'll seal it behind us as{03}
+we go through,{02}
+thereby trapping Laplace's{03}
+Demon here in the{03}
+dimensional rift{75}{02}
+{01} {00}
+------------------
+{00002d2b}
+{01}{0a}Up ahead{75} I see an exit{03}
+through Weathertop Hall's{03}
+Elder Sign{75}{02}
+If we seal the Elder Sign{03}
+after we go through it,{02}
+we might be able to keep{03}
+Laplace's Demon stuck here{03}
+in the dimensional rift{75}{02}
+{01} {00}
+------------------
+{00002d2e}
+{01}{06}Look up ahead{75} There's an{03}
+exit through Weathertop{03}
+Hall's Elder Sign{75}{02}
+We should seal the elder{03}
+sign after we go through,{02}
+as it should trap Laplace's{03}
+Demon here in the{03}
+dimensional rift{75}{02}
+{01} {00}
+------------------
+{00002d31}
+{01}{08}Look up ahead{75} Weathertop{03}
+Hall's Elder Sign is our{03}
+only way out{75}{02}
+Let's seal that Elder Sign{03}
+after we go through it,{02}
+and trap that foul demon{03}
+here forever in the{03}
+dimensional rift{75}{02}
+{01} {00}
+------------------
+{00002d34}
+{01}{00}
+------------------
+{00002d37}
+{01}{01}Until then, we really{03}
+should try and get more{03}
+distance from this thing{75}{02}
+{01} {00}
+------------------
+{00002d3a}
+I returned to the Elder Sign{03}
+at Weathertop Hall.{02}
+{01} {00}
+------------------
+{00002d3d}
+{01}{03}
+Laplace's Demon is right on{03}
+our asses{75} Destroy the damn{03}
+Elder Sign already{75}{02}
+{01} {00}
+------------------
+{00002d40}
+{01}{0a}Laplace's Demon is still{03}
+back there{75} We gotta{03}
+destroy the Elder Sign{75}{02}
+{01} {00}
+------------------
+{00002d43}
+{01}{06}Now we must destroy the{03}
+Elder Sign, and seal the{03}
+demon on the other side.{02}
+{01} {00}
+------------------
+{00002d46}
+{01}{08}The Elder Sign must be{03}
+destroyed, so to entrap the{03}
+demon on the other side.{02}
+{01} {00}
+------------------
+{00002d49}
+It takes all of our bullets{03}
+and every bit of{03}
+supernatural power to do{02}
+so, but we destroy it.{02}
+{00}
+------------------
+{00002d4c}
+I give it all I've got.{02}
+{00}
+------------------
+{00002d4f}
+This is it.{02}
+{00}
+------------------
+{00002d52}
+It's sealed forever.{02}
+{00}
+------------------
+{00002d55}
+{01}{14}We meet again, warriors{03}
+from another world.{02}
+What{76} You just expected to{03}
+return here, settle down,{02}
+and live happily ever{03}
+after{a8} The End{76}{02}
+Ahahahaha{75} Oops{75}{02}
+{01} {00}
+------------------
+{00002d58}
+{01}{00}
+------------------
+{00002d5b}
+{01}{01}What horrible goal have you{03}
+in mind now, Louvain{76}{02}
+{01} {00}
+------------------
+{00002d5e}
+{01}{14}Why, I'm just going to kill{03}
+Laplace and take the demon{03}
+right from him{75} Brilliant{75}{02}
+{01} {00}
+------------------
+{00002d61}
+{01}{00}
+------------------
+{00002d64}
+{01}{01}What the hell for{76}{75}{02}
+{01} {00}
+------------------
+{00002d67}
+{01}{0e}{01}{0e}Crush them, Louvain{75} Do as I{03}
+command at once{75}{02}
+{01} {01}{14}Not just yet, Benedict...{02}
+{01} {01}{0e}If left alive, you know{03}
+they'll definitely get in{03}
+my way{75}{02}
+So if you won't kill them,{03}
+then I will{75}{02}
+{01} {01}{14}Stop, you fool{75} They are{03}
+not to be taken lightly.{02}
+They managed to defeat{03}
+Laplace, as you'll recall.{02}
+{01} {01}{0e}I've long since surpassed{03}
+Laplace's power. I can{03}
+easily eliminate them{75}{02}
+{01} {01}{14}That's enough, Benedict{75}{02}
+{01} {01}{0e}Damn it...{02}
+{01} {01}{14}You people from the other{03}
+world{a2} further conflict{03}
+between us is pointless.{02}
+The Elder Sign is sealed,{03}
+and you have no means to{03}
+return to your world.{02}
+Do you really wish to die{03}
+so far from home{76}{02}
+Don't you have loved ones{03}
+you want to see{76} My power{03}
+can send you back, oh yes.{02}
+How about it{76}{03}
+Return to Newcam{76}{02}
+{01} {00}
+------------------

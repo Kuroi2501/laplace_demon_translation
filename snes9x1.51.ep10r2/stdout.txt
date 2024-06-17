@@ -1,0 +1,7 @@
+Reading config file D:\Traduções\Laplace\snes9x1.51.ep10r2/snes9x.debugger.cfg
+Saving	config file	D:\Traduções\Laplace\snes9x1.51.ep10r2/snes9x.debugger.cfg
+No ROM file header found.
+Map_LoROMMap
+"LAPLACE'S DEMON" [checksum ok] LoROM, 16Mbits, Type: ROM+RAM+BAT, Mode: 20, TV: NTSC, S-RAM: 8KB, ROMId: ADLJ Company: 8C CRC32: 6105876C
+Saving	config file	D:\Traduções\Laplace\snes9x1.51.ep10r2/snes9x.debugger.cfg
+Saving	config file	D:\Traduções\Laplace\snes9x1.51.ep10r2/snes9x.debugger.cfg
