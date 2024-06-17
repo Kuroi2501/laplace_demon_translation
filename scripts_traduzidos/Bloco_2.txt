@@ -1,8 +1,3 @@
-{000019ff}
-Louvain, who joked at the{03}
-tragedy born from Laplace's{03}
-death.{00}
-------------------
 {00001a02}
 So much pain and loss, all{03}
 for a 'perfect' future.{00}
@@ -243,3 +238,4 @@ of the mythos.{00}
 ------------------
 {00001aa7}
 {00}
+------------------

@@ -269,7 +269,7 @@ void Dumper(char* caminho, struct bloco parametros){
 								"@@@@@@@@@@@@@@@@"
 								"@@@@@@@@@@@@@@@ ";
 								
-	if ((arquivo_binario = fopen("Laplace's Demon (English v.2.0).sfc", "rb")) == NULL){
+	if ((arquivo_binario = fopen("Laplace's Demon (English v.2.0)_dump.sfc", "rb")) == NULL){
 	    printf ("Erro na abertura do arquivo binário!\n\n");
 	    exit (0);
   	}

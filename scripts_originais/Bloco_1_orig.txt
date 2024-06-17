@@ -32,10 +32,10 @@ Druidic{4a}Boline{00}
 Italian{4a}Cinquedea{00}
 ------------------
 {00001021}
-Vedic Kila{4a}Phurba{00}
+Vedic{4a}Kila{4a}Phurba{00}
 ------------------
 {00001024}
-Javanese{4a}Kris Knife{00}
+Javanese{4a}Kris{4a}Knife{00}
 ------------------
 {00001027}
 Mortuary{4a}Sword{00}
@@ -68,10 +68,10 @@ Detective{4a}Special{00}
 M1905{4a}Carbine{00}
 ------------------
 {00001045}
-M10 Single{4a}Shotgun{00}
+M10{4a}Single{4a}Shotgun{00}
 ------------------
 {00001048}
-M21 Sub{7d}{4b}machinegun{00}
+M21{4a}Sub{7d}{4b}machinegun{00}
 ------------------
 {0000104b}
 Gabardine{4a}Trenchcoat{00}
@@ -95,7 +95,7 @@ Steel{4a}Bascinet{00}
 Metempsych{4a}Machine{00}
 ------------------
 {00001060}
-Dynamic{4a}Force Coil{00}
+Dynamic{4a}Force{4a}Coil{00}
 ------------------
 {00001063}
 Effluent{4a}Energist{00}
@@ -116,13 +116,13 @@ Rarest{4a}Adamantium{00}
 Standard{4a}Rounds{00}
 ------------------
 {00001075}
-12 gauge{4a}Shotshells{00}
+12{4a}gauge{4a}Shotshells{00}
 ------------------
 {00001078}
-Quick{7d}{4b}silver Shot{00}
+Quick{7d}{4b}silver{4a}Shot{00}
 ------------------
 {0000107b}
-Dry Cell{4a}Battery{00}
+Dry{4a}Cell{4a}Battery{00}
 ------------------
 {0000107e}
 Box{4a}Camera{00}
@@ -134,13 +134,13 @@ Brownie{4a}Camera{00}
 LePapillon{4a}Camera{00}
 ------------------
 {00001087}
-Roll Film{00}
+Roll{4a}Film{00}
 ------------------
 {0000108a}
 Electric{4a}Torch{00}
 ------------------
 {0000108d}
-Old Brass{4a}Compass{00}
+Old{4a}Brass{4a}Compass{00}
 ------------------
 {00001090}
 Weak{4a}Medicine{00}
@@ -173,7 +173,7 @@ Stimulant{4a}Ampoule{00}
 Antivenin{4a}Ampoule{00}
 ------------------
 {000010ae}
-Holy Roman{4a}Bible{00}
+Holy{4a}Roman{4a}Bible{00}
 ------------------
 {000010b1}
 Digging{4a}Spade{00}
@@ -182,7 +182,7 @@ Digging{4a}Spade{00}
 Shell{4a}Circlet{00}
 ------------------
 {000010b7}
-Mirror of{4a}Purity{00}
+Mirror{4a}of{4a}Purity{00}
 ------------------
 {000010ba}
 Silver{4a}Crucifix{00}
@@ -194,7 +194,7 @@ Orthodox{4a}Chalice{00}
 Bezoar{4a}Stone{00}
 ------------------
 {000010c3}
-Salts of{4a}Amun{00}
+Salts{4a}of{4a}Amun{00}
 ------------------
 {000010c6}
 Broken{4a}Camera{00}
@@ -209,7 +209,7 @@ Oriental's{4a}Notebook{00}
 Mythos{4a}Errata{00}
 ------------------
 {000010d2}
-Holy Oil{00}
+Holy{4a}Oil{00}
 ------------------
 {000010d5}
 Silver{4a}Bell{00}
@@ -218,7 +218,7 @@ Silver{4a}Bell{00}
 Skull{4a}Medal{00}
 ------------------
 {000010db}
-Gold Ring{00}
+Gold{4a}Ring{00}
 ------------------
 {000010de}
 Silver{4a}Ring{00}
@@ -239,7 +239,7 @@ Cerulean{4a}Ring{00}
 Xanthous{4a}Ring{00}
 ------------------
 {000010f0}
-Common Rue{4a}Herbs{00}
+Common{4a}Rue{4a}Herbs{00}
 ------------------
 {000010f3}
 Digitalis{4a}Herbs{00}
@@ -260,13 +260,13 @@ Ruby{4a}Gemstone{00}
 Pearl{4a}Gemstone{00}
 ------------------
 {00001105}
-Bag of{4a}Jewels{00}
+Bag{4a}of{4a}Jewels{00}
 ------------------
 {00001108}
-Wand of{4a}Warding{00}
+Wand{4a}of{4a}Warding{00}
 ------------------
 {0000110b}
-Staff of{4a}Sanctity{00}
+Staff{4a}of{4a}Sanctity{00}
 ------------------
 {0000110e}
 Gilder{4a}Verger{00}
@@ -287,7 +287,7 @@ Ship's{4a}Figurehead{00}
 Antique{4a}Compass{00}
 ------------------
 {00001120}
-Map of{4a}Weathertop{00}
+Map{4a}of{4a}Weathertop{00}
 ------------------
 {00001123}
 Cactus{4a}Extract{00}
@@ -296,22 +296,22 @@ Cactus{4a}Extract{00}
 Liquid{4a}Light{00}
 ------------------
 {00001129}
-Hand of{4a}Glory{00}
+Hand{4a}of{4a}Glory{00}
 ------------------
 {0000112c}
-Vial of{4a}Holy Water{00}
+Vial{4a}of{4a}Holy{4a}Water{00}
 ------------------
 {0000112f}
-Old Gold{4a}Doubloon{00}
+Old{4a}Gold{4a}Doubloon{00}
 ------------------
 {00001132}
-Ripe Old{4a}Cheese{00}
+Ripe{4a}Old{4a}Cheese{00}
 ------------------
 {00001135}
 Otherworld{4a}Annulus{00}
 ------------------
 {00001138}
-Ofuda of{4a}Protection{00}
+Ofuda{4a}of{4a}Protection{00}
 ------------------
 {0000113b}
 Princess's{4a}Bracelet{00}
@@ -329,7 +329,7 @@ Cataphract{4a}Bracelet{00}
 Hexacle{4a}Necklace{00}
 ------------------
 {0000114a}
-Eye of{4a}Horus{00}
+Eye{4a}of{4a}Horus{00}
 ------------------
 {0000114d}
 Phantasm{4a}Gloves{00}
@@ -338,10 +338,10 @@ Phantasm{4a}Gloves{00}
 Phantasm{4a}Cape{00}
 ------------------
 {00001153}
-Rune of{4a}Serenity{00}
+Rune{4a}of{4a}Serenity{00}
 ------------------
 {00001156}
-Rune of{4a}Courage{00}
+Rune{4a}of{4a}Courage{00}
 ------------------
 {00001159}
 Ocular{4a}Ring{00}
@@ -353,7 +353,7 @@ Wilde{4a}Spectacles{00}
 Laplace{4a}Regalia{00}
 ------------------
 {00001162}
-Elder Ring{00}
+Elder{4a}Ring{00}
 ------------------
 {00001165}
 Mistletoe{4a}Rod{00}
@@ -362,34 +362,34 @@ Mistletoe{4a}Rod{00}
 Corpse{4a}Delicti{00}
 ------------------
 {0000116b}
-Iron Key{00}
+Iron{4a}Key{00}
 ------------------
 {0000116e}
-Copper Key{00}
+Copper{4a}Key{00}
 ------------------
 {00001171}
-Silver Key{00}
+Silver{4a}Key{00}
 ------------------
 {00001174}
 Memento{4a}Ring{00}
 ------------------
 {00001177}
-Flame Key{00}
+Flame{4a}Key{00}
 ------------------
 {0000117a}
-Ring of{4a}Keys{00}
+Ring{4a}of{4a}Keys{00}
 ------------------
 {0000117d}
-Iron Heart{4a}of a Doll{00}
+Iron{4a}Heart{4a}of{4a}a{4a}Doll{00}
 ------------------
 {00001180}
-Cell Key{00}
+Cell{4a}Key{00}
 ------------------
 {00001183}
 Crystaline{4a}Fracture{00}
 ------------------
 {00001186}
-Skull of{4a}Chivalry{00}
+Skull{4a}of{4a}Chivalry{00}
 ------------------
 {00001189}
 Jeweled{4a}Scarab{00}
@@ -452,120 +452,120 @@ Princess's{4a}Missive{00}
 {00}
 ------------------
 {000011c5}
-Low{7d}power{39}weapon for{03}
+Low{7d}power{39}weapon{4a}for{03}
 anyone.{00}
 ------------------
 {000011c8}
-Unusable by{39}those gifted{03}
-with magic.{00}
+Unusable{4a}by{39}those{4a}gifted{03}
+with{4a}magic.{00}
 ------------------
 {000011cb}
-Stronger{39}than a{03}
+Stronger{39}than{4a}a{03}
 knife.{00}
 ------------------
 {000011ce}
-Stronger{39}than a{03}
+Stronger{39}than{4a}a{03}
 hatchet.{00}
 ------------------
 {000011d1}
-Unusable by{39}those gifted{03}
-with magic.{00}
+Unusable{4a}by{39}those{4a}gifted{03}
+with{4a}magic.{00}
 ------------------
 {000011d4}
-Stronger{39}than a{03}
+Stronger{39}than{4a}a{03}
 backsword.{00}
 ------------------
 {000011d7}
-Deals mental{39}damage.{00}
+Deals{4a}mental{39}damage.{00}
 ------------------
 {000011da}
-Unusable by{39}those gifted{03}
-with magic.{00}
+Unusable{4a}by{39}those{4a}gifted{03}
+with{4a}magic.{00}
 ------------------
 {000011dd}
-Deals mental{39}damage.{00}
+Deals{4a}mental{39}damage.{00}
 ------------------
 {000011e0}
-Stronger{39}than a {03}
+Stronger{39}than{4a}a{4a}{03}
 smallsword.{00}
 ------------------
 {000011e3}
-Spiritual{39}ability and{03}
-magic up.{00}
+Spiritual{39}ability{4a}and{03}
+magic{4a}up.{00}
 ------------------
 {000011e6}
-Deals mental{39}damage.{00}
+Deals{4a}mental{39}damage.{00}
 ------------------
 {000011e9}
 Deals{39}physical{03}
 damage.{00}
 ------------------
 {000011ec}
-For PIs,{39}Veterans, or{03}
+For{4a}PIs,{39}Veterans,{4a}or{03}
 Kusakabe.{00}
 ------------------
 {000011ef}
-Powerful.{39}Deals mental{03}
+Powerful.{39}Deals{4a}mental{03}
 damage.{00}
 ------------------
 {000011f2}
-Unusable by{39}those gifted{03}
-with magic.{00}
+Unusable{4a}by{39}those{4a}gifted{03}
+with{4a}magic.{00}
 ------------------
 {000011f5}
-Weapon for{39}Kusakabe.{03}
+Weapon{4a}for{39}Kusakabe.{03}
 {00}
 ------------------
 {000011f8}
-Unusable by{39}those gifted{03}
-with magic.{00}
+Unusable{4a}by{39}those{4a}gifted{03}
+with{4a}magic.{00}
 ------------------
 {000011fb}
-Mid{7d}power{39}weapon for{03}
+Mid{7d}power{39}weapon{4a}for{03}
 detectives.{00}
 ------------------
 {000011fe}
-Firearm.{39}Fires many{03}
+Firearm.{39}Fires{4a}many{03}
 shots.{00}
 ------------------
 {00001201}
-Detectives.{39}Fires many{03}
+Detectives.{39}Fires{4a}many{03}
 shots.{00}
 ------------------
 {00001204}
-Detectives{39}and dabblers{03}
+Detectives{39}and{4a}dabblers{03}
 only.{00}
 ------------------
 {00001207}
-Hits groups{39}of enemies.{03}
+Hits{4a}groups{39}of{4a}enemies.{03}
 {00}
 ------------------
 {0000120a}
-Detectives.{39}Fires many{03}
+Detectives.{39}Fires{4a}many{03}
 shots.{00}
 ------------------
 {0000120d}
-All classes.{39}Low defense.{03}
+All{4a}classes.{39}Low{4a}defense.{03}
 {00}
 ------------------
 {00001210}
-All classes.{39}Low defense.{03}
+All{4a}classes.{39}Low{4a}defense.{03}
 {00}
 ------------------
 {00001213}
-Unusable by{39}mediums and{03}
+Unusable{4a}by{39}mediums{4a}and{03}
 scientists.{00}
 ------------------
 {00001216}
-Unusable by{39}mediums and{03}
+Unusable{4a}by{39}mediums{4a}and{03}
 scientists.{00}
 ------------------
 {00001219}
-All classes.{39}Low defense.{03}
+All{4a}classes.{39}Low{4a}defense.{03}
 {00}
 ------------------
 {0000121c}
-Unusable by{39}mediums and{03}
+Unusable{4a}by{39}mediums{4a}and{03}
 scientists.{00}
 ------------------
 {0000121f}
@@ -604,152 +604,152 @@ Device.{03}
 {00}
 ------------------
 {00001234}
-Ammo for{39}firearms.{00}
+Ammo{4a}for{39}firearms.{00}
 ------------------
 {00001237}
-Ammo for{39}shotgun.{00}
+Ammo{4a}for{39}shotgun.{00}
 ------------------
 {0000123a}
-Ammo for{39}firearms.{03}
-1.5x damage.{00}
+Ammo{4a}for{39}firearms.{03}
+1.5x{4a}damage.{00}
 ------------------
 {0000123d}
 Machinery{39}tool.{03}
 {00}
 ------------------
 {00001240}
-Photograph{39}tool. Act{03}
-in battle.{00}
+Photograph{39}tool.{4a}Act{03}
+in{4a}battle.{00}
 ------------------
 {00001243}
-Photograph{39}tool. Act{03}
-in battle.{00}
+Photograph{39}tool.{4a}Act{03}
+in{4a}battle.{00}
 ------------------
 {00001246}
-Photograph{39}tool. Act{03}
-in battle.{00}
+Photograph{39}tool.{4a}Act{03}
+in{4a}battle.{00}
 ------------------
 {00001249}
 Photograph{39}tool.{00}
 ------------------
 {0000124c}
-Provides a{39}source of{03}
+Provides{4a}a{39}source{4a}of{03}
 light.{00}
 ------------------
 {0000124f}
 Displays{39}location{03}
-on maps.{00}
+on{4a}maps.{00}
 ------------------
 {00001252}
-Return HP.{03}
-Effect is{39}low.{00}
+Return{4a}HP.{03}
+Effect{4a}is{39}low.{00}
 ------------------
 {00001255}
-Return HP.{03}
-Effect is{39}medium.{00}
+Return{4a}HP.{03}
+Effect{4a}is{39}medium.{00}
 ------------------
 {00001258}
-Return HP.{03}
-Effect is{39}high.{00}
+Return{4a}HP.{03}
+Effect{4a}is{39}high.{00}
 ------------------
 {0000125b}
-Return HP.{03}
-Usable in{39}battle.{00}
+Return{4a}HP.{03}
+Usable{4a}in{39}battle.{00}
 ------------------
 {0000125e}
-Return MP.{03}
-Effect is{39}low.{00}
+Return{4a}MP.{03}
+Effect{4a}is{39}low.{00}
 ------------------
 {00001261}
-Return MP.{03}
-Effect is{39}medium.{00}
+Return{4a}MP.{03}
+Effect{4a}is{39}medium.{00}
 ------------------
 {00001264}
-Return MP.{03}
-Effect is{39}high.{00}
+Return{4a}MP.{03}
+Effect{4a}is{39}high.{00}
 ------------------
 {00001267}
 Restores{03}
-10 to{39}Max MP.{00}
+10{4a}to{39}Max{4a}MP.{00}
 ------------------
 {0000126a}
-Treats the{39}effects of{03}
+Treats{4a}the{39}effects{4a}of{03}
 paralysis.{00}
 ------------------
 {0000126d}
-Treats the{39}effects of{03}
+Treats{4a}the{39}effects{4a}of{03}
 poisoning.{00}
 ------------------
 {00001270}
-King James{39}Version of{03}
-the Bible.{00}
+King{4a}James{39}Version{4a}of{03}
+the{4a}Bible.{00}
 ------------------
 {00001273}
-You dig up{39}the ground{03}
-with this.{00}
+You{4a}dig{4a}up{39}the{4a}ground{03}
+with{4a}this.{00}
 ------------------
 {00001276}
-Warp to an{39}Elder Sign{03}
-with this.{00}
+Warp{4a}to{4a}an{39}Elder{4a}Sign{03}
+with{4a}this.{00}
 ------------------
 {00001279}
-Drive away{39}a creature{03}
-with this.{00}
+Drive{4a}away{39}a{4a}creature{03}
+with{4a}this.{00}
 ------------------
 {0000127c}
-Glows with{39}mysterious{03}
+Glows{4a}with{39}mysterious{03}
 light.{00}
 ------------------
 {0000127f}
-Rusted old{39}chalice.{00}
+Rusted{4a}old{39}chalice.{00}
 ------------------
 {00001282}
-Proof from{39}poisoning.{00}
+Proof{4a}from{39}poisoning.{00}
 ------------------
 {00001285}
-Evil power{39}fades from{03}
+Evil{4a}power{39}fades{4a}from{03}
 this.{00}
 ------------------
 {00001288}
-This thing{39}is broken.{00}
+This{4a}thing{39}is{4a}broken.{00}
 ------------------
 {0000128b}
-A gemstone{39}to restore{03}
-the mind.{00}
+A{4a}gemstone{39}to{4a}restore{03}
+the{4a}mind.{00}
 ------------------
 {0000128e}
-A leather{7d}{39}bound book{03}
-of texts.{00}
+A{4a}leather{7d}{39}bound{4a}book{03}
+of{4a}texts.{00}
 ------------------
 {00001291}
-Scrawled{39}mythos in{7d}{03}
+Scrawled{39}mythos{4a}in{7d}{03}
 cantation.{00}
 ------------------
 {00001294}
-Anoint the{39}enemy with{03}
+Anoint{4a}the{39}enemy{4a}with{03}
 blindness.{00}
 ------------------
 {00001297}
-Confuse an{39}evil mind{03}
-with this.{00}
+Confuse{4a}an{39}evil{4a}mind{03}
+with{4a}this.{00}
 ------------------
 {0000129a}
-Entices{39}evil foes{03}
-to you.{00}
+Entices{39}evil{4a}foes{03}
+to{4a}you.{00}
 ------------------
 {0000129d}
-A valuable{39}thing.{00}
+A{4a}valuable{39}thing.{00}
 ------------------
 {000012a0}
-Attack to{39}an enemy's{03}
+Attack{4a}to{39}an{4a}enemy's{03}
 mind.{00}
 ------------------
 {000012a3}
-Regenerate{39}a physical{03}
+Regenerate{39}a{4a}physical{03}
 injury.{00}
 ------------------
 {000012a6}
-Regenerate{39}a physical{03}
+Regenerate{39}a{4a}physical{03}
 injury.{00}
 ------------------
 {000012a9}
@@ -765,173 +765,173 @@ Enhances{39}perceptual{03}
 awareness.{00}
 ------------------
 {000012b2}
-Proof from{39}paralysis.{00}
+Proof{4a}from{39}paralysis.{00}
 ------------------
 {000012b5}
 Embiggens{39}physical{03}
 health.{00}
 ------------------
 {000012b8}
-Its scream{39}lets you{03}
-flee foes.{00}
+Its{4a}scream{39}lets{4a}you{03}
+flee{4a}foes.{00}
 ------------------
 {000012bb}
-A gemstone{39}to afflict{03}
-the mind.{00}
+A{4a}gemstone{39}to{4a}afflict{03}
+the{4a}mind.{00}
 ------------------
 {000012be}
-A gemstone{39}to destroy{03}
-a thing.{00}
+A{4a}gemstone{39}to{4a}destroy{03}
+a{4a}thing.{00}
 ------------------
 {000012c1}
-Inflicts{39}harm upon{03}
-a victim.{00}
+Inflicts{39}harm{4a}upon{03}
+a{4a}victim.{00}
 ------------------
 {000012c4}
-Can induce{39}paralysis{03}
-to many.{00}
+Can{4a}induce{39}paralysis{03}
+to{4a}many.{00}
 ------------------
 {000012c7}
 Holds{39}jewels{03}
-within its{39}folds.{00}
+within{4a}its{39}folds.{00}
 ------------------
 {000012ca}
-Shield for{39}friendly{03}
+Shield{4a}for{39}friendly{03}
 minds.{00}
 ------------------
 {000012cd}
-Shield for{39}friendly{03}
+Shield{4a}for{39}friendly{03}
 minds.{00}
 ------------------
 {000012d0}
-Use mythos{39}to protect{03}
-the group.{00}
+Use{4a}mythos{39}to{4a}protect{03}
+the{4a}group.{00}
 ------------------
 {000012d3}
-A quite{39}beautiful{03}
+A{4a}quite{39}beautiful{03}
 brooch.{00}
 ------------------
 {000012d6}
-It bears{39}some small{03}
+It{4a}bears{39}some{4a}small{03}
 engraving.{00}
 ------------------
 {000012d9}
-Damage to{39}an enemy's{03}
+Damage{4a}to{39}an{4a}enemy's{03}
 mind.{00}
 ------------------
 {000012dc}
-Lady luck{76}{39}Or a sea{7d}{03}
+Lady{4a}luck{76}{39}Or{4a}a{4a}sea{7d}{03}
 goddess{76}{00}
 ------------------
 {000012df}
-Aged but{39}still{03}
+Aged{4a}but{39}still{03}
 useful.{00}
 ------------------
 {000012e2}
-A map.{00}
+A{4a}map.{00}
 ------------------
 {000012e5}
 Completely{39}revitalize{03}
-a person.{00}
+a{4a}person.{00}
 ------------------
 {000012e8}
-Water that{39}sparkles.{00}
+Water{4a}that{39}sparkles.{00}
 ------------------
 {000012eb}
-Used to{39}belong to{03}
+Used{4a}to{39}belong{4a}to{03}
 somebody.{00}
 ------------------
 {000012ee}
-A solution{39}for evil.{00}
+A{4a}solution{39}for{4a}evil.{00}
 ------------------
 {000012f1}
-It's your{39}lucky day{75}{00}
+It's{4a}your{39}lucky{4a}day{75}{00}
 ------------------
 {000012f4}
-It stinks,{39}so it must{03}
-be good.{00}
+It{4a}stinks,{39}so{4a}it{4a}must{03}
+be{4a}good.{00}
 ------------------
 {000012f7}
-Inflicts{39}pain upon{03}
+Inflicts{39}pain{4a}upon{03}
 many.{00}
 ------------------
 {000012fa}
-Shield for{39}friendly{03}
+Shield{4a}for{39}friendly{03}
 minds.{00}
 ------------------
 {000012fd}
-Cassandra{39}heals body{03}
-and mind.{00}
+Cassandra{39}heals{4a}body{03}
+and{4a}mind.{00}
 ------------------
 {00001300}
-Bring back{39}ability to{03}
+Bring{4a}back{39}ability{4a}to{03}
 fight.{00}
 ------------------
 {00001303}
-Protection{39}from minor{03}
+Protection{39}from{4a}minor{03}
 injuries.{00}
 ------------------
 {00001306}
-Protection{39}from major{03}
+Protection{39}from{4a}major{03}
 injuries.{00}
 ------------------
 {00001309}
-Protection{39}from minor{03}
+Protection{39}from{4a}minor{03}
 stress.{00}
 ------------------
 {0000130c}
-Protection{39}from major{03}
+Protection{39}from{4a}major{03}
 stress.{00}
 ------------------
 {0000130f}
-Dodge away{39}from slow{03}
+Dodge{4a}away{39}from{4a}slow{03}
 attacks.{00}
 ------------------
 {00001312}
-Dodge away{39}from quick{03}
+Dodge{4a}away{39}from{4a}quick{03}
 attacks.{00}
 ------------------
 {00001315}
-Grants a{39}modicum of{03}
-resistance{39}to a user.{00}
+Grants{4a}a{39}modicum{4a}of{03}
+resistance{39}to{4a}a{4a}user.{00}
 ------------------
 {00001318}
 Grants{39}moderate{03}
-resistance{39}to a user.{00}
+resistance{39}to{4a}a{4a}user.{00}
 ------------------
 {0000131b}
-Find Clue{39}becomes{03}
-tied to{39}growth.{00}
+Find{4a}Clue{39}becomes{03}
+tied{4a}to{39}growth.{00}
 ------------------
 {0000131e}
-Fast Talk{39}becomes{03}
-tied to{39}growth.{00}
+Fast{4a}Talk{39}becomes{03}
+tied{4a}to{39}growth.{00}
 ------------------
 {00001321}
-The castle{39}grants its{03}
+The{4a}castle{39}grants{4a}its{03}
 secrets.{00}
 ------------------
 {00001324}
-Elder gods{39}bound this{03}
-to Louvain.{00}
+Elder{4a}gods{39}bound{4a}this{03}
+to{4a}Louvain.{00}
 ------------------
 {00001327}
-Holy Roman{39}branch. For{03}
+Holy{4a}Roman{39}branch.{4a}For{03}
 exorcisms.{00}
 ------------------
 {0000132a}
-This isn't{39}alive.{00}
+This{4a}isn't{39}alive.{00}
 ------------------
 {0000132d}
-A key used{39}on the 1st{03}
+A{4a}key{4a}used{39}on{4a}the{4a}1st{03}
 floor.{00}
 ------------------
 {00001330}
-2nd floor{39}key. Found{03}
-in drawer.{00}
+2nd{4a}floor{39}key.{4a}Found{03}
+in{4a}drawer.{00}
 ------------------
 {00001333}
-Silver key{39}out of the{03}
+Silver{4a}key{39}out{4a}of{4a}the{03}
 basement.{00}
 ------------------
 {00001336}
@@ -939,43 +939,43 @@ Weathertop{39}matriarch's{03}
 ring.{00}
 ------------------
 {00001339}
-Weird key{39}of unknown{03}
+Weird{4a}key{39}of{4a}unknown{03}
 origin.{00}
 ------------------
 {0000133c}
-Useful for{39}putting up{03}
-with keys.{00}
+Useful{4a}for{39}putting{4a}up{03}
+with{4a}keys.{00}
 ------------------
 {0000133f}
-Its throb{7d}{39}bing makes{03}
-you sick.{00}
+Its{4a}throb{7d}{39}bing{4a}makes{03}
+you{4a}sick.{00}
 ------------------
 {00001342}
-Needed for{39}entry into{03}
-the gaol.{00}
+Needed{4a}for{39}entry{4a}into{03}
+the{4a}gaol.{00}
 ------------------
 {00001345}
-Seems like{39}this could{03}
-be a key.{00}
+Seems{4a}like{39}this{4a}could{03}
+be{4a}a{4a}key.{00}
 ------------------
 {00001348}
-The key to{39}Benedict's{03}
+The{4a}key{4a}to{39}Benedict's{03}
 prison.{00}
 ------------------
 {0000134b}
-Odd object{39}that might{03}
-be a key.{00}
+Odd{4a}object{39}that{4a}might{03}
+be{4a}a{4a}key.{00}
 ------------------
 {0000134e}
-Opens path{39}hiding the{03}
+Opens{4a}path{39}hiding{4a}the{03}
 emperor.{00}
 ------------------
 {00001351}
-This stuff{39}goes waaay{03}
+This{4a}stuff{39}goes{4a}waaay{03}
 back.{00}
 ------------------
 {00001354}
-Memorandum{39}written by{03}
+Memorandum{39}written{4a}by{03}
 Benedict.{00}
 ------------------
 {00001357}
@@ -986,7 +986,7 @@ research.{00}
 Frightened{39}girl.{00}
 ------------------
 {0000135d}
-From Lady{39}Cassandra.{00}
+From{4a}Lady{39}Cassandra.{00}
 ------------------
 {00001360}
 {00}
@@ -1013,25 +1013,25 @@ From Lady{39}Cassandra.{00}
 fully.{00}
 ------------------
 {00001378}
- points.{00}
+{4a}points.{00}
 ------------------
 {0000137b}
-'s HP{03}
-recovered {00}
+'s{4a}HP{03}
+recovered{4a}{00}
 ------------------
 {0000137e}
-'s MP{03}
-recovered {00}
+'s{4a}MP{03}
+recovered{4a}{00}
 ------------------
 {00001381}
- recovered{03}
+{4a}recovered{03}
 {00}
 ------------------
 {00001384}
- HP.{00}
+{4a}HP.{00}
 ------------------
 {00001387}
-We weren't{03}
+We{4a}weren't{03}
 carrying{03}
 anything.{00}
 ------------------
@@ -1039,378 +1039,362 @@ anything.{00}
 {05}{01}Nothing{05}{00}
 ------------------
 {0000138d}
-{05}{02}
-Weapons or{03}
-tools used{03}
-by hand.{05}{00}
+{02}
+Weapons{4a}or{03}
+tools{4a}used{03}
+by{4a}hand.{05}{00}
 ------------------
 {00001390}
-{05}{02}
 Protective{03}
-wear for{03}
-the body.{05}{00}
+wear{4a}for{03}
+the{4a}body.{05}{00}
 ------------------
 {00001393}
-{05}{02}
-Protective{03}
-wear for{03}
-the head.{05}{00}
+rotective{03}
+wear{4a}for{03}
+the{4a}head.{05}{00}
 ------------------
 {00001396}
-{05}{02}
-Decorative{03}
+corative{03}
 accessory.{05}{00}
 ------------------
 {00001399}
-{05}{01}Nothing{05}{00}
+hing{05}{00}
 ------------------
 {0000139c}
-It won't work.{02}
+'t{4a}work.{02}
 {00}
 ------------------
 {0000139f}
-No effect.{02}
+ect.{02}
 {00}
 ------------------
 {000013a2}
-Do nothing{03}
-for now{76}{00}
+hing{03}
+for{4a}now{76}{00}
 ------------------
 {000013a5}
-'s   {03}
-body was{39}cured of{03}
-the poison.{02}
+body{4a}was{39}cured{4a}of{03}
+the{4a}poison.{02}
 {00}
 ------------------
 {000013a8}
-'s   {03}
-paralysis{39}was cured.{02}
+paralysis{39}was{4a}cured.{02}
 {00}
 ------------------
 {000013ab}
-'s   {03}
-max MP{39}was{03}
+max{4a}MP{39}was{03}
 restored.{02}
 {00}
 ------------------
 {000013ae}
-'s   {03}
-HP was{39}completely {03}
-restored. {02}
+HP{4a}was{39}completely{4a}{03}
+restored.{4a}{02}
 {00}
 ------------------
 {000013b1}
-'s   {39}max health{03}
+max{4a}health{03}
 increased.{02}
 {00}
 ------------------
 {000013b4}
-'s   {03}
-MP was{39}completely{03}
+MP{4a}was{39}completely{03}
 restored.{02}
 {00}
 ------------------
 {000013b7}
-'s   {03}
 willpower{39}increased.{02}
 {00}
 ------------------
 {000013ba}
-'s   {03}
 strength{39}increased.{02}
 {00}
 ------------------
 {000013bd}
-'s   {03}
 perception{39}increased.{02}
 {00}
 ------------------
 {000013c0}
-'s   {03}
 fate{39}increased.{02}
 {00}
 ------------------
 {000013c3}
-{03}
-was{39}revived.{02}
+evived.{02}
 {00}
 ------------------
 {000013c6}
-'s   {03}
-HP and MP{39}completely{03}
+HP{4a}and{4a}MP{39}completely{03}
 restored.{02}
 {00}
 ------------------
 {000013c9}
-'s   {03}
-HP was{39}restored by{03}
+HP{4a}was{39}restored{4a}by{03}
 {00}
 ------------------
 {000013cc}
- points{75}{02}
+s{75}{02}
 {00}
 ------------------
 {000013cf}
-'s   {39}MP was{03}
-restored by{39}{00}
+MP{4a}was{03}
+restored{4a}by{39}{00}
 ------------------
 {000013d2}
- can be treated{03}
-for {eb}{04}{03}
-. Is this okay{76}{02}
+e{4a}treated{03}
+for{4a}{eb}{04}{03}
+.{4a}Is{4a}this{4a}okay{76}{02}
 {00}
 ------------------
 {000013d5}
-Treatment complete.{02}
+ent{4a}complete.{02}
 {00}
 ------------------
 {000013d8}
-'s level went up.{02}
+el{4a}went{4a}up.{02}
 {00}
 ------------------
 {000013db}
-Mythos knowledge creeps in.{02}
-Learned Death's Sickle{03}
+{4a}knowledge{4a}creeps{4a}in.{02}
+Learned{4a}Death's{4a}Sickle{03}
 mythos.{02}
 {00}
 ------------------
 {000013de}
-Mythos knowledge creeps in.{02}
-Learned Full Restore mythos.{02}
+{4a}knowledge{4a}creeps{4a}in.{02}
+Learned{4a}Full{4a}Restore{4a}mythos.{02}
 {00}
 ------------------
 {000013e1}
-Mythos knowledge creeps in.{02}
-Learned Revive mythos.{02}
+{4a}knowledge{4a}creeps{4a}in.{02}
+Learned{4a}Revive{4a}mythos.{02}
 {00}
 ------------------
 {000013e4}
-Mythos knowledge creeps in.{02}
-Learned Phlogiston{03}
-Explosion mythos.{02}
+{4a}knowledge{4a}creeps{4a}in.{02}
+Learned{4a}Phlogiston{03}
+Explosion{4a}mythos.{02}
 {00}
 ------------------
 {000013e7}
-This incantation is known.{02}
+ncantation{4a}is{4a}known.{02}
 {00}
 ------------------
 {000013ea}
-Massachusetts, 1924.{00}
+husetts,{4a}1924.{00}
 ------------------
 {000013ed}
-Who was the stranger seen{03}
-venturing into Weathertop{03}
-Hall that stormy night.{06}.{06}{76}{06}{00}
+s{4a}the{4a}stranger{4a}seen{03}
+venturing{4a}into{4a}Weathertop{03}
+Hall{4a}that{4a}stormy{4a}night.{06}.{06}{76}{06}{00}
 ------------------
 {000013f0}
-Where did he come from, and{03}
-why was he the one to unlock{03}
-its doors.{06}.{06}{76}{06}{06}{00}
+did{4a}he{4a}come{4a}from,{4a}and{03}
+why{4a}was{4a}he{4a}the{4a}one{4a}to{4a}unlock{03}
+its{4a}doors.{06}.{06}{76}{06}{06}{00}
 ------------------
 {000013f3}
-What kind of man is he{76}{00}
+ind{4a}of{4a}man{4a}is{4a}he{76}{00}
 ------------------
 {000013f6}
-And that is how we all got{03}
+at{4a}is{4a}how{4a}we{4a}all{4a}got{03}
 killed.{06}.{06}.{06}{00}
 ------------------
 {000013f9}
-Skill EXP{00}
+EXP{00}
 ------------------
 {000013fc}
-Ghuh{76}{00}
-------------------
-{000013ff}
 Max{00}
 ------------------
+{000013ff}
+huddered{4a}with{03}
+terror.{02}
+{00}
+------------------
 {00001402}
- shuddered with{03}
+ered{4a}with{03}
 terror.{02}
 {00}
 ------------------
 {00001405}
- lost all grip on{03}
-reality and became insane.{02}
+all{4a}grip{4a}on{03}
+reality{4a}and{4a}became{4a}insane.{02}
 {00}
 ------------------
 {00001408}
- is insane.{02}
+sane.{02}
 {00}
 ------------------
 {0000140b}
-We all died.{02}
+{4a}died.{02}
 {00}
 ------------------
 {0000140e}
- is out of the fight.{02}
+t{4a}of{4a}the{4a}fight.{02}
 {00}
 ------------------
 {00001411}
-Emotion Control{00}
+n{4a}Control{00}
 ------------------
 {00001414}
-Emotion Control{00}
+n{4a}Control{00}
 ------------------
 {00001417}
-'s duration{03}
-has expired.{02}
+ation{03}
+has{4a}expired.{02}
 {00}
 ------------------
 {0000141a}
-Projected{03}
-an air of{03}
+ted{03}
+an{4a}air{4a}of{03}
 confidence.{02}
 {00}
 ------------------
 {0000141d}
-Everyone seems fine.{02}
+ne{4a}seems{4a}fine.{02}
 {00}
 ------------------
 {00001420}
-Not enough money...{02}
+ough{4a}money...{02}
 {00}
 ------------------
 {00001423}
- received {00}
+ved{4a}{00}
 ------------------
 {00001426}
-took{00}
+points{03}
+of{4a}damage{75}{02}
+{00}
 ------------------
 {00001429}
- points{03}
-of damage{75}{02}
+s{03}
+of{4a}damage{75}{02}
 {00}
 ------------------
 {0000142c}
-Castle 1F {00}
+{4a}1F{4a}{00}
 ------------------
 {0000142f}
-Castle 2F {00}
+{4a}2F{4a}{00}
 ------------------
 {00001432}
-Castle 3F {00}
+{4a}3F{4a}{00}
 ------------------
 {00001435}
-Castle 4F {00}
+{4a}4F{4a}{00}
 ------------------
 {00001438}
-Hall      {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {0000143b}
-.{03}
-Your soul is magnitude {00}
+{4a}soul{4a}is{4a}magnitude{4a}{00}
 ------------------
 {0000143e}
-.{03}
-{02}
-After gaining {00}
+er{4a}gaining{4a}{00}
 ------------------
 {00001441}
-{03}
-experience, it will rise.{02}
+ience,{4a}it{4a}will{4a}rise.{02}
 {00}
 ------------------
 {00001444}
-, you have real{03}
+have{4a}real{03}
 heart.{02}
-But don't always follow it{03}
-or you could get killed.{02}
+But{4a}don't{4a}always{4a}follow{4a}it{03}
+or{4a}you{4a}could{4a}get{4a}killed.{02}
 {00}
 ------------------
 {00001447}
-{03}
-experience.{02}
+ience.{02}
 {00}
 ------------------
 {0000144a}
-1000{00}
+{7d}{00}
 ------------------
 {0000144d}
-{7d}{7d}{00}
+rit{00}
 ------------------
 {00001450}
-Spirit{00}
+{00}
 ------------------
 {00001453}
-Deism{00}
-------------------
-{00001456}
 too{03}
 inexperienced.{02}
 {00}
 ------------------
+{00001456}
+experienced.{02}
+{00}
+------------------
 {00001459}
-Other Side{00}
+Side{00}
 ------------------
 {0000145c}
-Undercroft{00}
+roft{00}
 ------------------
 {0000145f}
-{7f}{00}
+s{4a}{4a}{4a}{4a}{4a}{00}
 ------------------
 {00001462}
-Notes     {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {00001465}
-Memo      {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {00001468}
-Diary     {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {0000146b}
-Histories {00}
+ies{4a}{00}
 ------------------
 {0000146e}
-I had no ammunition and no{03}
-supernatural powers left.{02}
-I reached out and took a{03}
-bit of my own spirit, and{03}
-thrust it into the Sign.{02}
-It was destroyed.{02}
+no{4a}ammunition{4a}and{4a}no{03}
+supernatural{4a}powers{4a}left.{02}
+I{4a}reached{4a}out{4a}and{4a}took{4a}a{03}
+bit{4a}of{4a}my{4a}own{4a}spirit,{4a}and{03}
+thrust{4a}it{4a}into{4a}the{4a}Sign.{02}
+It{4a}was{4a}destroyed.{02}
 {00}
 ------------------
 {00001471}
-It has{03}
+{03}
 lost{03}
 effect.{02}
 {00}
 ------------------
 {00001474}
-{05}{02}
-Sound{05}{00}
+d{05}{00}
 ------------------
 {00001477}
-Stereo   Mono{00}
+{4a}{4a}Mono{00}
 ------------------
 {0000147a}
-{05}{02}
-Message Speed{05}{00}
+ge{4a}Speed{05}{00}
 ------------------
 {0000147d}
-1 2 3{00}
+vocation{03}
+failed.{02}
+{00}
 ------------------
 {00001480}
-Invocation{03}
+on{03}
 failed.{02}
 {00}
 ------------------
 {00001483}
- Finished{75}{02}
+d{75}{02}
 {00}
 ------------------
 {00001486}
-fully.{00}
+oints.{00}
 ------------------
 {00001489}
-points.{00}
+'s{4a}HP{03}
+recovered{00}
 ------------------
 {0000148c}
-'s HP{03}
-recovered{00}
+covered{00}
 ------------------
 {0000148f}
-'s MP{03}
-recovered{00}
+covered{00}
 ------------------
 {00001492}
 {00}
@@ -1422,1231 +1406,1176 @@ recovered{00}
 {00}
 ------------------
 {0000149b}
-{00}
-------------------
-{0000149e}
-{00}
-------------------
-{000014a1}
-{00}
-------------------
-{000014a4}
-{00}
-------------------
-{000014a7}
-{00}
-------------------
-{000014aa}
-{00}
-------------------
-{000014ad}
-{00}
-------------------
-{000014b0}
-{00}
-------------------
-{000014b3}
 Aura{4a}Fist{00}
 ------------------
+{0000149e}
+ura{4a}Fist{00}
+------------------
+{000014a1}
+ra{4a}Fist{00}
+------------------
+{000014a4}
+a{4a}Fist{00}
+------------------
+{000014a7}
+{4a}Fist{00}
+------------------
+{000014aa}
+Fist{00}
+------------------
+{000014ad}
+ist{00}
+------------------
+{000014b0}
+st{00}
+------------------
+{000014b3}
+t{00}
+------------------
 {000014b6}
-Supply{4a}Mythos{00}
+ythos{00}
 ------------------
 {000014b9}
-Treat{4a}Injury{00}
+jury{00}
 ------------------
 {000014bc}
-Shift{4a}Mythos{00}
+thos{00}
 ------------------
 {000014bf}
-Sleep{00}
+ra{4a}Knife{00}
 ------------------
 {000014c2}
-Aura{4a}Knife{00}
+fe{00}
 ------------------
 {000014c5}
-Psychic{4a}Shield{00}
+Shield{00}
 ------------------
 {000014c8}
-Recover{4a}Poison{00}
+Poison{00}
 ------------------
 {000014cb}
-Enchant{4a}Weapon{00}
+Weapon{00}
 ------------------
 {000014ce}
-Ethereal{4a}Knife{00}
+{4a}Knife{00}
 ------------------
 {000014d1}
-Aura{4a}Shield{00}
+eld{00}
 ------------------
 {000014d4}
-Confuse{00}
-------------------
-{000014d7}
 Dispel{00}
 ------------------
+{000014d7}
+motion{4a}Control{00}
+------------------
 {000014da}
-Emotion{4a}Control{00}
+Control{00}
 ------------------
 {000014dd}
-Ethereal{4a}Arrow{00}
+{4a}Arrow{00}
 ------------------
 {000014e0}
-Cure{4a}Injury{00}
+ury{00}
 ------------------
 {000014e3}
-Hold{00}
+a{4a}Sword{00}
 ------------------
 {000014e6}
-Aura{4a}Sword{00}
+rd{00}
 ------------------
 {000014e9}
-Psychic{4a}Barrier{00}
+Barrier{00}
 ------------------
 {000014ec}
-Exorcism{00}
+{00}
 ------------------
 {000014ef}
-Ethereal{4a}Sword{00}
+{4a}Sword{00}
 ------------------
 {000014f2}
-Aura{4a}Barrier{00}
+rier{00}
 ------------------
 {000014f5}
-Heal{4a}Injury{00}
+ury{00}
 ------------------
 {000014f8}
-Gungnir{00}
-------------------
-{000014fb}
 Aegis{00}
 ------------------
+{000014fb}
+nginus{00}
+------------------
 {000014fe}
-Longinus{00}
+{00}
 ------------------
 {00001501}
-Sigurd{00}
+lixir{00}
 ------------------
 {00001504}
-Elixir{00}
+anish{00}
 ------------------
 {00001507}
-Banish{00}
+ludgeon{00}
 ------------------
 {0000150a}
-Bludgeon{00}
+{00}
 ------------------
 {0000150d}
-Slumber{00}
-------------------
-{00001510}
 Slice{00}
 ------------------
+{00001510}
+aos{00}
+------------------
 {00001513}
-Chaos{00}
+ash{00}
 ------------------
 {00001516}
-Smash{00}
+nd{00}
 ------------------
 {00001519}
-Bind{00}
+ify{00}
 ------------------
 {0000151c}
-Purify{00}
+eal{00}
 ------------------
 {0000151f}
-Heal{00}
+l{00}
 ------------------
 {00001522}
-Kill{00}
+troy{00}
 ------------------
 {00001525}
-Destroy{00}
+Flame{4a}of{4a}N'ga{00}
 ------------------
 {00001528}
-Flame of{4a}N'ga{00}
+{4a}N'ga{00}
 ------------------
 {0000152b}
-Cloud of{4a}Protection{00}
+{4a}Protection{00}
 ------------------
 {0000152e}
-Restore{4a}Injury{00}
+Injury{00}
 ------------------
 {00001531}
-Mythos{4a}Endowment{00}
+ndowment{00}
 ------------------
 {00001534}
-Corrosion{4a}of Iig{00}
+n{4a}of{4a}Iig{00}
 ------------------
 {00001537}
-Terror of{4a}Thu Muhlu{00}
+f{4a}Thu{4a}Muhlu{00}
 ------------------
 {0000153a}
-Blindness{4a}of Gaunte{00}
+s{4a}of{4a}Gaunte{00}
 ------------------
 {0000153d}
-Electrical{4a}Shock{00}
+al{4a}Shock{00}
 ------------------
 {00001540}
-Sanctify{4a}Armament{00}
+{4a}Armament{00}
 ------------------
 {00001543}
-Mythos{4a}Desecration{00}
+esecration{00}
 ------------------
 {00001546}
-Blood{4a}Sucker{00}
+cker{00}
 ------------------
 {00001549}
-Psyche{4a}Eater{00}
+ater{00}
 ------------------
 {0000154c}
-Poison{4a}Spray{00}
+pray{00}
 ------------------
 {0000154f}
-Emotion{4a}Control{00}
+Control{00}
 ------------------
 {00001552}
-Fog of{4a}Suffocation{00}
+uffocation{00}
 ------------------
 {00001555}
-Heal{4a}the Body{00}
+{4a}Body{00}
 ------------------
 {00001558}
-Wrath{4a}of God{00}
+{4a}God{00}
 ------------------
 {0000155b}
-Death's{4a}Sickle{00}
+Sickle{00}
 ------------------
 {0000155e}
-Full{4a}Restore{00}
+tore{00}
 ------------------
 {00001561}
-Revive{00}
+hlogiston{4a}Explosion{00}
 ------------------
 {00001564}
-Phlogiston{4a}Explosion{00}
+on{4a}Explosion{00}
 ------------------
 {00001567}
-Magnetic{4a}Line{00}
+{4a}Line{00}
 ------------------
 {0000156a}
-High{7d}Freq{4a}Wave{00}
+q{4a}Wave{00}
 ------------------
 {0000156d}
-Astral{4a}Beam{00}
+eam{00}
 ------------------
 {00001570}
-Strange{4a}Beam{00}
+Beam{00}
 ------------------
 {00001573}
-Shockwave{00}
+e{00}
 ------------------
 {00001576}
-Ether{4a}Heat Beam{00}
+at{4a}Beam{00}
 ------------------
 {00001579}
-Mana{4a}Shield{00}
+eld{00}
 ------------------
 {0000157c}
-Mana{4a}Barrier{00}
+rier{00}
 ------------------
 {0000157f}
-Force{4a}Shield{00}
+ield{00}
 ------------------
 {00001582}
-Force{4a}Barrier{00}
+rrier{00}
 ------------------
 {00001585}
-Strange{4a}EM Wave{00}
+EM{4a}Wave{00}
 ------------------
 {00001588}
-Mental{4a}Blast{00}
+last{00}
 ------------------
 {0000158b}
-Prism{4a}Ray{00}
+y{00}
 ------------------
 {0000158e}
-Smartbomb{00}
+b{00}
 ------------------
 {00001591}
-Eraser{00}
+isruption{00}
 ------------------
 {00001594}
-Disruption{00}
+on{00}
 ------------------
 {00001597}
-Search{7d}{4a}light{00}
+light{00}
 ------------------
 {0000159a}
-Scanner{00}
+Power{4a}Amp{00}
 ------------------
 {0000159d}
-Power Amp{00}
+p{00}
 ------------------
 {000015a0}
-Security{00}
+{00}
 ------------------
 {000015a3}
-Detection{4a}Device{00}
+n{4a}Device{00}
 ------------------
 {000015a6}
-Translator{4a}Device{00}
+or{4a}Device{00}
 ------------------
 {000015a9}
-MP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015ac}
-Send MP{03}
-to a single{03}
+to{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {000015af}
-Heal HP{03}
-of a single{03}
+of{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {000015b2}
-Take MP{03}
-from one{03}
+from{4a}one{03}
 ally.{00}
 ------------------
 {000015b5}
-Put one{03}
-enemy to{03}
+enemy{4a}to{03}
 sleep.{00}
 ------------------
 {000015b8}
-MP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015bb}
-Increase{03}
-one ally's{03}
+{03}
+one{4a}ally's{03}
 fortitude.{00}
 ------------------
 {000015be}
-Removes{03}
 poison{03}
-from ally.{00}
+from{4a}ally.{00}
 ------------------
 {000015c1}
-Imbues{03}
-hits with{03}
-MP damage.{00}
+its{4a}with{03}
+MP{4a}damage.{00}
 ------------------
 {000015c4}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015c7}
-Boosts one{03}
+ne{03}
 ally's{03}
 evasion.{00}
 ------------------
 {000015ca}
-Confusion{03}
-vs single.{03}
+n{03}
+vs{4a}single.{03}
 {00}
 ------------------
 {000015cd}
-Puts the{03}
+{03}
 undead{03}
-to rest.{00}
+to{4a}rest.{00}
 ------------------
 {000015d0}
-Increased{03}
-success when{03}
+d{03}
+success{4a}when{03}
 fast{7d}talking{03}
 foes.{00}
 ------------------
 {000015d3}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015d6}
-Heal more HP{03}
-of a single{03}
+e{4a}HP{03}
+of{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {000015d9}
-Paralysis{03}
-of a single{03}
+s{03}
+of{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015dc}
-MP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015df}
-Increase{03}
-the party's{03}
+{03}
+the{4a}party's{03}
 fortitude.{00}
 ------------------
 {000015e2}
-Force calm{03}
-upon undead.{03}
+lm{03}
+upon{4a}undead.{03}
 {00}
 ------------------
 {000015e5}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015e8}
-Boosts the{03}
+he{03}
 party's{03}
 evasion.{00}
 ------------------
 {000015eb}
-Fully heal{03}
-one ally's{03}
+al{03}
+one{4a}ally's{03}
 HP.{00}
 ------------------
 {000015ee}
-MP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015f1}
-Boost's the{03}
+the{03}
 party's{03}
 fortitude.{00}
 ------------------
 {000015f4}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {000015f7}
-Increase{03}
-one ally's{03}
+{03}
+one{4a}ally's{03}
 fortitude.{00}
 ------------------
 {000015fa}
-Bring back{03}
-the dying.{03}
+ck{03}
+the{4a}dying.{03}
 {00}
 ------------------
 {000015fd}
-Turn enemy{03}
-to ash.{03}
+my{03}
+to{4a}ash.{03}
 {00}
 ------------------
 {00001600}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {00001603}
-Inflict{03}
-sleep on an{03}
-enemy group.{03}
+sleep{4a}on{4a}an{03}
+enemy{4a}group.{03}
 {00}
 ------------------
 {00001606}
-MP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {00001609}
-Inflict{03}
-confusion on{03}
-enemy group.{03}
+confusion{4a}on{03}
+enemy{4a}group.{03}
 {00}
 ------------------
 {0000160c}
-HP damage{03}
-to an enemy{03}
+e{03}
+to{4a}an{4a}enemy{03}
 group.{00}
 ------------------
 {0000160f}
-Inflict{03}
-paralysis on{03}
-one enemy.{03}
+paralysis{4a}on{03}
+one{4a}enemy.{03}
 {00}
 ------------------
 {00001612}
-Puts the{03}
-undead to{03}
+{03}
+undead{4a}to{03}
 rest.{00}
 ------------------
 {00001615}
-Restore HP{03}
-to the{03}
+HP{03}
+to{4a}the{03}
 party.{03}
 {00}
 ------------------
 {00001618}
-Deal HP{7f}MP{03}
-damage to an{03}
-enemy group.{00}
+MP{03}
+damage{4a}to{4a}an{03}
+enemy{4a}group.{00}
 ------------------
 {0000161b}
-Fatally{03}
-wound many{03}
+wound{4a}many{03}
 enemies.{00}
 ------------------
 {0000161e}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {00001621}
-Raises one{03}
+ne{03}
 ally's{03}
 evasion.{03}
 {00}
 ------------------
 {00001624}
-Heal HP{03}
-of a single{03}
+of{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {00001627}
-Heal MP{03}
-of a single{03}
+of{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {0000162a}
-HP damage{03}
-to a single{03}
+e{03}
+to{4a}a{4a}single{03}
 enemy.{00}
 ------------------
 {0000162d}
-Inflict{03}
-paralysis on{03}
-one enemy.{03}
+paralysis{4a}on{03}
+one{4a}enemy.{03}
 {00}
 ------------------
 {00001630}
-Inflict{03}
-blindness on{03}
-one enemy.{03}
+blindness{4a}on{03}
+one{4a}enemy.{03}
 {00}
 ------------------
 {00001633}
-HP damage{03}
-to an enemy{03}
+e{03}
+to{4a}an{4a}enemy{03}
 group.{00}
 ------------------
 {00001636}
-Imbues{03}
-weapon with{03}
-MP damage.{00}
+eapon{4a}with{03}
+MP{4a}damage.{00}
 ------------------
 {00001639}
-Puts the{03}
-undead to{03}
+{03}
+undead{4a}to{03}
 rest.{00}
 ------------------
 {0000163c}
-Absorb HP{03}
-from one{03}
+P{03}
+from{4a}one{03}
 target.{00}
 ------------------
 {0000163f}
-Absorb MP{03}
-from one{03}
+P{03}
+from{4a}one{03}
 target.{00}
 ------------------
 {00001642}
-Inflict{03}
-poison on{03}
-one enemy.{03}
+poison{4a}on{03}
+one{4a}enemy.{03}
 {00}
 ------------------
 {00001645}
-Find Clues{03}
+es{03}
 better.{03}
 {00}
 ------------------
 {00001648}
-HP divide{03}
-vs single.{03}
+e{03}
+vs{4a}single.{03}
 {00}
 ------------------
 {0000164b}
-Heal HP{03}
-of a single{03}
+of{4a}a{4a}single{03}
 ally.{00}
 ------------------
 {0000164e}
-HP damage{03}
-to an enemy{03}
+e{03}
+to{4a}an{4a}enemy{03}
 group.{00}
 ------------------
 {00001651}
-Fatally{03}
-wound one{03}
+wound{4a}one{03}
 target.{00}
 ------------------
 {00001654}
-Fully heal{03}
-one ally's{03}
+al{03}
+one{4a}ally's{03}
 HP.{00}
 ------------------
 {00001657}
-Bring back{03}
-the dying.{03}
+ck{03}
+the{4a}dying.{03}
 {00}
 ------------------
 {0000165a}
-Fatally{03}
-wound one{03}
+wound{4a}one{03}
 target.{00}
 ------------------
 {0000165d}
-{03}
-MP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {00001660}
-{03}
-MP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {00001663}
-{03}
-MP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {00001666}
-{03}
-HP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {00001669}
-{03}
-HP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {0000166c}
-{03}
-HP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {0000166f}
-{03}
-MP protect{03}
-on single.{00}
+ect{03}
+on{4a}single.{00}
 ------------------
 {00001672}
-{03}
-HP protect{03}
-on crowds.{00}
+ect{03}
+on{4a}crowds.{00}
 ------------------
 {00001675}
-{03}
-Block hits{03}
-to single.{00}
+its{03}
+to{4a}single.{00}
 ------------------
 {00001678}
-{03}
-HP protect{03}
-on crowds.{00}
+ect{03}
+on{4a}crowds.{00}
 ------------------
 {0000167b}
-{03}
-MP damage{03}
-vs crowds.{00}
+ge{03}
+vs{4a}crowds.{00}
 ------------------
 {0000167e}
-{03}
-MP damage{03}
-vs single.{00}
+ge{03}
+vs{4a}single.{00}
 ------------------
 {00001681}
-{03}
-HP damage{03}
-vs crowds.{00}
+ge{03}
+vs{4a}crowds.{00}
 ------------------
 {00001684}
-{03}
-HP damage{03}
-vs crowds.{00}
+ge{03}
+vs{4a}crowds.{00}
 ------------------
 {00001687}
-{03}
-Fatality{03}
-vs single.{00}
+y{03}
+vs{4a}single.{00}
 ------------------
 {0000168a}
-{03}
-Put spirit{03}
-to rest.{00}
+rit{03}
+to{4a}rest.{00}
 ------------------
 {0000168d}
-{03}
-Blindness{03}
-vs single.{00}
+ss{03}
+vs{4a}single.{00}
 ------------------
 {00001690}
-{03}
-Diagnosis{03}
-vs single.{00}
+is{03}
+vs{4a}single.{00}
 ------------------
 {00001693}
-{03}
-Machine's{03}
-power up.{00}
+'s{03}
+power{4a}up.{00}
 ------------------
 {00001696}
-{03}
-Avoid most{03}
+ost{03}
 enemies.{00}
 ------------------
 {00001699}
-{03}
-Find Clues{03}
-skill up.{00}
+ues{03}
+skill{4a}up.{00}
 ------------------
 {0000169c}
-{03}
-Fast Talk{03}
-skill up.{00}
+lk{03}
+skill{4a}up.{00}
 ------------------
 {0000169f}
-Exorcism{00}
+{00}
 ------------------
 {000016a2}
-Kusakabe{39}Original{03}
-Spirit Spell{00}
+{39}Original{03}
+Spirit{4a}Spell{00}
 ------------------
 {000016a5}
-Not enough{03}
-MP to use.{02}
+gh{03}
+MP{4a}to{4a}use.{02}
 {00}
 ------------------
 {000016a8}
-Too insane{03}
-for this.{02}
+ne{03}
+for{4a}this.{02}
 {00}
 ------------------
 {000016ab}
-{39}received {00}
+d{4a}{00}
 ------------------
 {000016ae}
-{39}sent {00}
-------------------
-{000016b1}
-{03}
 MP.{02}
 {00}
 ------------------
+{000016b1}
+{4a}Machine.{02}
+{00}
+------------------
 {000016b4}
-No Machine.{02}
+ne.{02}
 {00}
 ------------------
 {000016b7}
-{b0}          {b2}{39} {b1}          {b3}{00}
+{4a}{4a}{4a}{b2}{39}{4a}{b1}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{b3}{00}
 ------------------
 {000016ba}
-{00}
+{4a}{4a}{7f}{00}
 ------------------
 {000016bd}
-{00}
+{4a}{7f}{00}
 ------------------
 {000016c0}
-{00}
+{7f}{00}
 ------------------
 {000016c3}
 {00}
 ------------------
 {000016c6}
-HP    {7f}{00}
+MP{4a}{4a}{4a}{4a}{7f}{4a}{4a}{4a}{7f}{00}
 ------------------
 {000016c9}
-MP    {7f}   {7f}{00}
+{4a}{4a}{7f}{00}
 ------------------
 {000016cc}
-Aura Fist{00}
+t{00}
 ------------------
 {000016cf}
-Supply Mythos{00}
+ythos{00}
 ------------------
 {000016d2}
-Treat Injury{00}
+jury{00}
 ------------------
 {000016d5}
-Shift Mythos{00}
+thos{00}
 ------------------
 {000016d8}
-Sleep{00}
+ra{4a}Knife{00}
 ------------------
 {000016db}
-Aura Knife{00}
+fe{00}
 ------------------
 {000016de}
-Psychic Shield{00}
+Shield{00}
 ------------------
 {000016e1}
-Recover Poison{00}
+Poison{00}
 ------------------
 {000016e4}
-Enchant Weapon{00}
+Weapon{00}
 ------------------
 {000016e7}
-Ethereal Knife{00}
+{4a}Knife{00}
 ------------------
 {000016ea}
-Aura Shield{00}
+eld{00}
 ------------------
 {000016ed}
-Confuse{00}
-------------------
-{000016f0}
 Dispel{00}
 ------------------
+{000016f0}
+motion{4a}Control{00}
+------------------
 {000016f3}
-Emotion Control{00}
+Control{00}
 ------------------
 {000016f6}
-Ethereal Arrow{00}
+{4a}Arrow{00}
 ------------------
 {000016f9}
-Cure Injury{00}
+ury{00}
 ------------------
 {000016fc}
-Hold{00}
+a{4a}Sword{00}
 ------------------
 {000016ff}
-Aura Sword{00}
+rd{00}
 ------------------
 {00001702}
-Psychic Barrier{00}
+Barrier{00}
 ------------------
 {00001705}
-Exorcism{00}
+{00}
 ------------------
 {00001708}
-Ethereal Sword{00}
+{4a}Sword{00}
 ------------------
 {0000170b}
-Aura Barrier{00}
+rier{00}
 ------------------
 {0000170e}
-Heal Injury{00}
+ury{00}
 ------------------
 {00001711}
-Gungnir{00}
-------------------
-{00001714}
 Aegis{00}
 ------------------
+{00001714}
+nginus{00}
+------------------
 {00001717}
-Longinus{00}
+{00}
 ------------------
 {0000171a}
-Sigurd{00}
+lixir{00}
 ------------------
 {0000171d}
-Elixir{00}
+anish{00}
 ------------------
 {00001720}
-Banish{00}
+ludgeon{00}
 ------------------
 {00001723}
-Bludgeon{00}
+{00}
 ------------------
 {00001726}
-Slumber{00}
-------------------
-{00001729}
 Slice{00}
 ------------------
+{00001729}
+aos{00}
+------------------
 {0000172c}
-Chaos{00}
+ash{00}
 ------------------
 {0000172f}
-Smash{00}
+nd{00}
 ------------------
 {00001732}
-Bind{00}
+ify{00}
 ------------------
 {00001735}
-Purify{00}
+eal{00}
 ------------------
 {00001738}
-Heal{00}
+l{00}
 ------------------
 {0000173b}
-Kill{00}
+troy{00}
 ------------------
 {0000173e}
-Destroy{00}
+Flame{4a}of{4a}N'ga{00}
 ------------------
 {00001741}
-Flame of N'ga{00}
+{4a}N'ga{00}
 ------------------
 {00001744}
-Cloud of Protection{00}
+{4a}Protection{00}
 ------------------
 {00001747}
-Restore Injury{00}
+Injury{00}
 ------------------
 {0000174a}
-Mythos Endowment{00}
+ndowment{00}
 ------------------
 {0000174d}
-Corrosion of Iig{00}
+n{4a}of{4a}Iig{00}
 ------------------
 {00001750}
-Terror of Thu Muhlu{00}
+f{4a}Thu{4a}Muhlu{00}
 ------------------
 {00001753}
-Blindness of Gaunte{00}
+s{4a}of{4a}Gaunte{00}
 ------------------
 {00001756}
-Electrical Shock Attack{00}
+al{4a}Shock{4a}Attack{00}
 ------------------
 {00001759}
-Sanctify Armament{00}
+{4a}Armament{00}
 ------------------
 {0000175c}
-Mythos Desecration{00}
+esecration{00}
 ------------------
 {0000175f}
-Blood Sucker{00}
+cker{00}
 ------------------
 {00001762}
-Psyche Eater{00}
+ater{00}
 ------------------
 {00001765}
-Poison Spray{00}
+pray{00}
 ------------------
 {00001768}
-Emotion Control{00}
+Control{00}
 ------------------
 {0000176b}
-Fog of Suffocation{00}
+uffocation{00}
 ------------------
 {0000176e}
-Heal the Body{00}
+{4a}Body{00}
 ------------------
 {00001771}
-Wrath of God{00}
+{4a}God{00}
 ------------------
 {00001774}
-Death's{4a}Sickle{00}
+Sickle{00}
 ------------------
 {00001777}
-Full{4a}Restore{00}
+tore{00}
 ------------------
 {0000177a}
-Revive{00}
+hlogiston{4a}Explosion{00}
 ------------------
 {0000177d}
-Phlogiston{4a}Explosion{00}
+on{4a}Explosion{00}
 ------------------
 {00001780}
-Magnetic Line{00}
+{4a}Line{00}
 ------------------
 {00001783}
-High Frequency Wave{00}
+quency{4a}Wave{00}
 ------------------
 {00001786}
-Astral Beam{00}
+eam{00}
 ------------------
 {00001789}
-Strange Beam{00}
+Beam{00}
 ------------------
 {0000178c}
-Shockwave{00}
+e{00}
 ------------------
 {0000178f}
-Ether Heat Beam{00}
+at{4a}Beam{00}
 ------------------
 {00001792}
-Mana Shield{00}
+eld{00}
 ------------------
 {00001795}
-Mana Barrier{00}
+rier{00}
 ------------------
 {00001798}
-Force Shield{00}
+ield{00}
 ------------------
 {0000179b}
-Force Barrier{00}
+rrier{00}
 ------------------
 {0000179e}
-Strange E{7d}mag Wave{00}
+E{7d}mag{4a}Wave{00}
 ------------------
 {000017a1}
-Mental Blast{00}
+last{00}
 ------------------
 {000017a4}
-Prism Ray{00}
+y{00}
 ------------------
 {000017a7}
-Smartbomb{00}
+b{00}
 ------------------
 {000017aa}
-Eraser{00}
+isruption{00}
 ------------------
 {000017ad}
-Disruption{00}
+on{00}
 ------------------
 {000017b0}
-Searchlight{00}
+ght{00}
 ------------------
 {000017b3}
-Scanner{00}
+Power{4a}Amp{00}
 ------------------
 {000017b6}
-Power Amp{00}
+p{00}
 ------------------
 {000017b9}
-Security{00}
+{00}
 ------------------
 {000017bc}
-Detection Device{00}
+n{4a}Device{00}
 ------------------
 {000017bf}
-Translator Device{00}
+or{4a}Device{00}
 ------------------
 {000017c2}
-{03}
-       Weathertop Hall{00}
+Weathertop{4a}Hall{00}
 ------------------
 {000017c5}
-{03}
-        Fortune Teller{00}
+{4a}Fortune{4a}Teller{00}
 ------------------
 {000017c8}
-{03}
-       Dry Goods Store{00}
+Dry{4a}Goods{4a}Store{00}
 ------------------
 {000017cb}
-{03}
-            Hotel{00}
+{4a}{4a}{4a}{4a}{4a}Hotel{00}
 ------------------
 {000017ce}
-{03}
-           Library{00}
+{4a}{4a}{4a}{4a}Library{00}
 ------------------
 {000017d1}
-{03}
-        Psychic{7d}Medium{00}
+{4a}Psychic{7d}Medium{00}
 ------------------
 {000017d4}
-{03}
-           Hospital{00}
+{4a}{4a}{4a}{4a}Hospital{00}
 ------------------
 {000017d7}
-{03}
-          Speak{7d}Easy{00}
+{4a}{4a}{4a}Speak{7d}Easy{00}
 ------------------
 {000017da}
+ill{4a}you{4a}have{76}{02}
 {00}
 ------------------
 {000017dd}
-Which will you have{76}{02}
+ll{4a}you{4a}have{76}{02}
 {00}
 ------------------
 {000017e0}
-{01}{04}Which{76}{02}
-{01} {00}
+{02}
+{01}{4a}{00}
 ------------------
 {000017e3}
-The price is {eb}{04}{03}
+e{4a}is{4a}{eb}{04}{03}
 .{03}
-Are you satisfied{76}{00}
+Are{4a}you{4a}satisfied{76}{00}
 ------------------
 {000017e6}
-The price is {eb}{04}{03}
+e{4a}is{4a}{eb}{04}{03}
 .{03}
-Are you satisfied{76}{00}
+Are{4a}you{4a}satisfied{76}{00}
 ------------------
 {000017e9}
-Thank you very much.{02}
+u{4a}very{4a}much.{02}
 {00}
 ------------------
 {000017ec}
-Thank you very much{75}{02}
+u{4a}very{4a}much{75}{02}
 {00}
 ------------------
 {000017ef}
-I'm sorry but that isn't{03}
-enough money.{03}
-Come again.{02}
+y{4a}but{4a}that{4a}isn't{03}
+enough{4a}money.{03}
+Come{4a}again.{02}
 {00}
 ------------------
 {000017f2}
-You don't have enough money{75}{03}
-I have to make a living too.{02}
-I don't even give discounts{03}
-to friends. Can't get by{03}
-without any scratch, yeah{76}{02}
+t{4a}have{4a}enough{4a}money{75}{03}
+I{4a}have{4a}to{4a}make{4a}a{4a}living{4a}too.{02}
+I{4a}don't{4a}even{4a}give{4a}discounts{03}
+to{4a}friends.{4a}Can't{4a}get{4a}by{03}
+without{4a}any{4a}scratch,{4a}yeah{76}{02}
 {00}
 ------------------
 {000017f5}
-Which are you selling{76}{02}
+e{4a}you{4a}selling{76}{02}
 {00}
 ------------------
 {000017f8}
-Which are you selling{76}{02}
+e{4a}you{4a}selling{76}{02}
 {00}
 ------------------
 {000017fb}
-I'll buy this. {eb}{04}{03}
+{4a}this.{4a}{eb}{04}{03}
 .{03}
 Okay{76}{00}
 ------------------
 {000017fe}
-I'll buy this. {eb}{04}{03}
+{4a}this.{4a}{eb}{04}{03}
 .{03}
-Is that okay{76}{00}
+Is{4a}that{4a}okay{76}{00}
 ------------------
 {00001801}
-This isn't the sort of item{03}
-I could buy. I can't{03}
-imagine its value.{02}
+'t{4a}the{4a}sort{4a}of{4a}item{03}
+I{4a}could{4a}buy.{4a}I{4a}can't{03}
+imagine{4a}its{4a}value.{02}
 {00}
 ------------------
 {00001804}
-It'd be better if you guys{03}
-held on to this.{02}
+better{4a}if{4a}you{4a}guys{03}
+held{4a}on{4a}to{4a}this.{02}
 {00}
 ------------------
 {00001807}
-I'll buy this picture for{03}
+{4a}this{4a}picture{4a}for{03}
 {eb}{04}{03}
 .{02}
 {00}
 ------------------
 {0000180a}
-Too out of focus.{02}
+of{4a}focus.{02}
 {00}
 ------------------
 {0000180d}
-I'll give ya {eb}{04}{03}
+e{4a}ya{4a}{eb}{04}{03}
 .{02}
 {00}
 ------------------
 {00001810}
-Not this one.{02}
+{4a}one.{02}
 {00}
 ------------------
 {00001813}
-How many{76}{00}
+{76}{00}
 ------------------
 {00001816}
-How many{76}{00}
+{76}{00}
 ------------------
 {00001819}
-Where you gonna put it{76}{02}
+u{4a}gonna{4a}put{4a}it{76}{02}
 {00}
 ------------------
 {0000181c}
-You can't carry any more.{02}
+t{4a}carry{4a}any{4a}more.{02}
 {00}
 ------------------
 {0000181f}
-How many will you sell{76}{00}
+{4a}will{4a}you{4a}sell{76}{00}
 ------------------
 {00001822}
-How many will you sell{76}{00}
+{4a}will{4a}you{4a}sell{76}{00}
 ------------------
 {00001825}
-You don't have anything.{02}
+t{4a}have{4a}anything.{02}
 {00}
 ------------------
 {00001828}
-You don't have anything.{02}
+t{4a}have{4a}anything.{02}
 {00}
 ------------------
 {0000182b}
-It doesn't seem you have{03}
-any especially rare photos.{02}
+'t{4a}seem{4a}you{4a}have{03}
+any{4a}especially{4a}rare{4a}photos.{02}
 {00}
 ------------------
 {0000182e}
-Huh{76} You still haven't take{03}
-any more pictures{76}{02}
-Go take some pictures of{03}
-monsters, then come back.{02}
+{4a}still{4a}haven't{4a}take{03}
+any{4a}more{4a}pictures{76}{02}
+Go{4a}take{4a}some{4a}pictures{4a}of{03}
+monsters,{4a}then{4a}come{4a}back.{02}
 {00}
 ------------------
 {00001831}
-{00}
-------------------
-{00001834}
-Yes{03}
-No{00}
-------------------
-{00001837}
 Buy{03}
 Sell{03}
 Leave{00}
 ------------------
-{0000183a}
-Buy{03}
+{00001834}
+uy{03}
 Sell{03}
+Leave{00}
+------------------
+{00001837}
+{03}
+Leave{00}
+------------------
+{0000183a}
+{03}
 Photos{03}
 Texts{03}
 Leave{00}
 ------------------
 {0000183d}
-Stay{03}
-Save{03}
+e{03}
 Photos{03}
 Change{03}
 Leave{00}
 ------------------
 {00001840}
-Train{03}
-Leave{00}
+ave{00}
 ------------------
 {00001843}
-Treat{03}
-Leave{00}
+ave{00}
 ------------------
 {00001846}
-Check{03}
-Album{03}
+bum{03}
 Leave{00}
 ------------------
 {00001849}
-Read Fate{03}
-Read Soul{03}
+e{03}
+Read{4a}Soul{03}
 Leave{00}
 ------------------
 {0000184c}
-{7b}1{7c}{03}
-{7b}2{7c}{03}
 {7b}3{7c}{00}
 ------------------
 {0000184f}
-Body{03}
-Mind{00}
+d{00}
 ------------------
 {00001852}
-Transport{03}
+t{03}
 Record{03}
 Return{00}
 ------------------
 {00001855}
-Rest{03}
-Record{03}
+ord{03}
 Leave{00}
 ------------------
 {00001858}
-Undercroft{03}
+ft{03}
 Ground{03}
-1st Floor{03}
-2nd Floor{03}
+1st{4a}Floor{03}
+2nd{4a}Floor{03}
 Hall{00}
 ------------------
 {0000185b}
-East Wing{03}
-West Wing{03}
-South Wing{03}
-North Wing{03}
+g{03}
+West{4a}Wing{03}
+South{4a}Wing{03}
+North{4a}Wing{03}
 Central{00}
 ------------------
 {0000185e}
@@ -2734,19 +2663,19 @@ Central{00}
 {00}
 ------------------
 {000018b2}
-{00}
+USD{00}
 ------------------
 {000018b5}
-{00}
+SD{00}
 ------------------
 {000018b8}
-{00}
+D{00}
 ------------------
 {000018bb}
 {00}
 ------------------
 {000018be}
-{00}
+{eb}{00}
 ------------------
 {000018c1}
 {00}
@@ -2758,180 +2687,178 @@ Central{00}
 {00}
 ------------------
 {000018ca}
-USD{00}
+{00}
 ------------------
 {000018cd}
-{eb}{00}
+{00}
 ------------------
 {000018d0}
-{00}
+Level{00}
 ------------------
 {000018d3}
-{00}
+evel{00}
 ------------------
 {000018d6}
-{00}
+vel{00}
 ------------------
 {000018d9}
-{00}
+el{00}
 ------------------
 {000018dc}
-{00}
+l{00}
 ------------------
 {000018df}
 {00}
 ------------------
 {000018e2}
-{00}
-------------------
-{000018e5}
-{00}
-------------------
-{000018e8}
-Level{00}
-------------------
-{000018eb}
 Strength{00}
 ------------------
+{000018e5}
+trength{00}
+------------------
+{000018e8}
+rength{00}
+------------------
+{000018eb}
+{00}
+------------------
 {000018ee}
-Determination{00}
+ation{00}
 ------------------
 {000018f1}
-Perception{00}
+on{00}
 ------------------
 {000018f4}
-Cunning{00}
-------------------
-{000018f7}
 Willpower{00}
 ------------------
+{000018f7}
+r{00}
+------------------
 {000018fa}
-Charisma{00}
+{00}
 ------------------
 {000018fd}
-Fate{00}
+ents{00}
 ------------------
 {00001900}
-Talents{00}
-------------------
-{00001903}
 Fighting{00}
 ------------------
+{00001903}
+{00}
+------------------
 {00001906}
-Shooting{00}
+{00}
 ------------------
 {00001909}
-Surgery{00}
-------------------
-{0000190c}
 Photography{00}
 ------------------
+{0000190c}
+phy{00}
+------------------
 {0000190f}
-Find Clue{00}
+e{00}
 ------------------
 {00001912}
-Psychic{00}
-------------------
-{00001915}
 Mythos{00}
 ------------------
+{00001915}
+echnology{00}
+------------------
 {00001918}
-Technology{00}
+gy{00}
 ------------------
 {0000191b}
-Therapy{00}
+Fast{4a}Talk{00}
 ------------------
 {0000191e}
-Fast Talk{00}
+k{00}
 ------------------
 {00001921}
-Which person{03}
-is me{76}{00}
+rson{03}
+is{4a}me{76}{00}
 ------------------
 {00001924}
-{00}
+know{03}
+my{4a}name{76}{00}
 ------------------
 {00001927}
-Do you know{03}
-my name{76}{00}
+now{03}
+my{4a}name{76}{00}
 ------------------
 {0000192a}
-Please divide out{03}
-training points.{00}
+ivide{4a}out{03}
+training{4a}points.{00}
 ------------------
 {0000192d}
-Is this true{76}{00}
+true{76}{00}
 ------------------
 {00001930}
-0 1 2 3 4  5 6 7 8 9{00}
+4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001933}
-A B C D E  F G H I J{00}
+E{4a}{4a}F{4a}G{4a}H{4a}I{4a}J{00}
 ------------------
 {00001936}
-K L M N O  P Q R S T{00}
+O{4a}{4a}P{4a}Q{4a}R{4a}S{4a}T{00}
 ------------------
 {00001939}
-U V W X Y  Z {75} {76} {eb} .{00}
+Y{4a}{4a}Z{4a}{75}{4a}{76}{4a}{eb}{4a}.{00}
 ------------------
 {0000193c}
-{00}
+2{4a}3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {0000193f}
-{00}
+{4a}3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001942}
-{00}
+3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001945}
-{00}
+{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001948}
-0 1 2 3 4  5 6 7 8 9{00}
+4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {0000194b}
-a b c d e  f g h i j{00}
+e{4a}{4a}f{4a}g{4a}h{4a}i{4a}j{00}
 ------------------
 {0000194e}
-k l m n o  p q r s t{00}
+o{4a}{4a}p{4a}q{4a}r{4a}s{4a}t{00}
 ------------------
 {00001951}
-u v w x y  z {75} {76} {eb} .{00}
+y{4a}{4a}z{4a}{75}{4a}{76}{4a}{eb}{4a}.{00}
 ------------------
 {00001954}
-{00}
+2{4a}3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001957}
-{00}
+{4a}3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {0000195a}
-{00}
+3{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {0000195d}
-{00}
+{4a}4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001960}
-0 1 2 3 4  5 6 7 8 9{00}
+4{4a}{4a}5{4a}6{4a}7{4a}8{4a}9{00}
 ------------------
 {00001963}
-A B C D E  F G H I J{00}
+E{4a}{4a}F{4a}G{4a}H{4a}I{4a}J{00}
 ------------------
 {00001966}
-K L M N O  P Q R S T{00}
+O{4a}{4a}P{4a}Q{4a}R{4a}S{4a}T{00}
 ------------------
 {00001969}
-U V W X Y  Z {75} {76} {eb} .{00}
+Y{4a}{4a}Z{4a}{75}{4a}{76}{4a}{eb}{4a}.{00}
 ------------------
 {0000196c}
-{03}
-            Free Patch By{03}
-            Aeon Genesis{03}
-           agtp.romhack.net{00}
+{4a}{4a}{4a}{4a}{4a}Free{4a}Patch{4a}By{03}
+{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}Aeon{4a}Genesis{03}
+{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}{4a}agtp.romhack.net{00}
 ------------------
 {0000196f}
-ABC{03}
 {03}
-abc{03}
 {03}
 {03}
 {03}
@@ -2940,39 +2867,38 @@ Back{03}
 End{00}
 ------------------
 {00001972}
-Guess what it is{03}
-that I do.{00}
+at{4a}it{4a}is{03}
+that{4a}I{4a}do.{00}
 ------------------
 {00001975}
-Detective{03}
+e{03}
 Journalist{03}
 Scientist{03}
 Medium{03}
 Dabbler{00}
 ------------------
 {00001978}
-Dying{00}
+sane{00}
 ------------------
 {0000197b}
-Insane{00}
+oison{00}
 ------------------
 {0000197e}
-Poison{00}
+That{4a}name{4a}is{4a}not{03}
+mine.{00}
 ------------------
 {00001981}
-{00}
+me{4a}is{4a}not{03}
+mine.{00}
 ------------------
 {00001984}
-That name is not{03}
+e{4a}is{4a}not{03}
 mine.{00}
 ------------------
 {00001987}
-Level{00}
+lents{00}
 ------------------
 {0000198a}
-Talents{00}
-------------------
-{0000198d}
 Strength{03}
 Fortitude{03}
 Cunning{03}
@@ -2981,133 +2907,144 @@ Willpower{03}
 Charisma{03}
 Fate{00}
 ------------------
+{0000198d}
+{03}
+Fortitude{03}
+Cunning{03}
+Perception{03}
+Willpower{03}
+Charisma{03}
+Fate{00}
+------------------
 {00001990}
-EXP{00}
+ctive{4a}{4a}{4a}{00}
 ------------------
 {00001993}
-Detective   {00}
+e{4a}{4a}{4a}{00}
 ------------------
 {00001996}
-Journalist  {00}
+st{4a}{4a}{00}
 ------------------
 {00001999}
-Scientist   {00}
+t{4a}{4a}{4a}{00}
 ------------------
 {0000199c}
-Medium      {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {0000199f}
-Dabbler     {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {000019a2}
-Medium      {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {000019a5}
-Veteran     {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {000019a8}
-Cat Burglar {00}
+lar{4a}{00}
 ------------------
 {000019ab}
-Spiritualist{00}
+list{00}
 ------------------
 {000019ae}
-Princess    {00}
+{4a}{4a}{4a}{4a}{00}
 ------------------
 {000019b1}
-Alec{00}
+akabe{00}
 ------------------
 {000019b4}
-Kusakabe{00}
+{00}
 ------------------
 {000019b7}
-Jambon{00}
+incent{00}
 ------------------
 {000019ba}
-Vincent{00}
-------------------
-{000019bd}
 August{00}
 ------------------
+{000019bd}
+assandra{00}
+------------------
 {000019c0}
-Cassandra{00}
+a{00}
 ------------------
 {000019c3}
-Joanna{00}
+organ{00}
 ------------------
 {000019c6}
-Morgan{00}
+amonte{00}
 ------------------
 {000019c9}
-Lamonte{00}
-------------------
-{000019cc}
 Adolph{00}
 ------------------
+{000019cc}
+yan{00}
+------------------
 {000019cf}
-Ryan{00}
+ard{00}
 ------------------
 {000019d2}
-Bayard{00}
+enedict{00}
 ------------------
 {000019d5}
-Benedict{00}
+{00}
 ------------------
 {000019d8}
-Germaine{00}
+{00}
 ------------------
 {000019db}
-Sciux{00}
+at{4a}day,{4a}a{4a}huge{4a}earthquake{03}
+tore{4a}through{4a}the{4a}very{03}
+center{4a}of{4a}Newcam.{00}
 ------------------
 {000019de}
-That day, a huge earthquake{03}
-tore through the very{03}
-center of Newcam.{00}
+,{4a}a{4a}huge{4a}earthquake{03}
+tore{4a}through{4a}the{4a}very{03}
+center{4a}of{4a}Newcam.{00}
 ------------------
 {000019e1}
-Nightmares still lingered{03}
-among some, but no worse.{00}
+es{4a}still{4a}lingered{03}
+among{4a}some,{4a}but{4a}no{4a}worse.{00}
 ------------------
 {000019e4}
-Laplace's Demon never made{03}
-it into our world.{00}
+s{4a}Demon{4a}never{4a}made{03}
+it{4a}into{4a}our{4a}world.{00}
 ------------------
 {000019e7}
-I went back to Weathertop{03}
-Hall the next day, but the{03}
-Elder Signs had vanished.{00}
+ack{4a}to{4a}Weathertop{03}
+Hall{4a}the{4a}next{4a}day,{4a}but{4a}the{03}
+Elder{4a}Signs{4a}had{4a}vanished.{00}
 ------------------
 {000019ea}
-Now, the memories of those{03}
-events feel like half{03}
-forgotten dreams.{00}
+{4a}memories{4a}of{4a}those{03}
+events{4a}feel{4a}like{4a}half{03}
+forgotten{4a}dreams.{00}
 ------------------
 {000019ed}
-But then I take hold of{03}
-Cassandra's bracelet and{03}
-Laplace's crown...{00}
+{4a}I{4a}take{4a}hold{4a}of{03}
+Cassandra's{4a}bracelet{4a}and{03}
+Laplace's{4a}crown...{00}
 ------------------
 {000019f0}
-And I remember it all.{00}
+member{4a}it{4a}all.{00}
 ------------------
 {000019f3}
-Benedict and his quest to{03}
-revive his mother.{00}
+{4a}and{4a}his{4a}quest{4a}to{03}
+revive{4a}his{4a}mother.{00}
 ------------------
 {000019f6}
-Louvain's diabolical{03}
-schemes playing Benedict{03}
-for a pawn.{00}
+s{4a}diabolical{03}
+schemes{4a}playing{4a}Benedict{03}
+for{4a}a{4a}pawn.{00}
 ------------------
 {000019f9}
-King Laplace, who built a{03}
-perfect future, and lost{03}
-all to that perfection.{00}
+lace,{4a}who{4a}built{4a}a{03}
+perfect{4a}future,{4a}and{4a}lost{03}
+all{4a}to{4a}that{4a}perfection.{00}
 ------------------
 {000019fc}
-Cassandra, who loved her{03}
-father, even though she{03}
-opposed him.{00}
+a,{4a}who{4a}loved{4a}her{03}
+father,{4a}even{4a}though{4a}she{03}
+opposed{4a}him.{00}
 ------------------
 {000019ff}
 Louvain, who joked at the{03}
