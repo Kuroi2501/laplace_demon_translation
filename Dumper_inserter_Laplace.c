@@ -165,7 +165,7 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 								"@@@@@@@@@@@@@@@ ";
 	
 	
-	if ((arq = fopen (arq_dump,"r")) == NULL){
+	if ((arq = fopen (arq_trad,"r")) == NULL){
         printf ("Erro na abertura do arquivo de texto!\n\n");
         exit (0);        
     }
