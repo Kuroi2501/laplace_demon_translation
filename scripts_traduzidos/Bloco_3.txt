@@ -2,16 +2,16 @@
 {00}
 ------------------
 {00001aad}
-Rat{7d}thing{00}
+Rat-thing{00}
 ------------------
 {00001ab0}
 Macabre{00}
 ------------------
 {00001ab3}
-Hand{7d}stand{00}
+Hand-stand{00}
 ------------------
 {00001ab6}
-Flit{7d}Knife{00}
+Flit-Knife{00}
 ------------------
 {00001ab9}
 Ghoul{00}
@@ -32,7 +32,7 @@ Wolfman{00}
 Plant{00}
 ------------------
 {00001acb}
-Man{7d}plant{00}
+Man-plant{00}
 ------------------
 {00001ace}
 Banshee{00}
@@ -434,7 +434,7 @@ Chair{00}
 Fire Ghost{00}
 ------------------
 {00001c5d}
-Will{7d}o{7d}wisp{00}
+Will-o-wisp{00}
 ------------------
 {00001c60}
 {00}
@@ -601,8 +601,7 @@ points of MP.{00}
  points.{00}
 ------------------
 {00001d02}
-appeared{75}{02}
-{00}
+appeared{75}{02}{00}
 ------------------
 {00001d05}
 We fled to safety{75}{00}
@@ -773,8 +772,7 @@ But there was no effect.{00}
 it off.{00}
 ------------------
 {00001d92}
-We survived.{02}
-{00}
+We survived.{02}{00}
 ------------------
 {00001d95}
 's attack didn't hit.{00}
@@ -1284,13 +1282,13 @@ all.{00}
 LEVEL{00}
 ------------------
 {00001f5d}
-H   P    {7f}{00}
+H   P    /{00}
 ------------------
 {00001f60}
-M   P    {7f}   {7f}{00}
+M   P    /   /{00}
 ------------------
 {00001f63}
-Condition{a2}{00}
+Condition:{00}
 ------------------
 {00001f66}
 Empowered{00}
@@ -1448,7 +1446,7 @@ the body.{00}
 The battery was dead.{00}
 ------------------
 {00001ff6}
-{7f}{00}
+/{00}
 ------------------
 {00001ff9}
 Injured.{00}
@@ -1457,8 +1455,7 @@ Injured.{00}
 Traumatized.{00}
 ------------------
 {00001fff}
-{02}
-{00}
+{02}{00}
 ------------------
 {00002002}
 's special attack{75}{00}
@@ -1560,8 +1557,7 @@ fear.{00}
 ------------------
 {00002056}
 The Mandrake released{03}
-its horrifying scream{75}{02}
-It was time to run away.{00}
+its horrifying scream{75}{02}It was time to run away.{00}
 ------------------
 {00002059}
 Escape may not be an option.{00}
@@ -1656,7 +1652,7 @@ Photograph{00}
 Operate{00}
 ------------------
 {000020ad}
-{05}{01}Focus{05}{00}
+{05}{01}Focus{05}{00}{00}
 ------------------
 {000020b0}
 Medium{00}
@@ -1668,10 +1664,10 @@ Mythos{00}
 Guard{00}
 ------------------
 {000020b9}
-Special{05}{00}
+Special{05}{00}     Status{00}
 ------------------
 {000020bc}
-Tools{05}{00}
+Tools{05}{00}{00}
 ------------------
 {000020bf}
 {00}
@@ -1679,54 +1675,43 @@ Tools{05}{00}
 {000020c2}
 More humans{76} The last bunch{03}
 to come here were too weak{03}
-to survive, and most died.{02}
-{00}
+to survive, and most died.{02}{00}
 ------------------
 {000020c5}
 One of the servants in the{03}
 north wing lingers about as{03}
-if he were lost.{02}
-He may be in need of some{03}
+if he were lost.{02}He may be in need of some{03}
 kind of help, but so far no{03}
-one has stopped to ask.{02}
-Perhaps something worthy of{03}
-your investigation{76}{02}
-{00}
+one has stopped to ask.{02}Perhaps something worthy of{03}
+your investigation{76}{02}{00}
 ------------------
 {000020c8}
 It's the butlers job to keep{03}
-many of the doors locked.{02}
-{00}
+many of the doors locked.{02}{00}
 ------------------
 {000020cb}
 Do you believe in the rumor{03}
 that a secret grave site is{03}
-hidden somewhere close by{76}{02}
-I just can't imagine where{03}
-it could be.{02}
-{00}
+hidden somewhere close by{76}{02}I just can't imagine where{03}
+it could be.{02}{00}
 ------------------
 {000020ce}
 Those pentagrams, the Elder{03}
 Signs, are marked in places{03}
-around this floor.{02}
-{00}
+around this floor.{02}{00}
 ------------------
 {000020d1}
 There seem to be several of{03}
 them. But just what in the{03}
-hell are they for{76}{02}
-{00}
+hell are they for{76}{02}{00}
 ------------------
 {000020d4}
 The executioner kept a key{03}
 as a trophy of one of those{03}
-that he tortured.{02}
-{00}
+that he tortured.{02}{00}
 ------------------
 {000020d7}
 The statue in the southwest{03}
 corner seems to be somewhat{03}
-modified by a mechanism.{02}
-{00}
+modified by a mechanism.{02}{00}
 ------------------

@@ -253,8 +253,6 @@ void Dumper(char* caminho, struct bloco parametros){
 	FILE *arquivo_binario, *arquivo_saida;
     unsigned char *memoria;
     unsigned int cont, i, j, h, tam, byte1, byte2, byte3, byte4, byte5, byte6, concat_ini, concat_fim, offset_ini_texto, offset_fim_texto;
-//	unsigned int offset_ini;
-//	unsigned int offset_fim;
     unsigned char tabela[256] = "@@@@@@@@@@@@@@@@"
 								"@@@@@@@@@@@@@@@@"
 								"@@@@@@@@@@@@@@@@"

@@ -40,7 +40,8 @@ behind us and move on.{00}
 ------------------
 {00001a1d}
 {01}{03}
-{04}{00}
+{04}{00}. I think I shall{03}
+stay a time longer.{00}
 ------------------
 {00001a20}
 Benedict and Laplace's{03}
@@ -91,7 +92,7 @@ unbelievably strong storm.{00}
 {00001a41}
 I received a photograph of{03}
 the storm along with a note{03}
-which read{a2} To {04}{00}
+which read: To {04}{00},{00}
 ------------------
 {00001a44}
 'The signs are right.{00}
@@ -102,69 +103,78 @@ Demon is about to start{03}
 anew. You are needed.{00}
 ------------------
 {00001a4a}
-{05}{02}
-         Original  Work{05}{00}
+{05}{02}         Original  Work{05}{00}{03}
+{03}
+         Hitoshi Yasuda{00}
 ------------------
 {00001a4d}
-{05}{02}
-        Character Design{05}{00}
+{05}{02}        Character Design{05}{00}{03}
+{03}
+              Kohji{00}
 ------------------
 {00001a50}
-{05}{02}
-              Music{05}{00}
+{05}{02}              Music{05}{00}{03}
+{03}
+          Akiko  Kosaka{00}
 ------------------
 {00001a53}
-{05}{02}
-            Director{03}
-            Planning{05}{00}
+{05}{02}            Director{03}
+            Planning{05}{00}{03}
+         Goh  Shirakawa{00}
 ------------------
 {00001a56}
-{05}{02}
-             Program{05}{00}
+{05}{02}             Program{05}{00}{03}
+{03}
+              Aasaa{00}
 ------------------
 {00001a59}
-{05}{02}
-        Monster Graphics{03}
-   Sprite Character Graphics{05}{00}
+{05}{02}        Monster Graphics{03}
+   Sprite Character Graphics{05}{00}{03}
+         Yutaka Okazaki{00}
 ------------------
 {00001a5c}
-{05}{02}
-      Background  Graphics{03}
-   Battle Background Graphics{05}{00}
+{05}{02}      Background  Graphics{03}
+   Battle Background Graphics{05}{00}{03}
+               H K{00}
 ------------------
 {00001a5f}
-{05}{02}
-          Sound Program{05}{00}
+{05}{02}          Sound Program{05}{00}{03}
+{03}
+             Yet11{00}
 ------------------
 {00001a62}
-{05}{02}
-        Scenario Program{05}{00}
+{05}{02}        Scenario Program{05}{00}{03}
+              Yome{03}
+         Syuhi Imanishi{00}
 ------------------
 {00001a65}
-{05}{02}
-        Scenario Program{05}{00}
+{05}{02}        Scenario Program{05}{00}{03}
+{03}
+             Yet11{00}
 ------------------
 {00001a68}
-{05}{02}
-         Special Thanks{05}{00}
+{05}{02}         Special Thanks{05}{00}{03}
+{03}
+      Tomononnojouyukihasa{00}
 ------------------
 {00001a6b}
-{05}{02}
-         Special Thanks{05}{00}
+{05}{02}         Special Thanks{05}{00}{03}
+              Agax{03}
+         Ohtorii  Mania{00}
 ------------------
 {00001a6e}
-{05}{02}
-           Group  SNE{05}{00}
+{05}{02}           Group  SNE{05}{00}{03}
+{03}
+{00}
 ------------------
 {00001a71}
-{05}{02}
-             M A C{03}
-        Hummingbird Soft{05}{00}
+{05}{02}             M A C{03}
+        Hummingbird Soft{05}{00}{03}
+{00}
 ------------------
 {00001a74}
-{05}{02}
-           Vic  Tokai{03}
-          Aeon Genesis{05}{00}
+{05}{02}           Vic  Tokai{03}
+          Aeon Genesis{05}{00}{00}
 ------------------
 {00001a77}
             The  End{00}
