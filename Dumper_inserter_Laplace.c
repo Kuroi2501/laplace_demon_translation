@@ -122,6 +122,7 @@ void Escolhe_bloco(int seletor){
 		            printf("Inserindo: %s\n", caminho_trad);
 		            
 		            strcpy(caminho, "scripts_originais\\");
+		            strcpy(caminho_trad, "scripts_traduzidos\\");
 					strcpy(nome, "");
         		}
 			}
@@ -165,12 +166,12 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 	
 	
 	if ((arq = fopen (arq_dump,"r")) == NULL){
-        printf ("Erro na abertura do arquivo modificado!\n\n");
+        printf ("Erro na abertura do arquivo de texto!\n\n");
         exit (0);        
     }
     
     if ((out = fopen (nome,"r+b")) == NULL){
-        printf ("Erro na criação do arquivo!\n");
+        printf ("Erro na abertura do arquivo binário!\n");
         exit (0);        
     }
     
@@ -185,19 +186,13 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 	byte2 = memoria[parametros.offset_inicio+1];
 	byte3 = memoria[parametros.offset_inicio+2];
 	
-//	printf("Byte1: %.2x\nByte2: %.2x\nByte2: %.2x\n", byte1, byte2, byte3);
-//	getch();
-	
 	concat = ((byte3 << 16) | (byte2 << 8) | byte1);	 
 	offset_ini_texto = ((concat & 0x7f0000) >> 1) + (concat & 0x7fff);
 	
 	printf("Inserindo...\n");
 	
 	fseek (out, SEEK_SET + offset_ini_texto, SEEK_SET);
-	
-//	printf("Inicio do bloco: %.8x\n", offset_ini_texto);
-//	getch();
-	
+
 	while (fgets(s, 200, arq) != NULL){
 		
 		if(!strcmp(s, "------------------\n") || !strcmp(s, "------------------")){
@@ -210,10 +205,12 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 				
 				if(s[i+3] == '}'){
 					sscanf(&s[i+1], "%xx", &c);
-					fputc(c, out);
 					
-					if(c == 0x00){
+					if(c == 0xaa){
 						ponteiro_mod = ftell(out);
+					}
+					else{
+						fputc(c, out);
 					}
 					i= i+3;
 				}
@@ -221,11 +218,8 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 				if(s[i] == '{' && s[i+9] == '}'){
 					sscanf(&s[i+1], "%x", &ponteiro_orig);
 					if(ponteiro_mod != 0x00){
-//						printf("Nome do binario: %s\nPonteiro_orig: %.8x\nPonteiro_mod: %.8x\n", nome, ponteiro_orig, ponteiro_mod);
-//						getch();
-						//calcula_ponteiro(nome, ponteiro_orig, ponteiro_mod);
+						calcula_ponteiro(nome, ponteiro_orig, ponteiro_mod);
 					}
-					
 					i=i+9;
 				}	
 			}
@@ -238,14 +232,33 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 			}
 		}	
 	}
-
 	fclose(arq);
 	fclose(out);
 	free(memoria);
 	
-//	printf("A inserção foi realizada com êxito!\nPressione qualquer tecla para encerrar.\n");
-//	getch();
+}
+
+void calcula_ponteiro(char* arquivo_mod, unsigned int ponteiro, unsigned int ponteiro_mod){
+	FILE *arquivo;
+	unsigned int byte1, byte2, byte3, wbyte1, wbyte2, wbyte3, h, pont;
+
+	arquivo = fopen(arquivo_mod, "r+b");
 	
+	h = ponteiro_mod;
+
+	pont = (((h & 0x7f8000) << 1) + 0x8000 + (h & 0x7fff)) | 0x8000;
+
+	wbyte1 = (unsigned char)(pont >> 16);
+	wbyte2 = (unsigned char)((pont >> 8) & 0x000000FF);
+	wbyte3 = (unsigned char)(pont & 0x000000FF);
+
+	fseek (arquivo, 0+ponteiro, SEEK_SET);
+
+	fwrite(&wbyte3, sizeof(unsigned char), 1, arquivo);
+    fwrite(&wbyte2, sizeof(unsigned char), 1, arquivo);
+    fwrite(&wbyte1, sizeof(unsigned char), 1, arquivo);
+
+	fclose(arquivo);
 }
 
 
@@ -331,7 +344,7 @@ void Dumper(char* caminho, struct bloco parametros){
 			
 		}
 		
-		fprintf(arquivo_saida, "\n------------------\n");
+		fprintf(arquivo_saida, "{aa}\n------------------\n");
 
     }
 		
@@ -358,7 +371,7 @@ void Dumper(char* caminho, struct bloco parametros){
 		}
 	}
 	
-	fprintf(arquivo_saida, "{00}\n------------------\n");
+	fprintf(arquivo_saida, "{00}{aa}\n------------------\n");
     
     fclose(arquivo_saida);
     free(memoria);
