@@ -3184,5 +3184,5 @@ opposed him.{00}
 {000019ff}
 Louvain, who joked at the{03}
 tragedy born from Laplace's{03}
-death.
+death.{00}
 ------------------

@@ -302,9 +302,6 @@ void Dumper(char* caminho, struct bloco parametros){
     	
     	concat_fim = ((byte6 << 16) | (byte5 << 8) | byte4);
     	offset_fim_texto = ((concat_fim & 0x7f0000) >> 1) + (concat_fim & 0x7fff);
-    	
-//    	printf("Offset_ini_texto: %.8x\nOffset_fim_texto: %.8x\n", offset_ini_texto, offset_fim_texto);
-//		getch();
 		
 		fprintf(arquivo_saida, "{%.8x}\n", i);
 		
