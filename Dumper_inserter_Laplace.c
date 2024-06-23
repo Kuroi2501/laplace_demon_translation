@@ -220,9 +220,12 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 			
 				if(s[i] == '{' && s[i+9] == '}'){
 					sscanf(&s[i+1], "%x", &ponteiro_orig);
-//					printf("Nome do binario: %s\nPonteiro_orig: %.8x\nPonteiro_mod: %.8x\n", nome, ponteiro_orig, ponteiro_mod);
-//					getch();
-					//calcula_ponteiro(nome, ponteiro_orig, ponteiro_mod);
+					if(ponteiro_mod != 0x00){
+//						printf("Nome do binario: %s\nPonteiro_orig: %.8x\nPonteiro_mod: %.8x\n", nome, ponteiro_orig, ponteiro_mod);
+//						getch();
+						//calcula_ponteiro(nome, ponteiro_orig, ponteiro_mod);
+					}
+					
 					i=i+9;
 				}	
 			}
@@ -240,8 +243,8 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 	fclose(out);
 	free(memoria);
 	
-	printf("A inserção foi realizada com êxito!\nPressione qualquer tecla para encerrar.\n");
-	getch();
+//	printf("A inserção foi realizada com êxito!\nPressione qualquer tecla para encerrar.\n");
+//	getch();
 	
 }
 
@@ -249,7 +252,7 @@ void Inserter(char* arq_dump, char* arq_trad, struct bloco parametros){
 void Dumper(char* caminho, struct bloco parametros){
 	FILE *arquivo_binario, *arquivo_saida;
     unsigned char *memoria;
-    unsigned int cont, i, j, tam, byte1, byte2, byte3, concat, offset_ini_texto;
+    unsigned int cont, i, j, h, tam, byte1, byte2, byte3, byte4, byte5, byte6, concat_ini, concat_fim, offset_ini_texto, offset_fim_texto;
 //	unsigned int offset_ini;
 //	unsigned int offset_fim;
     unsigned char tabela[256] = "@@@@@@@@@@@@@@@@"
@@ -259,10 +262,10 @@ void Dumper(char* caminho, struct bloco parametros){
 								"@@@@@@@@@@@@@@@@"
 								"0123456789ABCDEF"
 								"GHIJKLMNOPQRSTUV"
-								"WXYZ@@@,.@@@@@@@"
+								"WXYZ@@@,.@@@@-@/"
 								"abcdefghijklmnop"
 								"qrstuvwxyz@@@@@@"
-								"@@@@@@@'@@@@@@@@"
+								"@@:+@@@'@@@@@@@@"
 								"@@@@@@@@@@@@@@@@"
 								"@@@@@@@@@@@@@@@@"
 								"@@@@@@@@@@@@@@@@"
@@ -290,15 +293,36 @@ void Dumper(char* caminho, struct bloco parametros){
     	byte2 = memoria[i+1];
     	byte3 = memoria[i+2];
     	
-    	concat = ((byte3 << 16) | (byte2 << 8) | byte1);	 
-    	offset_ini_texto = ((concat & 0x7f0000) >> 1) + (concat & 0x7fff);
+    	byte4 = memoria[i+3];
+    	byte5 = memoria[i+4];
+    	byte6 = memoria[i+5];
     	
+    	concat_ini = ((byte3 << 16) | (byte2 << 8) | byte1);	 
+    	offset_ini_texto = ((concat_ini & 0x7f0000) >> 1) + (concat_ini & 0x7fff);
+    	
+    	concat_fim = ((byte6 << 16) | (byte5 << 8) | byte4);
+    	offset_fim_texto = ((concat_fim & 0x7f0000) >> 1) + (concat_fim & 0x7fff);
+    	
+//    	printf("Offset_ini_texto: %.8x\nOffset_fim_texto: %.8x\n", offset_ini_texto, offset_fim_texto);
+//		getch();
+		
 		fprintf(arquivo_saida, "{%.8x}\n", i);
+		
+		if(i == parametros.offset_fim){
+			break;
+		}
     	 
-    	for(j=offset_ini_texto;memoria[j]!=0x00;j++){
+    	for(j=offset_ini_texto;j<=offset_fim_texto-1;j++){
 			
-			if(memoria[j] == 0x03 || memoria[j] == 0x02){
+			if(memoria[j] == 0x05 && memoria[j+1] == 0x02){
+				fprintf(arquivo_saida, "{%.2x}{%.2x}", memoria[j], memoria[j+1]);
+				j++;
+			}
+			else if(memoria[j] == 0x03 || memoria[j] == 0x39){
 				fprintf(arquivo_saida, "{%.2x}\n", memoria[j]);
+			}
+			else if(memoria[j] == 0x02 || memoria[j] == 0x05){
+				fprintf(arquivo_saida, "{%.2x}", memoria[j]);
 			}
 			
 			else{
@@ -312,8 +336,34 @@ void Dumper(char* caminho, struct bloco parametros){
 			
 		}
 		
-		fprintf(arquivo_saida, "{00}\n------------------\n");
+		fprintf(arquivo_saida, "\n------------------\n");
+
     }
+		
+	for(h=offset_ini_texto;memoria[h]!=0x00;h++){
+		
+		if(memoria[h] == 0x05 && memoria[h+1] == 0x02){
+			fprintf(arquivo_saida, "{%.2x}{%.2x}", memoria[h], memoria[h+1]);
+			h++;
+		}
+		else if(memoria[h] == 0x03 || memoria[h] == 0x39){
+			fprintf(arquivo_saida, "{%.2x}\n", memoria[h]);
+		}
+		else if(memoria[h] == 0x02 || memoria[h] == 0x05){
+			fprintf(arquivo_saida, "{%.2x}", memoria[h]);
+		}
+		
+		else{
+			if(tabela[memoria[h]] != '@'){
+				fprintf(arquivo_saida, "%c", tabela[memoria[h]]);
+			}
+			else{
+				fprintf(arquivo_saida, "{%.2x}", memoria[h]);
+			}
+		}
+	}
+	
+	fprintf(arquivo_saida, "{00}\n------------------\n");
     
     fclose(arquivo_saida);
     free(memoria);
