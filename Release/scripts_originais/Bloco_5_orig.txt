@@ -1,0 +1,1986 @@
+{0000217f}
+The door to that place{03}
+creaked shut behind me for{03}
+the first time.{02}{00}{aa}
+------------------
+{00002182}
+It's impossible to describe{03}
+the atmosphere of that{03}
+horrible place.{02}{00}{aa}
+------------------
+{00002185}
+Hanging on the chain at the{03}
+back of the closet is an{03}
+amulet.{02}{00}{aa}
+------------------
+{00002188}
+Magic Amulet acquired.{02}{00}{aa}
+------------------
+{0000218b}
+Fools{75}{75} Leave at once{75}{75}{02}{00}{aa}
+------------------
+{0000218e}
+You have been warned.{03}
+Leave, before it's too{03}
+late{75}{02}{00}{aa}
+------------------
+{00002191}
+Benedict's hubris brought{03}
+a curse upon this hall.{03}
+All its residents, my wife,{02}{00}{aa}
+------------------
+{00002194}
+and the servants are its{03}
+victims.{02}{00}{aa}
+------------------
+{00002197}
+My wife is all I have.{02}{00}{aa}
+------------------
+{0000219a}
+In my room, there's a key.{03}
+Take it and go to the{03}
+chapel.{02}{00}{aa}
+------------------
+{0000219d}
+Please lift the curse from{03}
+this house. You are the{03}
+only ones I can ask.{02}{00}{aa}
+------------------
+{000021a0}
+Something shines behind{03}
+the dancing flames.{03}
+Shall I take it{76}{02}{00}{aa}
+------------------
+{000021a3}
+I can feel the flames heat.{03}
+Shall I really brave this{03}
+intense heat{76}{02}{00}{aa}
+------------------
+{000021a6}
+The flames die out.{03}
+I found a Silver Ring in{03}
+an alcove.{02}{00}{aa}
+------------------
+{000021a9}
+A crumpled up piece of{03}
+paper. It appears to be a{03}
+map for the Hall...{02}{00}{aa}
+------------------
+{000021ac}
+Hall 1F Map acquired.{02}{00}{aa}
+------------------
+{000021af}
+The dim apparition seemed{03}
+to mouth words of urgency,{03}
+but vanished before it{02}could convey any meaning.{02}{00}{aa}
+------------------
+{000021b2}
+There was a heavy key{03}
+within the drawer.{02}{00}{aa}
+------------------
+{000021b5}
+There's a musty old book{03}
+lying beneath the bed.{03}
+It's an old bible.{02}{00}{aa}
+------------------
+{000021b8}
+Holy Roman Bible acquired.{02}{00}{aa}
+------------------
+{000021bb}
+Something is scrawled{03}
+onto the table.{02}{00}{aa}
+------------------
+{000021be}
+{79}Humanity's dark nature{03}
+has made a home on the{03}
+floor above{75}{7a}{02}{00}{aa}
+------------------
+{000021c1}
+A book titled{03}
+{79}Histories of Weathertop.{7a}{02}{00}{aa}
+------------------
+{000021c4}
+{79}Histories{7a} acquired.{02}{00}{aa}
+------------------
+{000021c7}
+A book titled{03}
+{79}Bestiaries Most Profane{7a}{02}{00}{aa}
+------------------
+{000021ca}
+I see the corpse of an{03}
+explorer before me.{02}{00}{aa}
+------------------
+{000021cd}
+From its neck hangs a{03}
+pendant with initials of{03}
+L. M. inscribed upon it.{02}{00}{aa}
+------------------
+{000021d0}
+The corpse is probably that{03}
+of Martin, the man the town{03}
+hired to investigate.{02}Should we drag his corpse{03}
+back into town{76}{02}{00}{aa}
+------------------
+{000021d3}
+And so I ensured his family{03}
+that his corpse was laid to{03}
+proper rest.{02}{00}{aa}
+------------------
+{000021d6}
+A statue atop a fountain{03}
+gushes water from the{03}
+middle of the lake.{02}{00}{aa}
+------------------
+{000021d9}
+The statue resembles the{03}
+one seen underground...{02}{00}{aa}
+------------------
+{000021dc}
+It might just be my{03}
+imagination,{02}but I get the strangest{03}
+feeling from this broken{03}
+statue...{02}{00}{aa}
+------------------
+{000021df}
+There's quite an aged grave{03}
+here. It's that of James{03}
+Weathertop the First.{02}{00}{aa}
+------------------
+{000021e2}
+A molded grave lies here.{02}{00}{aa}
+------------------
+{000021e5}
+Smell of upset grave dirt.{03}
+This one is still fresh.{02}It belongs to Richard,{03}
+late master of the hall.{02}{00}{aa}
+------------------
+{000021e8}
+This grave is recent, I can{03}
+tell.{02}It belongs to Janet, late{03}
+lady of the hall.{02}{00}{aa}
+------------------
+{000021eb}
+This headstone is a bit{03}
+uneven.{02}When I look closely, it{03}
+seems like something dug{03}
+its way out of the grave.{02}{00}{aa}
+------------------
+{000021ee}
+As I dig deeper, I unearth{03}
+nary a coffin, but instead{03}
+a lone ring.{02}{00}{aa}
+------------------
+{000021f1}
+Memento Ring acquired.{02}{00}{aa}
+------------------
+{000021f4}
+All of us then reinterred{03}
+the corpse of Lady Janet{03}
+Weathertop.{02}{00}{aa}
+------------------
+{000021f7}
+Realized {04}{03}
+{03}
+experience.{02}{00}{aa}
+------------------
+{000021fa}
+ gained.{02}{00}{aa}
+------------------
+{000021fd}
+I've found a hidden door.{02}{00}{aa}
+------------------
+{00002200}
+A hastily scrawled memo is{03}
+there in the drawer.{02}{00}{aa}
+------------------
+{00002203}
+Benedict's Memo acquired.{02}{00}{aa}
+------------------
+{00002206}
+An amulet in the shape of a{03}
+star is in the drawer.{02}{00}{aa}
+------------------
+{00002209}
+Stellar Charm acquired.{02}{00}{aa}
+------------------
+{0000220c}
+The hairs on my neck are{03}
+standing up, but why...{76}{02}{00}{aa}
+------------------
+{0000220f}
+Help me, {04}{04}.{03}
+Suddenly, a dim apparition{03}
+appeared...{02}{00}{aa}
+------------------
+{00002212}
+So much pain.. I require{02}your aid to lift the curse{03}
+corrupting the very walls{03}
+of this hall...{02}{00}{aa}
+------------------
+{00002215}
+The four Elder Signs...{03}
+The spirit then flickers{03}
+and vanishes.{02}{00}{aa}
+------------------
+{00002218}
+The spirit flickers and{03}
+then vanishes.{02}{00}{aa}
+------------------
+{0000221b}
+A dusty but ornate mirror{03}
+lies in the drawer.{02}{00}{aa}
+------------------
+{0000221e}
+Mirror of Purity acquired.{02}{00}{aa}
+------------------
+{00002221}
+This Elder Sign hums with{03}
+some strange power, but it{02}appears to be contained for{03}
+now, at least...{02}{00}{aa}
+------------------
+{00002224}
+Return to Newcam{76}{02}{00}{aa}
+------------------
+{00002227}
+This wall appears to be a{03}
+new addition.{02}{00}{aa}
+------------------
+{0000222a}
+There's a tarnished copper{03}
+key in the drawer.{02}{00}{aa}
+------------------
+{0000222d}
+Copper Key acquired.{02}{00}{aa}
+------------------
+{00002230}
+A female corpse lies atop{03}
+the linens.{02}I approach to examine more{03}
+closely, and a voice comes{03}
+from a dry dead throat...{02}{00}{aa}
+------------------
+{00002233}
+I am Janet, Benedict's{03}
+mother, and I thank you for{03}
+driving out the evil here.{02}My son used forbidden maths{03}
+in trying to twist time and{03}
+return me to life...{02}{00}{aa}
+------------------
+{00002236}
+And those dark equations{03}
+wrought upon us all a most{03}
+terrible tragedy and woe.{02}{00}{aa}
+------------------
+{00002239}
+Benedict has fallen into a{03}
+different world from the{03}
+Elder Sign in the study...{02}{00}{aa}
+------------------
+{0000223c}
+I beg, return my son to me.{02}{00}{aa}
+------------------
+{0000223f}
+Benedict has hid a secret{03}
+in this small room...{02}{00}{aa}
+------------------
+{00002242}
+Perhaps you will find it{03}
+useful. Please, take it{03}
+with you with my blessing.{02}{00}{aa}
+------------------
+{00002245}
+The spirit and the corpse{03}
+of lady Janet are here...{02}{00}{aa}
+------------------
+{00002248}
+That terrible spirit you{03}
+defeated had been sealing{03}
+the power of the Holy Bell.{02}But with it gone I can{03}
+restore the bell's power,{03}
+and you must ring it.{02}Even I can find peace from{03}
+the power of that bell if{03}
+it be rung.{02}But please, bury my body{03}
+in the basement first{75}{02}Without the protection of{03}
+the earth around my body,{03}
+the bell will destroy me.{02}Incidentally, I caught{03}
+Benedict hiding an item in{03}
+the small room beside me.{02}Perhaps you will find it{03}
+useful. Take it with you,{03}
+with my blessings.{02}{00}{aa}
+------------------
+{0000224b}
+The corpse of Lady Janet{03}
+lies there, still. Shall I{03}
+carry it forth{76}{02}{00}{aa}
+------------------
+{0000224e}
+A corpse lies there. Shall{03}
+I carry it forth{76}{02}{00}{aa}
+------------------
+{00002251}
+A bright Amethyst lies in{03}
+the drawer.{02}{00}{aa}
+------------------
+{00002254}
+Amethyst Gemstone{03}
+acquired.{02}{00}{aa}
+------------------
+{00002257}
+There is a man crouched in{03}
+the center of the room.{02}{00}{aa}
+------------------
+{0000225a}
+The crouched man lunges at{03}
+me and attacks{75}{02}{00}{aa}
+------------------
+{0000225d}
+The man seemed like little{03}
+more than a violent bulk.{02}{00}{aa}
+------------------
+{00002260}
+My memory is a haze...{03}
+but I recall being attacked{03}
+by some creature, then...{02}You. Thank you. I must go{03}
+back into town with you{75}{02}{00}{aa}
+------------------
+{00002263}
+This man is half dead.{03}
+I can't abandon him here.{02}{00}{aa}
+------------------
+{00002266}
+Gordon and I headed back to{03}
+town, both a little bit{03}
+wiser.{02}{00}{aa}
+------------------
+{00002269}
+Bullets of bright silver{03}
+lie in the drawer.{02}{00}{aa}
+------------------
+{0000226c}
+Quicksilver Shot acquired.{02}{00}{aa}
+------------------
+{0000226f}
+The room looks like it was{03}
+hit by a freak storm.{02}{00}{aa}
+------------------
+{00002272}
+The bed rises in the air,{03}
+then flies towards me{75}{02}{00}{aa}
+------------------
+{00002275}
+This bed is in tatters.{02}{00}{aa}
+------------------
+{00002278}
+This chair is completely{03}
+broken.{02}{00}{aa}
+------------------
+{0000227b}
+Oh, a broken desk.{02}{00}{aa}
+------------------
+{0000227e}
+Within the broken drawer{03}
+lies a flashlight.{02}{00}{aa}
+------------------
+{00002281}
+Electric Torch acquired.{02}{00}{aa}
+------------------
+{00002284}
+Books of the occult, as{03}
+well as... books on maths{03}
+and sciences{76}{02}{00}{aa}
+------------------
+{00002287}
+So many modern texts on{03}
+chance and probability{03}
+here, but why{76}{02}{00}{aa}
+------------------
+{0000228a}
+Many entries are scrawled{03}
+in the margins, most about{02}something called Laplace's{03}
+Demon...{02}{00}{aa}
+------------------
+{0000228d}
+I do believe these are{03}
+Salts of Amun in the{03}
+drawer.{02}{00}{aa}
+------------------
+{00002290}
+Salts of Amun acquired.{02}{00}{aa}
+------------------
+{00002293}
+There is a stagnate,{03}
+bestial odor that permeates{03}
+this room.{02}{00}{aa}
+------------------
+{00002296}
+I can see a small bell-{03}
+adorned chapel outside by{03}
+looking through the window.{02}{00}{aa}
+------------------
+{00002299}
+There's {eb}200 in the drawer.{02}{00}{aa}
+------------------
+{0000229c}
+{eb}200 acquired.{02}{00}{aa}
+------------------
+{0000229f}
+found.{02}{00}{aa}
+------------------
+{000022a2}
+acquired.{02}{00}{aa}
+------------------
+{000022a5}
+This room is absolutely{03}
+crawling with vein-like ivy{03}
+over every surface.{02}{00}{aa}
+------------------
+{000022a8}
+Is that the light of an{03}
+Elder Sign shining from{03}
+beneath the ivy{76}{02}{00}{aa}
+------------------
+{000022ab}
+The ivy comes alive and{03}
+attacks me{75}{02}{00}{aa}
+------------------
+{000022ae}
+The Elder Sign casts an{03}
+eerie glow.{02}{00}{aa}
+------------------
+{000022b1}
+Shall I attempt to unseal{03}
+it{76}{02}{00}{aa}
+------------------
+{000022b4}
+I'll ignore the Elder Sign{03}
+for now.{02}{00}{aa}
+------------------
+{000022b7}
+I unsealed the Elder Sign.{02}{00}{aa}
+------------------
+{000022ba}
+There's a strange flower{03}
+beneath the other plants in{03}
+this room.{02}{00}{aa}
+------------------
+{000022bd}
+Common Rue Herbs acquired.{02}{00}{aa}
+------------------
+{000022c0}
+A sick pressure rises from{03}
+the altar, and a chill{03}
+blows through the room.{02}{00}{aa}
+------------------
+{000022c3}
+{79}Offer the Holy Words{7a} is{03}
+engraved on the altar.{02}{00}{aa}
+------------------
+{000022c6}
+I see a statue here.{02}{00}{aa}
+------------------
+{000022c9}
+Some sort of dark force{03}
+holds it in place.{02}{00}{aa}
+------------------
+{000022cc}
+The passageway becomes a{03}
+gentle slope.{02}{00}{aa}
+------------------
+{000022cf}
+I see the spirits of{03}
+Benedict's parents appear{03}
+from the darkness...{02}{00}{aa}
+------------------
+{000022d2}
+We have our freedom, and{03}
+are in your eternal debt.{02}Thank you so much. But the{03}
+true cause of the anomalies{03}
+remains still.{02}Cross between worlds to the{03}
+hall in the other dimension{03}
+and bring back our son.{02}Unless he returns, there{03}
+will be disaster upon all{03}
+the world.{02}We pray for your success.{02}{00}{aa}
+------------------
+{000022d5}
+The spirit couple vanishes{03}
+from my gaze.{02}{00}{aa}
+------------------
+{000022d8}
+I try the bell but it does{03}
+not appear to work.{02}{00}{aa}
+------------------
+{000022db}
+The floor and the walls are{03}
+all damp.{02}{00}{aa}
+------------------
+{000022de}
+This statue seems to be a{03}
+fountain. Its mouth is open{03}
+but no water flows out.{02}{00}{aa}
+------------------
+{000022e1}
+A small lever.{03}
+Shall I try pulling it{76}{02}{00}{aa}
+------------------
+{000022e4}
+Water now flows from the{03}
+fountain.{02}{00}{aa}
+------------------
+{000022e7}
+The water gathers in the{03}
+dried out pool below. I{03}
+retrace my steps in panic.{02}{00}{aa}
+------------------
+{000022ea}
+A memo was left behind.{03}
+{79}One should not enter the{03}
+chapel without a bible.{7a}{02}{00}{aa}
+------------------
+{000022ed}
+There's a book entitled{03}
+{79}Tool Appraisal{7a}.{02}{00}{aa}
+------------------
+{000022f0}
+There was a brooch in the{03}
+drawer.{02}{00}{aa}
+------------------
+{000022f3}
+Cameo Brooch acquired.{02}{00}{aa}
+------------------
+{000022f6}
+I feel a presence enter the{03}
+room...{02}{00}{aa}
+------------------
+{000022f9}
+A twisted presence lies in{03}
+the room on the northern{03}
+side.{02}{00}{aa}
+------------------
+{000022fc}
+Perhaps Salts of Amun may{03}
+purify him, but those{03}
+without should flee.{02}{00}{aa}
+------------------
+{000022ff}
+Fighting him is a gesture{03}
+in futility.{02}Please, just run away{03}
+while you still can.{02}{00}{aa}
+------------------
+{00002302}
+This room is strangely{03}
+colder than the others.{02}I see something in the far{03}
+left of the room.{02}{00}{aa}
+------------------
+{00002305}
+The corpse's face is frozen{03}
+in terror.{02}{00}{aa}
+------------------
+{00002308}
+A folded map is in his{03}
+pocket.{02}{00}{aa}
+------------------
+{0000230b}
+Basement Map acquired.{02}{00}{aa}
+------------------
+{0000230e}
+This is the corpse of the{03}
+person sent by the town who{03}
+is said to have vanished.{02}Should I just carry it back{03}
+to town{76}{02}{00}{aa}
+------------------
+{00002311}
+This corpse is ancient.{03}
+But its hollow eye sockets{03}
+still seem like that watch.{02}{00}{aa}
+------------------
+{00002314}
+A small, crying child{03}
+entered via a secret{03}
+passageway in the very{02}{00}{aa}
+------------------
+{00002317}
+same room in which Master{03}
+Benedict disappeared.{03}
+Check the study.{02}{00}{aa}
+------------------
+{0000231a}
+Some Salts of Amun are{03}
+in the drawer.{02}{00}{aa}
+------------------
+{0000231d}
+A key made of silver is in{03}
+the drawer.{02}{00}{aa}
+------------------
+{00002320}
+Silver Key acquired.{02}{00}{aa}
+------------------
+{00002323}
+I'm sickened from looking{03}
+at this dirty torture rack.{02}{00}{aa}
+------------------
+{00002326}
+There's a battery on the{03}
+ground.{02}{00}{aa}
+------------------
+{00002329}
+Dry Cell Battery acquired.{02}{00}{aa}
+------------------
+{0000232c}
+I've found an old shovel.{02}{00}{aa}
+------------------
+{0000232f}
+Digging Spade acquired.{02}{00}{aa}
+------------------
+{00002332}
+A single girl's shoe lies{03}
+on the ground.{02}{00}{aa}
+------------------
+{00002335}
+The shelves lining this{03}
+musty room are completely{02}covered in spider webs.{03}
+What manner of tomes and{03}
+antiquities are here{76}{02}{00}{aa}
+------------------
+{00002338}
+I see some sort of blade{03}
+laying upon the shelf.{02}{00}{aa}
+------------------
+{0000233b}
+Curved Backsword acquired.{02}{00}{aa}
+------------------
+{0000233e}
+The bell of this hall has{03}
+powers of purification.{02}However, the Elder Sign has{03}
+sealed shut the door to{03}
+reach the bell.{02}Please, ring the bell and{03}
+free us from our torment.{02}{00}{aa}
+------------------
+{00002341}
+I am the butler for the{03}
+Weathertops.{02}Woe has befallen our hall{03}
+since Master Benedict{03}
+dabbled in maths most dark.{02}We are bound to this{03}
+hall as lost souls.{03}
+Please save us.{02}Here is the key to Master{03}
+Benedict's private chamber.{03}
+Please search it well.{02}Also, the spirit of Master{03}
+Benedict's father...{02}... resides in a painting{03}
+in the drawing room.{02}He knows far more about the{03}
+curse in the hall than I,{03}
+so please speak to him.{02}{00}{aa}
+------------------
+{00002344}
+The door is locked.{02}It appears far too heavy{03}
+for me to try and open it{03}
+by force.{02}{00}{aa}
+------------------
+{00002347}
+The other side seems to be{03}
+blocked with a bar.{02}{00}{aa}
+------------------
+{0000234a}
+Not much to see here, it{03}
+seems.{02}{00}{aa}
+------------------
+{0000234d}
+Broken Camera acquired.{02}{00}{aa}
+------------------
+{00002350}
+Its appearance seems weird{03}
+somehow, but I don't think{03}
+it will attack me.{02}{00}{aa}
+------------------
+{00002353}
+Mythos burns when I think{03}
+of it.{02}{00}{aa}
+------------------
+{00002356}
+Learned {79}Flame{7a}{03}
+invocation.{02}{00}{aa}
+------------------
+{00002359}
+Mythos wriggles into my{03}
+puny human brain.{02}{00}{aa}
+------------------
+{0000235c}
+Learned {79}Magic Endowment{7a}{03}
+invocation.{02}{00}{aa}
+------------------
+{0000235f}
+Mythos whispers pervade{03}
+my every thought and I{03}
+want to die.{02}{00}{aa}
+------------------
+{00002362}
+Learned {79}Magic Absorb{7a}{03}
+invocation.{02}{00}{aa}
+------------------
+{00002365}
+This wall is newer than the{03}
+others, I think.{02}But it seems too sturdy to{03}
+break through.{02}{00}{aa}
+------------------
+{00002368}
+Magic of wasting creeps in{03}
+mind from this book.{02}{00}{aa}
+------------------
+{0000236b}
+Learned {79}Corrode{7a}{03}
+invocation.{02}{00}{aa}
+------------------
+{0000236e}
+Words of dread snarl{03}
+from this book.{02}{00}{aa}
+------------------
+{00002371}
+Learned {79}Terror{7a} invocation.{02}{00}{aa}
+------------------
+{00002374}
+A comforting glow seeps{03}
+from this book.{02}{00}{aa}
+------------------
+{00002377}
+Learned {79}Cloud of{03}
+Protection{7a} invocation.{02}{00}{aa}
+------------------
+{0000237a}
+The chill air flowing from{03}
+the altar stopped.{02}{00}{aa}
+------------------
+{0000237d}
+This book seems to{03}
+consume light.{02}{00}{aa}
+------------------
+{00002380}
+Learned {79}Blind{7a} invocation.{02}{00}{aa}
+------------------
+{00002383}
+A stone humming with power{03}
+is in the drawer.{02}{00}{aa}
+------------------
+{00002386}
+Effluent Energist{03}
+acquired.{02}{00}{aa}
+------------------
+{00002389}
+I hear a sound. Something{03}
+approaches{75}{02}{00}{aa}
+------------------
+{0000238c}
+Shall I remove the trap{76}{02}{00}{aa}
+------------------
+{0000238f}
+I undo the trap.{02}{00}{aa}
+------------------
+{00002392}
+A face appears on the front{03}
+of the door and attacks{75}{02}{00}{aa}
+------------------
+{00002395}
+I am pinned down by a{03}
+mysterious force.{02}{00}{aa}
+------------------
+{00002398}
+None of it makes sense,{03}
+but there is a mark on the{03}
+section of Laplace's Demon{02}{00}{aa}
+------------------
+{0000239b}
+A rat scurries in.{02}{00}{aa}
+------------------
+{0000239e}
+The bookshelf fell down{75}{02}{00}{aa}
+------------------
+{000023a1}
+A desk suddenly lifts{03}
+itself into the air and{03}
+charges at me{75}{02}{00}{aa}
+------------------
+{000023a4}
+An eerie laugh echoes{03}
+throughout the room, then{03}
+just as suddenly stops.{02}{00}{aa}
+------------------
+{000023a7}
+A black shadow emanates{03}
+from the book's pages.{02}{79}You will find only death{03}
+in this hall. Beware the{03}
+mansion's curse{75}{7a}{02}The shadow disappeared,{03}
+leaving behind an eerie{03}
+laugh.{02}{00}{aa}
+------------------
+{000023aa}
+The stacked books collapse{02}{00}{aa}
+------------------
+{000023ad}
+A vision manifested itself{03}
+before me.{02}A shadowy man clasping a{03}
+bloodied dagger muttering.{02}He appears to be praying to{03}
+an Elder Sign.{02}His invocation begins, and{03}
+then ends with a demand for{03}
+his mother's resurrection.{02}Before anything else could{03}
+happen, the vision faded.{02}{00}{aa}
+------------------
+{000023b0}
+I'm having strange episodes{03}
+where I lose consciousness.{02}While out, even if only for{03}
+a moment, I experience odd{03}
+visions of a fantasy world.{02}In it there's a castle from{03}
+the Middle Ages, right in{03}
+the middle of a forest.{02}I thought I saw the face of{03}
+Benedict Weathertop in one{03}
+of its windows. Odd.{02}{00}{aa}
+------------------
+{000023b3}
+You intend to go to{03}
+Weathertop Hall, right{76}{02}You should take my advice{03}
+and just quit.{02}The last group of four{03}
+went inside just recently,{03}
+and never returned.{02}But if you're going to go{03}
+there anyway, I have some{03}
+tools for sale.{02}{00}{aa}
+------------------
+{000023b6}
+Welcome, what do you need{03}
+today{76}{02}{00}{aa}
+------------------
+{000023b9}
+Welcome. Will you require a{03}
+room for the evening{76}{00}{aa}
+------------------
+{000023bc}
+Welcome back. Do you need{03}
+anything{76}{00}{aa}
+------------------
+{000023bf}
+What'll it be today{76}{00}{aa}
+------------------
+{000023c2}
+Here you can receive expert{03}
+training on every manner of{03}
+talent.{02}Would you like to start{03}
+talent training{76}{00}{aa}
+------------------
+{000023c5}
+Good to see you return.{03}
+Will you train in talents{76}{00}{aa}
+------------------
+{000023c8}
+Do you need something{76}{00}{aa}
+------------------
+{000023cb}
+The future can be revealed{03}
+to me. Any future can be.{02}What you are embroiled in{03}
+is way bigger than you.{02}Do you wish to know what{03}
+Fate has in store for you{76}{00}{aa}
+------------------
+{000023ce}
+Wise are you to come to me,{03}
+for I can reveal all that{03}
+your Fate holds in store{75}{00}{aa}
+------------------
+{000023d1}
+I see a man beset by a{03}
+terrible curse.{02}Go to the drawing room and{03}
+listen to what he has to{03}
+say.{02}{00}{aa}
+------------------
+{000023d4}
+I see a polite butler.{03}
+Meet him and get the key{03}
+he holds.{02}You may continue your{03}
+visit from there.{02}{00}{aa}
+------------------
+{000023d7}
+A spirit suffering from the{03}
+hall's curse is seeking{03}
+help.{02}It is in the north wing of{03}
+the first floor.{02}{00}{aa}
+------------------
+{000023da}
+One of the stars you're{03}
+searching for is on the{03}
+2nd floor.{02}{00}{aa}
+------------------
+{000023dd}
+One of the stars you're{03}
+searching for is in the{03}
+basement.{02}But to get to it, you must{03}
+drain the water from the{03}
+lake.{02}A statue in the basement{03}
+might be a clue.{02}{00}{aa}
+------------------
+{000023e0}
+One of the stars you're{03}
+searching for is in the{03}
+basement.{02}But it is protected by an{03}
+invincible presence{75}{02}Take some Salts of Amun.{02}{00}{aa}
+------------------
+{000023e3}
+One of the stars you're{03}
+searching for is in the{03}
+basement.{02}But to get to it, you must{03}
+find a secret path beneath{03}
+the chapel.{02}{00}{aa}
+------------------
+{000023e6}
+I can hear the wailing of{03}
+Benedict's mother. A clue is{03}
+likely buried in her grave.{02}{00}{aa}
+------------------
+{000023e9}
+I can hear his mother's{03}
+wailing from the 2nd floor.{02}Climb the stairs to the{03}
+west.{02}{00}{aa}
+------------------
+{000023ec}
+Ring the holy bell. Doing{03}
+so should open the path to{03}
+a new world.{02}{00}{aa}
+------------------
+{000023ef}
+Undo the 4 Elder Signs{03}
+and ring the bell.{02}Doing so will open the path{03}
+to a new world.{02}{00}{aa}
+------------------
+{000023f2}
+Benedict is not in this{03}
+world.{02}He passed through the last{03}
+remaining Elder Sign in{03}
+the hall...{02}... and disappeared into{03}
+another world.{02}He is in danger. He must be{03}
+brought back, or immense{03}
+disaster could befall us.{02}{00}{aa}
+------------------
+{000023f5}
+Benedict is being held{03}
+somewhere.{02}The first thing you should{03}
+do is investigate the{03}
+basement.{02}{00}{aa}
+------------------
+{000023f8}
+To breathe life into{03}
+the fountain, you{02}should search every nook an{03}
+cranny of the basement.{02}{00}{aa}
+------------------
+{000023fb}
+Giving life to the{03}
+fountain will top the{03}
+water flow.{02}Upon doing so, a path to{03}
+the south should appear.{02}{00}{aa}
+------------------
+{000023fe}
+Search for the head{03}
+servant. He should be{03}
+somewhere in the basement.{02}{00}{aa}
+------------------
+{00002401}
+There are many people{03}
+being held in the{03}
+underground dungeon.{02}Find the cell key and{03}
+rescue them.{02}{00}{aa}
+------------------
+{00002404}
+Please go meet the{03}
+impolite corpse.{02}He is waiting for you in{03}
+the castle's torture{03}
+chamber.{02}{00}{aa}
+------------------
+{00002407}
+An arcane force is{03}
+blocking your path to the{03}
+south of the waterway.{02}Before you fight it,{03}
+meet the wizard being held{03}
+in the basement.{02}{00}{aa}
+------------------
+{0000240a}
+An arcane force is{03}
+blocking your path to the{03}
+south of the waterway.{02}You must face it in order{03}
+to go forward.{02}The magician you freed{03}
+should help you.{02}{00}{aa}
+------------------
+{0000240d}
+The enemy you must defeat{03}
+is south of the waterway.{02}{00}{aa}
+------------------
+{00002410}
+The object you seek is on{03}
+the 2nd floor.{02}{00}{aa}
+------------------
+{00002413}
+The place you are headed{03}
+for is the north part of{03}
+the 3rd floor.{02}Prepare for the worst. The{03}
+path is long and difficult.{02}{00}{aa}
+------------------
+{00002416}
+The place you are headed{03}
+for is the west part of{03}
+the 3rd floor.{02}Prepare for the worst. The{03}
+path is long and difficult.{02}{00}{aa}
+------------------
+{00002419}
+The place you are headed{03}
+for is the west part of{03}
+the 3rd floor.{02}A great sorrow awaits you{03}
+there.{02}{00}{aa}
+------------------
+{0000241c}
+The place you are headed to{03}
+is the northwest part of{03}
+the 3rd Floor.{02}Several mysteries await you{03}
+there.{02}{00}{aa}
+------------------
+{0000241f}
+The ferryman statue is on{03}
+the 2nd floor{a8} the compass{03}
+is on the 3rd.{02}{00}{aa}
+------------------
+{00002422}
+A girl is being held to the{03}
+northeast of the lake. You{03}
+have to meet her.{02}{00}{aa}
+------------------
+{00002425}
+I can see Benedict.{02}He is being held in a room{03}
+in the southeast part of{03}
+the 3rd floor.{02}An undead monster guards{03}
+him that you cannot fight.{02}A holy goblet or talisman c{03}
+can drive it away to get to{03}
+Benedict.{02}{00}{aa}
+------------------
+{00002428}
+I can see Benedict.{02}He is being held in a room{03}
+in the southeast part of{03}
+the third floor.{02}An undead monsters guards{03}
+him there.{02}The curse on the monster{03}
+can be undone with a holy{03}
+cup or talisman.{02}{00}{aa}
+------------------
+{0000242b}
+A beautiful princess waits{03}
+for you by the lake.{02}{00}{aa}
+------------------
+{0000242e}
+See the king. If you don't,{03}
+this world shall soon be{03}
+destroyed.{02}{00}{aa}
+------------------
+{00002431}
+Benedict slipped through an{03}
+Elder Sign again in order{03}
+to usurp Laplace's throne.{02}Destruction is all that{03}
+waits for him there.{02}And that destruction shall{03}
+consume our world as well.{02}Once through the Elder Sign{03}
+you may not be able to come{03}
+back through it this way.{02}Seek those in the other{03}
+world who may be willing to{03}
+lend you aid.{02}Make all necessary{03}
+preparations before you go{03}
+to the other side.{02}{00}{aa}
+------------------
+{00002434}
+You want to examine the{03}
+haunted hall too, right{76}{02}A lot of folks doing the{03}
+same have gathered here.{03}
+You should talk to them.{02}Detectives rely on guns and{03}
+wits. Mediums have access{03}
+to powers of psychomancy.{02}Your journalist can capture{03}
+photographs of the foes you{03}
+meet and sell them.{02}That scientist has some odd{03}
+machine that appears to be{03}
+quite powerful.{02}The dabbler understands{03}
+the magic of mythos, but{03}
+also carries a firearm.{02}Take all this into your{03}
+consideration as you are{03}
+choosing who will go with{02}you into Weathertop Hall.{02}{00}{aa}
+------------------
+{00002437}
+How's the investigation{03}
+going{76}{02}By the way, did you see the{03}
+old fortune teller{76}{02}She has a reputation of{03}
+being eerily accurate.{02}{00}{aa}
+------------------
+{0000243a}
+You're going to Weathertop{03}
+Hall{76}{02}They say there are monsters{03}
+there, so you'd best bring{03}
+Medicine and Charms.{02}{00}{aa}
+------------------
+{0000243d}
+I wonder if that missing{03}
+girl Amy is all right{76}{02}{00}{aa}
+------------------
+{00002440}
+{01}{02}Alec Quinn. Detective.{02}I'm investigating the local{03}
+girl who went missing near{03}
+Weathertop Hall.{02}I don't think any of us{03}
+should go in there alone.{02}So, how about the both of{03}
+us go in together{76} It'd be{03}
+safest with the two of us{02}watching each others'{03}
+backs.{02}{01} {00}{aa}
+------------------
+{00002443}
+{01}{02}Outstanding{75} The girl I'm{03}
+searching for is named Amy.{02}Her mother is sitting just{03}
+over by the bar, if you'd{03}
+like to speak with her.{02}{01} {00}{aa}
+------------------
+{00002446}
+{01}{02}Rats{75} If you feel like you{03}
+want to change your tune, I{03}
+will be around.{02}{01} {00}{aa}
+------------------
+{00002449}
+{01}{02}Alec Quinn. Detective.{02}I'm investigating the local{03}
+girl who went missing near{03}
+Weathertop Hall.{02}If you feel like you need{03}
+my help, I'll be around if{03}
+you come looking for me.{02}{01} {00}{aa}
+------------------
+{0000244c}
+{01}{09}My name is Morgan Dylan.{03}
+I'm a journalist.{02}I came to get a scoop on{03}
+the Weathertop Hall case.{02}You're going to the haunted{03}
+mansion, right{76}{02}Word on the street is the{03}
+hall is haunted and full of{03}
+horrible creatures.{02}Mind if I tag along{76}{02}{01} {00}{aa}
+------------------
+{0000244f}
+{01}{09}Thanks.{02}{01} {00}{aa}
+------------------
+{00002452}
+{01}{09}That's a damn shame.{02}I'll be at the hotel, so if{03}
+you change your mind, come{03}
+find me, okay{76}{02}{01} {00}{aa}
+------------------
+{00002455}
+{01}{09}The name's Morgan Dylan.{03}
+I'm a journalist.{02}I came to get a scoop on{03}
+the Weathertop Hall case.{02}Word on the street is the{03}
+hall is haunted and full of{03}
+horrible creatures.{02}I'll be staying at the{03}
+hotel, so come by if you{03}
+need me for anything.{02}{01} {00}{aa}
+------------------
+{00002458}
+{01}{05}Hello I'm Vincent Hoffman.{03}
+Weathertop Hall seems a{03}
+perfect place to test my{02}Spirit Machine, but I'm{03}
+too scared to go alone.{03}
+Please take me with you.{02}{01} {00}{aa}
+------------------
+{0000245b}
+{01}{05}You have my gratitude.{02}{01} {00}{aa}
+------------------
+{0000245e}
+{01}{05}I see. I'll be at the hotel{03}
+if you change your mind, so{03}
+please come by.{02}{01} {00}{aa}
+------------------
+{00002461}
+{01}{05}I'm Vincent Hoffman.{03}
+I'm here to test my newly{03}
+developed Spirit Machine.{02}If you'd like to know the{03}
+true power of my machine,{03}
+please come to the hotel.{02}{01} {00}{aa}
+------------------
+{00002464}
+{01}{0a}I'm Lamonte Blackwood.{03}
+I dabble in things like{03}
+the mythos and magic.{02}I came to see if this{03}
+Weathertop event was truly{03}
+one involving the mythos,{02}but I can't continue{03}
+investigating by myself.{02}It looks like you're going{03}
+to Weathertop Hall, so{03}
+won't you let me come too{76}{02}{01} {00}{aa}
+------------------
+{00002467}
+{01}{0a}Thank you.{02}{01} {00}{aa}
+------------------
+{0000246a}
+{01}{0a}Oh, such a dreadful shame.{02}I've made my sanctum at the{03}
+hotel, so seek me there if{03}
+you change your mind.{02}{01} {00}{aa}
+------------------
+{0000246d}
+{01}{0a}I'm Lamonte Blackwood.{03}
+I dabble in things like{03}
+the mythos and magic.{02}My sanctum is at the hotel.{03}
+If you seek my knowledge,{03}
+come see me there.{02}{01} {00}{aa}
+------------------
+{00002470}
+{01}{06}My name is Dirk August.{02}I have spiritual powers...{02}and I came here to use them{03}
+to exorcise the evil spirit{03}
+hiding in Weathertop Hall.{02}How about it{76} Shall we go{03}
+together{76}{02}{01} {00}{aa}
+------------------
+{00002473}
+{01}{06}Well then, let's go.{02}{01} {00}{aa}
+------------------
+{00002476}
+{01}{06}That's too bad. I'll be at{03}
+the hotel, so if you need{03}
+my help please come by.{02}{01} {00}{aa}
+------------------
+{00002479}
+{01}{06}My name is Dirk August.{02}I have spiritual powers...{02}and I came here to use them{03}
+to exorcise the evil spirit{03}
+hiding in Weathertop Hall.{02}I'll be at the hotel, so if{03}
+you need my help please{03}
+come by.{02}{01} {00}{aa}
+------------------
+{0000247c}
+You can have a maximum of{03}
+five characters altogether,{02}but only four people active{03}
+in your party for now.{02}You will likely find your{03}
+fifth member during your{03}
+investigation.{02}{00}{aa}
+------------------
+{0000247f}
+If you don't have a medium,{03}
+it is impossible to fight{03}
+back against spirits.{02}Bullets and knives pass{03}
+right through their{03}
+incorporeal forms.{02}If you use the psychomancy{03}
+Temper on your weaponry,{02}though, your weapons can{03}
+then harm them.{02}{00}{aa}
+------------------
+{00002482}
+Benedict Weathertop is a{03}
+master of magic and math.{02}{00}{aa}
+------------------
+{00002485}
+Weathertop Hall is cursed.{02}Many have gone in, but not{03}
+a single one has ever{03}
+come back out.{02}{00}{aa}
+------------------
+{00002488}
+Ever since his mother died,{03}
+Benedict has mourned.{02}{00}{aa}
+------------------
+{0000248b}
+An oriental man entered{03}
+Weathertop Hall.{02}But I haven't seen him come{03}
+back out...{02}{00}{aa}
+------------------
+{0000248e}
+Some time ago, a purple{03}
+aurora appeared above{03}
+Weathertop Hall, and{02}Benedict vanished from{03}
+sight.{02}Ever since that day, the{03}
+hall has been cursed.{02}{00}{aa}
+------------------
+{00002491}
+You should buy lots of{03}
+batteries and bullets so{03}
+you don't run out of them.{02}{00}{aa}
+------------------
+{00002494}
+You should not only buy a{03}
+camera ahead of time, but{03}
+film as well.{02}{00}{aa}
+------------------
+{00002497}
+You should buy knives and{03}
+other weapons for times{03}
+when you run out of ammo.{02}{00}{aa}
+------------------
+{0000249a}
+Always in motion, is the{03}
+future. I can show you your{03}
+destiny, but it is up to{02}you to grasp it. I am only{03}
+a guide{a8} you must make my{03}
+fortune come true.{02}{00}{aa}
+------------------
+{0000249d}
+One session of divination{03}
+for {eb}10. Is that okay{76}{02}{00}{aa}
+------------------
+{000024a0}
+Don't try to cheat me. The{03}
+spirits hate that.{02}{00}{aa}
+------------------
+{000024a3}
+Come back when you next{03}
+seek guidance.{02}{00}{aa}
+------------------
+{000024a6}
+Spirits guide you.{02}{00}{aa}
+------------------
+{000024a9}
+It's {eb}10 per person, so it{03}
+will be {eb}{04}{03}
+ total. Will{03}
+that be okay{76}{02}{00}{aa}
+------------------
+{000024ac}
+This ain't no charity, bub.{02}{00}{aa}
+------------------
+{000024af}
+Rest well, and do mind the{03}
+bedbugs, please.{02}{00}{aa}
+------------------
+{000024b2}
+Good morning.{02}{00}{aa}
+------------------
+{000024b5}
+I will record your progress{03}
+in the investigation. Okay{76}{02}{00}{aa}
+------------------
+{000024b8}
+Done. What else can I do{03}
+for you{76}{02}{00}{aa}
+------------------
+{000024bb}
+Everyone is in the salon.{02}{00}{aa}
+------------------
+{000024be}
+Is there anything else you{03}
+need{76}{02}{00}{aa}
+------------------
+{000024c1}
+I see no one at present.{02}{00}{aa}
+------------------
+{000024c4}
+Please take care.{02}{00}{aa}
+------------------
+{000024c7}
+Is there anything else you{03}
+need{76}{02}{00}{aa}
+------------------
+{000024ca}
+When your soul has grown in{03}
+magnitude, come back again{03}
+to train.{02}{00}{aa}
+------------------
+{000024cd}
+Nothing to examine now.{02}{00}{aa}
+------------------
+{000024d0}
+Here are the pictures of{03}
+monsters you have taken{03}
+thus far.{02}{00}{aa}
+------------------
+{000024d3}
+Maybe we should take some{03}
+actual photographs first,{03}
+huh.{02}{00}{aa}
+------------------
+{000024d6}
+If you're going to{03}
+Weathertop Hall, I have a{03}
+request to make of you.{02}I'm sure you have heard{03}
+of the case of the two{03}
+murdered children.{02}My daughter went with them{03}
+to the hall as well, and I{03}
+fear that a most dreadful{02}fate has befallen her. I am{03}
+beside myself with worry.{02}Please, find my daughter{03}
+Amy. I will pay you {eb}1000{03}
+if you do. It's all I have.{02}{00}{aa}
+------------------
+{000024d9}
+Should I accept{76}{02}{00}{aa}
+------------------
+{000024dc}
+Have you found my daughter{03}
+Amy{76} Even if she's dead, I{03}
+must bury her properly.{02}Please, you must find my{03}
+Amy for me.{02}{00}{aa}
+------------------
+{000024df}
+Thank you.{02}I'll be here as often as I{03}
+can so please share with me{03}
+anything you find.{02}{00}{aa}
+------------------
+{000024e2}
+We brought Amy back{a8} her{03}
+mother was waiting for us.{02}{00}{aa}
+------------------
+{000024e5}
+{79}Amy, I never thought I{03}
+would see you safe again.{03}
+Thank you all so much.{02}It's not much, but please{03}
+take this.{7a}{02}{00}{aa}
+------------------
+{000024e8}
+Received {eb}1200 as a reward.{02}{00}{aa}
+------------------
+{000024eb}
+Realized 5000 experience.{02}{00}{aa}
+------------------
+{000024ee}
+Received {eb}600 as a reward.{02}{00}{aa}
+------------------
+{000024f1}
+Realized 2500 experience.{02}{00}{aa}
+------------------
+{000024f4}
+Is it true that you went{03}
+into that haunted hall{76}{02}Well then, my husband says{03}
+there's something he'd like{03}
+to ask you.{02}Please talk to him when you{03}
+have a moment. It will be{03}
+worth your time.{02}{00}{aa}
+------------------
+{000024f7}
+You entered the hall and{03}
+still returned{76} Amazing{75}{02}Did you see anyone else in{03}
+there, by any chance{76} So{03}
+many have gone missing.{02}The last was a group of{03}
+four who went in a little{03}
+before you did.{02}It may not be possible, but{03}
+even the corpses would help{03}
+bring closure.{02}If you find them, could you{03}
+bring them home{76}{02}{00}{aa}
+------------------
+{000024fa}
+They said the wanted to{03}
+explore the basement.{03}
+That's where I'd look.{02}{00}{aa}
+------------------
+{000024fd}
+I see. Well then, I'll keep{03}
+asking around.{02}{00}{aa}
+------------------
+{00002500}
+I'll be at the hotel, so{03}
+if you change your mind,{03}
+come see me.{02}{00}{aa}
+------------------
+{00002503}
+I'll be at the hotel, so if{03}
+there's something you need,{03}
+do drop in.{02}{00}{aa}
+------------------
+{00002506}
+I'll be at the hotel. If{03}
+you change your mind, come{03}
+see me.{02}{00}{aa}
+------------------
+{00002509}
+I'll be at the hotel, so if{03}
+you need me for something,{03}
+stop by.{02}{00}{aa}
+------------------
+{0000250c}
+I'll be at the hotel, so if{03}
+you need my help, please{03}
+come by.{02}{00}{aa}
+------------------
+{0000250f}
+I've left the corpse{03}
+with the grave keeper.{02}{00}{aa}
+------------------
+{00002512}
+I hear you found some of{03}
+the missing people, or{03}
+their bodies at least...{02}I suppose at least it has{03}
+brought closure to their{03}
+families.{02}{00}{aa}
+------------------
+{00002515}
+Everyone is grateful for{03}
+your efforts. It's not{03}
+much, but please have this.{02}{00}{aa}
+------------------
+{00002518}
+{eb}300 received.{02}{00}{aa}
+------------------
+{0000251b}
+500 Exp. Points gained.{02}{00}{aa}
+------------------
+{0000251e}
+Hey, you're Gordon, right{76}{03}
+You look rather unwell. Is{03}
+everything all right{76}{02}I think you need a trip to{03}
+the hospital, pal.{02}{00}{aa}
+------------------
+{00002521}
+The clerk and customers{03}
+worked together and took{03}
+Gordon to the hospital.{02}{00}{aa}
+------------------
+{00002524}
+Realized 500 experience.{02}{00}{aa}
+------------------
+{00002527}
+Thank you for bringing me{03}
+back. Are the others okay{76}{02}Perhaps you should visit{03}
+the hospital. You could{03}
+learn something.{02}{00}{aa}
+------------------
+{0000252a}
+It's not much of a reward,{03}
+but I'll give you this.{02}{00}{aa}
+------------------
+{0000252d}
+Witchcraft Athame{03}
+acquired.{02}{00}{aa}
+------------------
+{00002530}
+Take care.{02}{00}{aa}
+------------------
+{00002533}
+You're the ones exploring{03}
+the haunted hall and are{03}
+somehow still alive, right{76}{02}I'm looking for someone{03}
+who went in but never came{03}
+out.{02}His name is Luis Martin.{03}
+Will you look for him for{03}
+me{76}{02}I don't have much money,{03}
+but I can also offer this{03}
+camera.{02}Can you help me{76}{02}{00}{aa}
+------------------
+{00002536}
+Thank you.{02}{00}{aa}
+------------------
+{00002539}
+I see. Well then, I'll keep{03}
+asking around.{02}{00}{aa}
+------------------
+{0000253c}
+Martin is dead{76} No...{03}
+One last thing to do,{03}
+then.{02}He needs a proper burial.{03}
+Deserves that much.{02}Can you take his body{03}
+to the cemetery{76}{02}{00}{aa}
+------------------
+{0000253f}
+I appreciate your bringing{03}
+Martin back.{02}Here are the items I{03}
+promised you.{02}{00}{aa}
+------------------
+{00002542}
+{eb}100 and Brownie Camera{03}
+received.{02}{00}{aa}
+------------------
+{00002545}
+Realized 500 experience.{02}{00}{aa}
+------------------
+{00002548}
+Good to see you here.{03}
+Is there something I can do{03}
+for you{76}{02}All I've really got is{03}
+information about the hall{03}
+that I can share with you.{02}Should I listen to Gordon's{03}
+information{76}{02}{00}{aa}
+------------------
+{0000254b}
+Hey. Is the investigation{03}
+progressing well{76}{02}{00}{aa}
+------------------
+{0000254e}
+I've heard there are many{03}
+hidden rooms in the hall's{03}
+basement.{02}And those Elder Signs are{03}
+just full of important{03}
+secrets within the hall.{02}The last word on Benedict{03}
+is he vanished somehow from{03}
+within his study.{02}My money's on a hidden door{03}
+somewhere in there.{02}Oh, and I've heard this{03}
+oriental guy was snooping{03}
+around there after.{02}He left a notebook there,{03}
+and I've gotten a hold of{03}
+it.{02}I sent it to the library{03}
+for safekeeping.{02}{00}{aa}
+------------------
+{00002551}
+I see. Well then, please{03}
+take care.{02}{00}{aa}
+------------------
+{00002554}
+You want to see the{03}
+notebook Gordon left{76} Just{03}
+a moment, please.{02}{00}{aa}
+------------------
+{00002557}
+Here you are.{02}Notebook received.{02}{00}{aa}
+------------------
+{0000255a}
+Hall 2F Map received.{02}{00}{aa}
+------------------
+{0000255d}
+Return to Newcam{76}{02}{00}{aa}
+------------------
+{00002560}
+A grand piano sits there.{02}Not one to just leave stuff{03}
+that isn't mine alone, I{03}
+make for the keys.{02}{00}{aa}
+------------------
+{00002563}
+A painting of an old man{03}
+hangs on the wall.{02}{79}Richard Weathertop{7a} is{03}
+written on the frame.{02}{00}{aa}
+------------------
+{00002566}
+I can't help but feel like{03}
+this painting is watching{03}
+me somehow...{02}{00}{aa}
+------------------
+{00002569}
+Nothing strange to see{03}
+here.{02}{00}{aa}
+------------------
+{0000256c}
+There are dishes arranged{03}
+neatly on the table.{02}As I try to examine a dish,{03}
+the tableware levitates{03}
+into the air and attacks{75}{02}{00}{aa}
+------------------
+{0000256f}
+A door with a face on it{76}{03}
+Oh, no.{02}{00}{aa}
+------------------
+{00002572}
+{79}{04}{00},{7a} a voice in{03}
+my head starts saying.{02}The voice made me feel odd.{03}
+But I let it keep going.{02}{00}{aa}
+------------------
+{00002575}
+The bell of this hall can{03}
+purify evil. Please ring it{03}
+and free us.{02}But the door to the bell is{03}
+sealed by the power of the{03}
+four Elder Signs.{02}An evil spirit seals the{03}
+power of the bell itself.{02}Destroying the Elder Signs{03}
+will open the door.{02}But only the lady of the{03}
+house knows the method of{03}
+restoring the bell.{02}Ring it and let its sound{03}
+cleanse the curse on us{75}{02}{00}{aa}
+------------------
+{00002578}
+A painting of a fussy man{03}
+hangs on the wall.{02}The picture frame says{03}
+Benedict Weathertop.{02}{00}{aa}
+------------------
+{0000257b}
+I step into the Elder Sign,{03}
+causing flames to erupt out{03}
+of its center.{02}{00}{aa}
+------------------
+{0000257e}
+The atmosphere around it{03}
+has somehow just changed{a8}{03}
+I don't feel uneasy now.{02}{00}{aa}
+------------------
+{00002581}
+So there was this one time,{03}
+I opened up a closet door,{03}
+and a skeleton attacked me.{02}{00}{aa}
+------------------
+{00002584}
+The Weathertop history is{03}
+written in this.{02}They moved here from Salem{03}
+following its infamous{03}
+witch hunts in the 1600s.{02}The family carries with it{03}
+a tradition of research{03}
+into the mythos.{02}The fact that Benedict{03}
+caused this event must be{03}
+because it's in his blood.{02}{00}{aa}
+------------------
+{00002587}
+It's written in small, tense{03}
+characters, apparently{03}
+Benedict's handwriting.{02}The ceremony brought forth{03}
+an unimaginable effect.{02}It didn't do anything for{03}
+my mother's revival...{02}... but a glorious new{03}
+world opened up before my{03}
+very eyes.{02}I'm going to the mysterious{03}
+castle which is brimming{03}
+with magic.{02}{00}{aa}
+------------------
+{0000258a}
+{04}{00} used the Iron{03}
+Key.{02}{00}{aa}
+------------------
+{0000258d}
+{04}{00} used the Copper{03}
+Key.{02}{00}{aa}
+------------------
+{00002590}
+{04}{00} used the Silver{03}
+Key.{02}{00}{aa}
+------------------
+{00002593}
+A soft light emanates from{03}
+the memento ring, and the{03}
+door opens.{02}{00}{aa}
+------------------
+{00002596}
+The spirit was annihilated.{02}{00}{aa}
+------------------
+{00002599}
+{01}{08}{04}{00}, are you okay{76}{02}Somehow I made my way back{03}
+here.{02}My partner has gone missing{03}
+and I must find him.{02}He's in the castle for{03}
+some reason or another.{02}I want to look for him,{03}
+but I can't go by{03}
+myself.{02}When you go there, can{03}
+I go with you{76}{02}I'll be at the hotel.{02}{01} {00}{aa}
+------------------
+{0000259c}
+Looks like a fairytale{03}
+wizard in a black robe...{02}... was standing near{03}
+Weathertop Hall.{02}{00}{aa}
+------------------
+{0000259f}
+A man in black clothes{03}
+was prowling around{03}
+the hospital.{02}I told him to stop, and he{03}
+suddenly vanished.{02}{00}{aa}
+------------------
+{000025a2}
+I hear a purple aurora has{03}
+appeared above Weathertop{03}
+Hall.{02}Hey now...{02}I heard the same thing{03}
+happened before when{03}
+Weathertop vanished.{02}{00}{aa}
+------------------
+{000025a5}
+The kids claim they saw{03}
+a gargoyle.{02}I heard that it flew back{03}
+towards the hall after{03}
+circling the town.{02}{00}{aa}
+------------------
+{000025a8}
+Do your best, okay{76}{02}{00}{aa}
+------------------
+{000025ab}
+{04}{00}{75} I hear Benedict{03}
+escaped.{02}A wizard or something{03}
+attacked the police when{03}
+they tried to get him back.{02}Yeah, he looked like a{03}
+wizard all right.{02}And this fairy tale guy in{03}
+black carries him off.{02}{00}{aa}
+------------------
+{000025ae}
+{01}{03}
+Thanks. I'll rest here{03}
+for a time.{02}{01} {00}{aa}
+------------------
+{000025b1}
+Kenichiro is in bed.{03}
+He looks better.{02}{01}{03}
+How proceeds your{03}
+investigation{76}{02}I've heard word of a lake{03}
+monster who dwells on the{03}
+southeastern lake floor.{02}You must find a way past{03}
+that awful beast{75}{02}{01} {00}{aa}
+------------------
+{000025b4}
+{01}{03}
+Laplace's maths and mythos{03}
+are powerful indeed.{02}It's been said that the{03}
+demon Laplace summoned can{03}
+read all possible futures,{02}but that power only works{03}
+in the confines of the{03}
+world it was summoned to.{02}{01} {00}{aa}
+------------------
+{000025b7}
+{01}{03}
+Laplace Castle gets more{03}
+surreal the further you go.{02}Somewhere on the top floor{03}
+lies a dark tear in the{03}
+fabric of space.{02}That tear is a gateway{03}
+between dimensions.{02}If you fell in, you'd most{03}
+probably die... or worse.{02}But what lies beyond is{03}
+merely an illusion created{03}
+by Laplace's Demon.{02}Without Laplace or his{03}
+demon, it would likely{03}
+vanish to the void.{02}{01} {00}{aa}
+------------------
+{000025ba}
+{01}{03}
+I fear Benedict may be{03}
+trying to summon Laplace's{03}
+demon into our world...{02}Here in this very town.{02}Benedict would have in his{03}
+hands a means to decide the{03}
+very fate of America...{02}No, of the entire world.{02}{01} {00}{aa}
+------------------
+{000025bd}
+{01}{03}
+I can't just stand here and{03}
+do nothing.{02}Even if we stop Benedict,{03}
+the demon is still inside{03}
+Laplace Castle.{02}Let us hope the Elder Sign{03}
+connecting that castle and{03}
+the hall stays unfinished.{02}{01} {00}{aa}
+------------------
+{000025c0}
+{01}{03}
+I'm exhausted.{03}
+May I rest a bit{76}{02}{01} {00}{aa}
+------------------
+{000025c3}
+{01}{00}Oh, is this{03}
+yours{76}{02}{01} {00}{aa}
+------------------
+{000025c6}
+{01}{01}Oh, does this belong{03}
+to you, Kenichiro{76}{02}{01} {00}{aa}
+------------------
+{000025c9}
+I handed the notebook{03}
+to Kenichiro.{02}{01}{03}
+My notebook{75}{03}
+Arigato. And for your{03}
+troubles, have this card.{02}The magic within this ofuda{03}
+is one of protection.{02}Ofuda of Protection{03}
+acquired.{02}{01} {00}{aa}
+------------------
+{000025cc}
+{01}{03}
+{04}{00}, I as well wish{03}
+to explore Laplace Castle{03}
+shortly.{02}If you desire my aid,{03}
+you can find me at the{03}
+hotel.{02}{01} {00}{aa}
+------------------
+{000025cf}
+The receptionist glanced{03}
+questioningly at the{03}
+figure of Benedict.{02}{01}{0e}I will stay here and rest,{03}
+but you take this.{02}It's a key that will allow{03}
+access to Laplace himself.{02}He took out a beautiful{03}
+emerald statue.{02}It won't help me anymore.{02}Emerald Effigy acquired.{02}Come and see me if you need{03}
+the benefit of my expertise{03}
+in these matters.{02}{01} {00}{aa}
+------------------
+{000025d2}
+{01}{0e}I said I'd tell you about{03}
+Laplace Castle.{02}The place has five levels{03}
+of environments.{02}Laplace keeps his throne on{03}
+the fourth floor.{02}His demon doesn't dwell in{03}
+the same space as us.{02}Laplace made sure that only{03}
+he could contact it.{02}I am not quite certain how{03}
+to enter that space myself.{02}Laplace has a daughter that{03}
+hates him named Cassandra.{02}She foolishly tried to use{03}
+psychomancy to exorcise the{03}
+Demon from our world.{02}She failed, of course, and{03}
+went into a prison cell.{02}Why had I been captured{76}{02}I almost killed Laplace.{02}I know that the Demon can{03}
+reverse the flow of time.{02}I traveled here by Elder{03}
+Sign in order to bring my{03}
+mother back to life.{02}Then I met Louvain.{02}{01} {00}{aa}
+------------------
+{000025d5}
+{01}{00}Louvain{76} Who's that{76}{02}{01} {00}{aa}
+------------------
+{000025d8}
+{01}{01}Louvain{76} Who's that{76}{02}{01} {00}{aa}
+------------------
+{000025db}
+{01}{0e}A wizard. He taught me{03}
+many things.{02}He helped me come up with{03}
+the plan to steal the{03}
+Demon...{02}It seems Louvain{03}
+despises Laplace.{02}He said he couldn't let{03}
+a fool hold great power.{02}Just a little later,{03}
+Kenichiro got in our{03}
+way.{02}{01} {00}{aa}
+------------------
+{000025de}
+{01}{00}But then Louvain{03}
+deceived you{76}{02}{01} {00}{aa}
+------------------
+{000025e1}
+{01}{01}But then Louvain deceived{03}
+you, didn't he{76}{02}{01} {00}{aa}
+------------------
+{000025e4}
+{01}{0e}I don't know quite what{03}
+he's up to...{02}{01} {00}{aa}
+------------------
+{000025e7}
+{01}{0e}The demon uses strong{03}
+magic, but it can't be{03}
+perfect.{02}Even Laplace started{03}
+doubting the demon.{02}{01} {00}{aa}
+------------------
+{000025ea}
+{04}{00}, Benedict{03}
+escaped{75}{02}They say he went to{03}
+Weathertop Hall with a{03}
+man in a black robe.{02}{00}{aa}
+------------------
+{000025ed}
+Let's take Kenichiro to{03}
+the hospital.{02}{00}{aa}
+------------------
+{000025f0}
+As you enter the bar,{03}
+everyone's attention{03}
+turns toward Benedict.{02}{00}{aa}
+------------------
+{000025f3}
+{01}{00}You are sure popular,{03}
+Benedict.{02}{01} {00}{aa}
+------------------
+{000025f6}
+{01}{01}You're a pretty popular{03}
+guy, aren't you, Benedict{76}{02}{01} {00}{aa}
+------------------
+{000025f9}
+{01}{0e}Hmph{75} {04}{00}, hurry{03}
+and take me to the{03}
+hospital.{02}{01} {00}{aa}
+------------------
+{000025fc}
+{01}{0e}Are you going to{03}
+Laplace Castle again{76}{02}I'm at my limit. Hurry up{03}
+and take me to the{03}
+hospital.{02}{01} {00}{aa}
+------------------
+{000025ff}
+{01}{0e}Enough{75} I'm returning{03}
+to town by myself.{02}Here's a reward for{03}
+helping me.{02}Benedict took out a{03}
+beautiful emerald statue.{02}You'll need this to{03}
+enter Laplace's room.{02}I don't need it anymore,{03}
+so you take it.{02}Emerald Effigy acquired.{02}If you want anything,{03}
+come to my hospital room.{02}{01} {03}
+Benedict walked down the{03}
+road leading to Newcam.{02}{00}{aa}
+------------------
+{00002602}
+Police officers are all{03}
+over town.{02}What's going on{76}{02}{00}{aa}
+------------------
+{00002605}
+{01}{02}{04}{00}, it's damn good{03}
+to see you{75} That rat{03}
+Benedict escaped.{02}He had help from that scary{03}
+wizard guy who came out of{03}
+Laplace's Domain.{02}{00}{aa}
+------------------
+{00002608}
+You say Benedict went{03}
+back to the house{76}{02}He was with a magician that{03}
+injured some police{03}
+officers.{02}{00}{aa}
+------------------
+{0000260b}
+Mister Kusakabe told me to{03}
+order in some things to be{03}
+used specially.{02}I have for you a Thompson{03}
+Model 1921 submachine gun,{02}and a Remington Model 10{03}
+12-gauge shotgun. You go{03}
+and do what you have to.{02}{00}{aa}
+------------------
+{0000260e}
+Fighting that kind of evil{03}
+has got to be really tough.{03}
+Maybe even the toughest.{02}I'd hate to meet the evil{03}
+that can stand up to these.{02}Acquired a submachine gun{03}
+and a shotgun and shells.{02}{00}{aa}
+------------------
+{00002611}
+{01}{00}I remember{75}{02}{01} {00}{aa}
+------------------
+{00002614}
+{01}{05}I remember{75}{02}{01} {00}{aa}
+------------------
+{00002617}
+{01}{01}I remember{75}{02}{01} {00}{aa}
+------------------

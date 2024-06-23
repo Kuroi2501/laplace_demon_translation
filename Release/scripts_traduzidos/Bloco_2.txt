@@ -1,0 +1,251 @@
+{00001a02}
+So much pain and loss, all{03}
+for a 'perfect' future.{00}{aa}
+------------------
+{00001a05}
+Laplace's Demon is a horrid{03}
+thing, its omnipotent power{03}
+not meant to be, but...{00}{aa}
+------------------
+{00001a08}
+Those who would use it to{03}
+further their own ends are{03}
+all the more monstrous.{00}{aa}
+------------------
+{00001a0b}
+I look outside and see the{03}
+town of Newcam becoming{03}
+itself again,{00}{aa}
+------------------
+{00001a0e}
+just like the quiet days{03}
+of yesteryear.{00}{aa}
+------------------
+{00001a11}
+But the future is beyond{03}
+our knowledge now.{00}{aa}
+------------------
+{00001a14}
+And that uncertainty is{03}
+what makes life worth{03}
+living.{00}{aa}
+------------------
+{00001a17}
+We decided to end our{03}
+investigation.{00}{aa}
+------------------
+{00001a1a}
+Time to put this weirdness{03}
+behind us and move on.{00}{aa}
+------------------
+{00001a1d}
+{01}{03}
+{04}{00}. I think I shall{03}
+stay a time longer.{00}{aa}
+------------------
+{00001a20}
+Benedict and Laplace's{03}
+Demon may be gone now,{03}
+{00}{aa}
+------------------
+{00001a23}
+but many more evils lurk{03}
+in the dark corners of{03}
+this world...{00}{aa}
+------------------
+{00001a26}
+Kenichiro smiled.{00}{aa}
+------------------
+{00001a29}
+Perhaps one day we'll face{03}
+such evils together again.{03}
+Farewell. {06}{06}{06}{06}{06}{01} {00}{aa}
+------------------
+{00001a2c}
+I awaken to find myself{03}
+standing in the town of{03}
+Newcam.{00}{aa}
+------------------
+{00001a2f}
+Weathertop's Elder Sign has{03}
+lost its power.{00}{aa}
+------------------
+{00001a32}
+The connection between two{03}
+worlds has been severed.{00}{aa}
+------------------
+{00001a35}
+It looks like we returned{03}
+peace to Newcam. Then,{03}
+several years later...{00}{aa}
+------------------
+{00001a38}
+Kenichiro stayed behind.{00}{aa}
+------------------
+{00001a3b}
+A few years went by...{00}{aa}
+------------------
+{00001a3e}
+Newcam was destroyed by an{03}
+unbelievably strong storm.{00}{aa}
+------------------
+{00001a41}
+I received a photograph of{03}
+the storm along with a note{03}
+which read: To {04}{00},{00}{aa}
+------------------
+{00001a44}
+'The signs are right.{00}{aa}
+------------------
+{00001a47}
+The conflict with Laplace's{03}
+Demon is about to start{03}
+anew. You are needed.{00}{aa}
+------------------
+{00001a4a}
+{05}{02}         Original  Work{05}{00}{03}
+{03}
+         Hitoshi Yasuda{00}{aa}
+------------------
+{00001a4d}
+{05}{02}        Character Design{05}{00}{03}
+{03}
+              Kohji{00}{aa}
+------------------
+{00001a50}
+{05}{02}              Music{05}{00}{03}
+{03}
+          Akiko  Kosaka{00}{aa}
+------------------
+{00001a53}
+{05}{02}            Director{03}
+            Planning{05}{00}{03}
+         Goh  Shirakawa{00}{aa}
+------------------
+{00001a56}
+{05}{02}             Program{05}{00}{03}
+{03}
+              Aasaa{00}{aa}
+------------------
+{00001a59}
+{05}{02}        Monster Graphics{03}
+   Sprite Character Graphics{05}{00}{03}
+         Yutaka Okazaki{00}{aa}
+------------------
+{00001a5c}
+{05}{02}      Background  Graphics{03}
+   Battle Background Graphics{05}{00}{03}
+               H K{00}{aa}
+------------------
+{00001a5f}
+{05}{02}          Sound Program{05}{00}{03}
+{03}
+             Yet11{00}{aa}
+------------------
+{00001a62}
+{05}{02}        Scenario Program{05}{00}{03}
+              Yome{03}
+         Syuhi Imanishi{00}{aa}
+------------------
+{00001a65}
+{05}{02}        Scenario Program{05}{00}{03}
+{03}
+             Yet11{00}{aa}
+------------------
+{00001a68}
+{05}{02}         Special Thanks{05}{00}{03}
+{03}
+      Tomononnojouyukihasa{00}{aa}
+------------------
+{00001a6b}
+{05}{02}         Special Thanks{05}{00}{03}
+              Agax{03}
+         Ohtorii  Mania{00}{aa}
+------------------
+{00001a6e}
+{05}{02}           Group  SNE{05}{00}{03}
+{03}
+{00}{aa}
+------------------
+{00001a71}
+{05}{02}             M A C{03}
+        Hummingbird Soft{05}{00}{03}
+{00}{aa}
+------------------
+{00001a74}
+{05}{02}           Vic  Tokai{03}
+          Aeon Genesis{05}{00}{00}{aa}
+------------------
+{00001a77}
+            The  End{00}{aa}
+------------------
+{00001a7a}
+{00}{aa}
+------------------
+{00001a7d}
+{00}{aa}
+------------------
+{00001a80}
+Newcam, Massachusetts, 1924{03}
+A seaport just outside the{03}
+city of Boston.{00}{aa}
+------------------
+{00001a83}
+A town like nowhere special{03}
+that was once the setting{03}
+for something terrible.{00}{aa}
+------------------
+{00001a86}
+Three kids had gone missing{03}
+while exploring an old house{03}
+said to be haunted... there{03}
+was an immediate search.{00}{aa}
+------------------
+{00001a89}
+Two boys' bodies were found{03}
+mutilated{a8} the girl Amy was{03}
+gone without a trace.{00}{aa}
+------------------
+{00001a8c}
+The police search turned up{03}
+nothing, and all newspaper{03}
+inquiries fell flat.{00}{aa}
+------------------
+{00001a8f}
+Without the presence of any{03}
+clues, the mystery only{03}
+deepened.{00}{aa}
+------------------
+{00001a92}
+With the whereabouts of the{03}
+house's owner unknown, it was{03}
+eventually just sealed.{00}{aa}
+------------------
+{00001a95}
+I believe that coming here,{03}
+to Newcam, is my chance to{03}
+{00}{aa}
+------------------
+{00001a98}
+solve these murders so that{03}
+the families can be at peace.{00}{aa}
+------------------
+{00001a9b}
+find Amy, and catch the{03}
+scoop of a lifetime.{00}{aa}
+------------------
+{00001a9e}
+test the full capabilities{03}
+of The Machine.{00}{aa}
+------------------
+{00001aa1}
+learn to fully understand{03}
+my psychic gifts.{00}{aa}
+------------------
+{00001aa4}
+find forbidden knowledge{03}
+of the mythos.{00}{aa}
+------------------
+{00001aa7}
+{00}{aa}
+------------------

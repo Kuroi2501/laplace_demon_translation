@@ -1,0 +1,330 @@
+{0000261a}
+{01}{01}Eek, what was that,{03}
+all of a sudden{76}{02}{01} {00}{aa}
+------------------
+{0000261d}
+{01}{09}Jeepers creepers{75} What was{03}
+that just now{76}{02}{01} {00}{aa}
+------------------
+{00002620}
+{01}{00}What do you remember{76}{02}{01} {00}{aa}
+------------------
+{00002623}
+{01}{02}Do you remember anything{76}{02}{01} {00}{aa}
+------------------
+{00002626}
+{01}{00}You don't think that's...{02}{00}{aa}
+------------------
+{00002629}
+{01}{01}Well, I'll be damned.{02}{00}{aa}
+------------------
+{0000262c}
+{01}{05}That's...{02}{00}{aa}
+------------------
+{0000262f}
+{01}{00}The portrait on the 1st{03}
+floor of the castle.{03}
+I knew I recognized it{75}{02}{01} {00}{aa}
+------------------
+{00002632}
+{01}{05}The portrait on the 1st{03}
+floor of the castle.{03}
+I knew I recognized it{75}{02}{01} {00}{aa}
+------------------
+{00002635}
+{01}{01}The portrait on the 1st{03}
+floor of the castle.{03}
+I knew I recognized it{75}{02}{01} {00}{aa}
+------------------
+{00002638}
+I took a thick book from{03}
+the shelf and began to flip{03}
+through its pages.{02}{00}{aa}
+------------------
+{0000263b}
+Vincent took down a thick{03}
+book from the shelf, and{03}
+started flipping the pages.{02}{00}{aa}
+------------------
+{0000263e}
+{01}{00}The author's name{03}
+is Laplace.{02}{01} {00}{aa}
+------------------
+{00002641}
+{01}{01}The author's name{03}
+is Laplace.{02}{01} {00}{aa}
+------------------
+{00002644}
+{01}{05}The author's name{03}
+is Laplace.{02}{01} {00}{aa}
+------------------
+{00002647}
+This was written in{03}
+the book:{02}Pierre Simon de Laplace.{03}
+1749 to 1827. French{03}
+Mathematician/Astronomer.{02}Great contributions to the{03}
+fields of probability{03}
+and celestial mechanics.{02}{00}{aa}
+------------------
+{0000264a}
+{01}{00}This resemblance can't{03}
+possibly be accidental. But{03}
+Laplace is dead.{02}{01} {00}{aa}
+------------------
+{0000264d}
+{01}{01}This resemblance can't{03}
+possibly be accidental. But{03}
+Laplace is dead.{02}{01} {00}{aa}
+------------------
+{00002650}
+{01}{02}Died 1827, eh{76} Done a thing{03}
+or two about that, hasn't{03}
+he{76} An immortal Frenchman.{02}{01} {00}{aa}
+------------------
+{00002653}
+{01}{00}It really is Laplace.{02}Could the flow of time{03}
+in that world be so{03}
+different than our own{76}{02}{01} {00}{aa}
+------------------
+{00002656}
+{01}{01}It really is Laplace.{02}Maybe the flow of time{03}
+in that world is different{03}
+than our own somehow.{02}{01} {00}{aa}
+------------------
+{00002659}
+{01}{05}It really is Laplace.{02}Time must flow differently{03}
+in that world compared to{03}
+our own.{02}{01} {00}{aa}
+------------------
+{0000265c}
+{01}{08}{04}{00}, thanks to you,{03}
+I'm home safely again to{03}
+Newcam.{02}My friends must be worried,{03}
+so I'll go see them.{02}I'll be at the bar so I'll{03}
+meet you there.{02}{01} {00}{aa}
+------------------
+{0000265f}
+{01}{08}Thanks to all of you,{03}
+I'm back home safely{03}
+to Newcam.{02}Thank you so much.{02}But you see, I'm looking{03}
+for my missing partner.{02}From what I've gathered,{03}
+he's in that castle{03}
+for some reason.{02}When you go there,{03}
+please let me join you.{02}I'll be at the hotel.{02}{01} {00}{aa}
+------------------
+{00002662}
+I'm already there.{02}{00}{aa}
+------------------
+{00002665}
+You can't go there.{02}{00}{aa}
+------------------
+{00002668}
+An Elder Sign.{02}{00}{aa}
+------------------
+{0000266b}
+{01}{0d}You made it back{75}{03}
+Will you lend us your{03}
+strength once more{76}{02}{00}{aa}
+------------------
+{0000266e}
+Thanks.{02}{01} {00}{aa}
+------------------
+{00002671}
+{04}{00}, you have things{03}
+you must do as well.{03}
+Let's part for now.{02}{01} {00}{aa}
+------------------
+{00002674}
+{01}{0c}Oh good, you're back.{03}
+My sister is still lost.{02}Please, {04}{00}, look{03}
+for my sister with me.{02}{00}{aa}
+------------------
+{00002677}
+Thanks.{02}{01} {00}{aa}
+------------------
+{0000267a}
+I see. You're busy.{02}I'll hide in the west{03}
+part of the courtyard on{03}
+the 1st floor for now.{02}Please come by later.{02}{01} {00}{aa}
+------------------
+{0000267d}
+{01}{04}Welcome back. You're going{03}
+to the top of the castle,{03}
+right{76}{02}Shall I escort you{76}{02}{00}{aa}
+------------------
+{00002680}
+Yay{75}{02}{01} {00}{aa}
+------------------
+{00002683}
+I'll just have to go home{03}
+by myself then. Take care{75}{02}{01} {00}{aa}
+------------------
+{00002686}
+{01}{0f}You came back{75} Okay, let's{03}
+go look for treasure.{02}{00}{aa}
+------------------
+{00002689}
+Thanks, partner.{02}{01} {00}{aa}
+------------------
+{0000268c}
+Oh, you don't feel{03}
+like it{76}{02}Ok, I'll just continue{03}
+looking for treasure{03}
+myself. Bye{75}{02}{01} {00}{aa}
+------------------
+{0000268f}
+{01}{0b}You came back{76} Moldiv{03}
+seems to be inactive at{03}
+the moment.{02}But you must defeat him to{03}
+get to the next floor.{02}{04}{00}, let's defeat{03}
+Moldiv together.{02}{00}{aa}
+------------------
+{00002692}
+Okay. Moldiv should be{03}
+in the southeast part of{03}
+basement level 1.{02}{01} {00}{aa}
+------------------
+{00002695}
+I'd really like your{03}
+help.{02}Come to my room if you{03}
+change your mind.{02}I'll be in the northeast{03}
+room on this floor.{03}
+Let's meet again.{02}{01} {00}{aa}
+------------------
+{00002698}
+{01}{10}You're back. Do you still{03}
+insist on foolish violence{76}{02}{00}{aa}
+------------------
+{0000269b}
+Very well, I'll indulge{03}
+your bloodlust. Come.{02}{01} {00}{aa}
+------------------
+{0000269e}
+I'm afraid this is goodbye.{03}
+We'll probably never meet{03}
+again.{02}{01} {00}{aa}
+------------------
+{000026a1}
+It's Benedict's writing.{02}It talks of him being taken{03}
+by Moldiv the wizard,{02}and living in the castle{03}
+while learning many arcane{03}
+arts and sciences.{02}One day Louvain told him{03}
+of a certain demon...{02}... that the owner of the{03}
+castle, Laplace,{03}
+controlled.{02}As he began to fathom the{03}
+power of Laplace's Demon,{03}
+it became his obsession.{02}And so he plotted to take{03}
+that power for himself.{02}But Kenichiro chasing him{03}
+from Newcam spoiled{03}
+everything for him.{02}And so Benedict's failure{03}
+led to his capture by{02}Laplace. The End{76}{02}{00}{aa}
+------------------
+{000026a4}
+Arriving at Laplace{03}
+Castle, I'm surrounded by{03}
+guards.{02}{00}{aa}
+------------------
+{000026a7}
+You're on a fool's errand,{03}
+trying to assassinate{03}
+Master Laplace{75}{02}{00}{aa}
+------------------
+{000026aa}
+Benedict's lackeys{75}{02}{00}{aa}
+------------------
+{000026ad}
+Where is Louvain{75}{76}{02}{00}{aa}
+------------------
+{000026b0}
+All the guards attack{03}
+at once{75}{02}{00}{aa}
+------------------
+{000026b3}
+A man's voice suddenly{03}
+could be heard.{02}{00}{aa}
+------------------
+{000026b6}
+{01}{0b}Get out of here{75} You must{03}
+escape to the floor above.{02}{00}{aa}
+------------------
+{000026b9}
+{01}{0b}{04}{00}, hurry{75}{02}{00}{aa}
+------------------
+{000026bc}
+{01}{00}Was that... Adolph{76}{02}{01} {00}{aa}
+------------------
+{000026bf}
+{01}{01}Was that Adolph's voice{76}{02}{01} {00}{aa}
+------------------
+{000026c2}
+{01}{0b}Hurry{75}{02}{01} {00}{aa}
+------------------
+{000026c5}
+The voice grew faint.{02}{00}{aa}
+------------------
+{000026c8}
+There's not much furniture{03}
+in here. It looks like a{03}
+servant's room.{02}{00}{aa}
+------------------
+{000026cb}
+It's a drawing room.{02}{00}{aa}
+------------------
+{000026ce}
+Benedict's Study.{02}{00}{aa}
+------------------
+{000026d1}
+It's Benedict's father's{03}
+room.{02}{00}{aa}
+------------------
+{000026d4}
+This seems to be a chapel,{03}
+and there is an altar to{03}
+the back of it.{02}{00}{aa}
+------------------
+{000026d7}
+There's no shame in running{03}
+if things get too scary.{02}{00}{aa}
+------------------
+{000026da}
+Can't use a gun without{03}
+bullets. Stock up{75}{02}{00}{aa}
+------------------
+{000026dd}
+Using Medicine will{03}
+restore HP.{02}People with the Surgery{03}
+skill will heal better{03}
+than others.{02}MP can be restored with{03}
+a Charm.{02}A Charm restores more MP{03}
+for those with the Therapy{03}
+skill.{02}{00}{aa}
+------------------
+{000026e0}
+To use an item, choose{03}
+the camp menu and use the{03}
+Tool command.{02}Try using holy water in{03}
+front of the fireplace in{03}
+the drawing room.{02}{00}{aa}
+------------------
+{000026e3}
+Through aiding others{03}
+will you find your own{03}
+path.{02}{00}{aa}
+------------------
+{000026e6}
+Go to the Castle's{03}
+3rd floor.{02}{00}{aa}
+------------------
+{000026e9}
+An ominous shadow sneaks up{03}
+on Benedict. You should{03}
+venture to the hospital.{02}{00}{aa}
+------------------
+{000026ec}
+The police are probably{03}
+waiting at the hospital to{03}
+question Benedict.{02}{00}{aa}
+------------------
+{000026ef}
+      Yes      No{00}{aa}
+------------------

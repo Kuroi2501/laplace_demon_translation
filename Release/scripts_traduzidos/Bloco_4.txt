@@ -1,0 +1,273 @@
+{000020da}
+One of the rooms in this{03}
+wing is inaccessible from{03}
+this floor.{02}{00}{aa}
+------------------
+{000020dd}
+Did you get the key{76}{03}
+It should be in the Master{03}
+Bedroom...{02}{00}{aa}
+------------------
+{000020e0}
+The chapel is no longer a{03}
+place for prayer.{02}{00}{aa}
+------------------
+{000020e3}
+The bell is somehow sealed,{03}
+as if by magic{75}{02}You should give it a rest.{02}{00}{aa}
+------------------
+{000020e6}
+The mirror has the power of{03}
+spiritual purification,{02}but it has been corrupted.{02}{00}{aa}
+------------------
+{000020e9}
+I hear that a room in{03}
+the west wing is blocked{03}
+because it holds a secret.{02}{00}{aa}
+------------------
+{000020ec}
+You had better be afraid if{03}
+our King finds you.{02}Go now, your secret is{03}
+safe with me.{02}{00}{aa}
+------------------
+{000020ef}
+The south wing is now the{03}
+lair of a necromancer named{03}
+Moldiv.{02}{00}{aa}
+------------------
+{000020f2}
+To the southwest, our Lord{03}
+keeps an oubliette full of{03}
+the forgotten.{02}{00}{aa}
+------------------
+{000020f5}
+There used to be another{03}
+one like Moldiv in the{03}
+north wing,{03}
+{02}but I forget where he{03}
+is anymore.{02}{00}{aa}
+------------------
+{000020f8}
+Take caution to avoid the{03}
+chamber all the way south--{03}
+if you don't want to die.{02}{00}{aa}
+------------------
+{000020fb}
+A man from the Far East was{03}
+captured, and is now being{03}
+tortured.{02}{00}{aa}
+------------------
+{000020fe}
+A man named Louvain lives{03}
+in the west wing...{02}He's very mysterious.{02}{00}{aa}
+------------------
+{00002101}
+Use all of your strength.{02}{00}{aa}
+------------------
+{00002104}
+The statue by the waterway{03}
+is missing its heart.{02}{00}{aa}
+------------------
+{00002107}
+Moldiv has mythos powers{03}
+that prevents anyone from{03}
+going up the stairs.{02}{00}{aa}
+------------------
+{0000210a}
+Faces hide pain and madness{03}
+brought on by the hell of{03}
+endless ballroom dancing.{02}{00}{aa}
+------------------
+{0000210d}
+Many of the paintings up in{03}
+the southwest gallery are{03}
+worth the time to observe.{02}{00}{aa}
+------------------
+{00002110}
+It seems there's a device{03}
+in the flaming statue.{02}{00}{aa}
+------------------
+{00002113}
+If you continue any further{03}
+you will die.{02}{00}{aa}
+------------------
+{00002116}
+You must pass through every{03}
+mirror to find your way out{03}
+of the Maze of Mirrors.{02}{00}{aa}
+------------------
+{00002119}
+Trying to find your way to{03}
+the Maze of Mirrors{76}{02}Climb up the stairs on the{03}
+first floor of the south{03}
+wing of the hall.{02}{00}{aa}
+------------------
+{0000211c}
+The northern wing has been{03}
+covered by some mysterious{03}
+growth.{02}Space has been distorted by{03}
+the celestial mechanics of{03}
+Laplace's Demon.{02}{00}{aa}
+------------------
+{0000211f}
+A wide fissure runs through{03}
+the middle of the forest.{02}Perhaps the old man chemist{03}
+will have what you'll need{03}
+to get across it.{02}{00}{aa}
+------------------
+{00002122}
+A mythical creature that is{03}
+half-eagle, half-lion dwells{03}
+in the forest to the north.{02}{00}{aa}
+------------------
+{00002125}
+West of here is a graveyard{03}
+that has become a nest for{03}
+man-eating Ghouls.{02}{00}{aa}
+------------------
+{00002128}
+The helm will only respond{03}
+to one who has a figurehead{03}
+and a compass.{02}{00}{aa}
+------------------
+{0000212b}
+The menagerie on this floor{03}
+contains many exotic types{03}
+of animals.{02}{00}{aa}
+------------------
+{0000212e}
+A man named Benedict sits{03}
+in a locked room nearby.{02}I cannot show you because{03}
+the thing posted to guard{03}
+him terrifies me.{02}{00}{aa}
+------------------
+{00002131}
+Our Lord has gone so mad{03}
+as to imprison his own{03}
+daughter, the lovely Lady{02}Cassandra.{02}{00}{aa}
+------------------
+{00002134}
+The witch that lives in the{03}
+north wing has gone insane.{02}Beware her temper, she may{03}
+decide to eat you all.{02}{00}{aa}
+------------------
+{00002137}
+A girl who wandered here{03}
+from another dimension is{03}
+going to be sacrificed to{02}Our Lord.{02}{00}{aa}
+------------------
+{0000213a}
+I believe that Our Lord has{03}
+finally lost his mind.{02}{00}{aa}
+------------------
+{0000213d}
+An audience with Our Lord{03}
+requires the Emerald Idol.{02}{00}{aa}
+------------------
+{00002140}
+Seek the Sage.{02}{00}{aa}
+------------------
+{00002143}
+Seek the Witch...{02}{00}{aa}
+------------------
+{00002146}
+The statue only answers to{03}
+Our Lord's commands.{02}{00}{aa}
+------------------
+{00002149}
+Just what is happening{76}{03}
+Is the world coming to an{03}
+end{76}{02}{00}{aa}
+------------------
+{0000214c}
+Try as you might, you can{03}
+never return to your world.{02}{00}{aa}
+------------------
+{0000214f}
+Our Lord appears disturbed{03}
+by Benedict's presence.{02}{00}{aa}
+------------------
+{00002152}
+Benedict and Louvain are{03}
+conspiring in the castle{03}
+undercroft.{02}Just what are their{03}
+schemes{76}{02}{00}{aa}
+------------------
+{00002155}
+Our Lord has taken to his{03}
+quarters, and won't emerge.{03}
+The court is in disarray.{02}{00}{aa}
+------------------
+{00002158}
+The inside of the castle is{03}
+full of guards. Make sure{03}
+not to be spotted.{02}{00}{aa}
+------------------
+{0000215b}
+Cassandra is with the Witch{03}
+of the lake. Please save{03}
+her if you can.{02}{00}{aa}
+------------------
+{0000215e}
+I question Louvain's{03}
+humanity.{02}{00}{aa}
+------------------
+{00002161}
+To have humans here is{03}
+quite rare.{02}Best go home quickly before{03}
+madness takes you.{02}{00}{aa}
+------------------
+{00002164}
+Time to face your death.{02}{00}{aa}
+------------------
+{00002167}
+Show me your best.{02}{00}{aa}
+------------------
+{0000216a}
+Welcome to the celestial{03}
+realm.{02}All those lights twinkling{03}
+around you are worlds...{03}
+worlds almost without end.{02}Your tiny world is but one{03}
+of those lights.{02}{00}{aa}
+------------------
+{0000216d}
+This space may appear{03}
+infinite to minds like{03}
+yours,{02}but it is but merely a{03}
+fraction of infinity.{02}{00}{aa}
+------------------
+{00002170}
+For calling forth Laplace's{03}
+Demon, this realm shall{03}
+be your Hell.{02}{00}{aa}
+------------------
+{00002173}
+Louvain occupies the{03}
+northern portion of this{03}
+realm.{02}But then, do you even know{03}
+which way North is here{76}{02}{00}{aa}
+------------------
+{00002176}
+Laplace's Domain has begun{03}
+its collapse.{02}This space will be hurled{03}
+into the infinite void.{02}This is the last chance for{03}
+escape.{02}{00}{aa}
+------------------
+{00002179}
+{01}{10}Yet more stupid apes come{03}
+for pointless violence.{02}But in your eyes I see{03}
+something different{a8}{02}eyes that have yet to accept{03}
+the fate of this doomed{03}
+world.{02}Eyes that see more...{02}You are ones who deserve to{03}
+know the truth.{02}{01} {00}{aa}
+------------------
+{0000217c}
+{01}{10}There is no future for this{03}
+world. No free will.{02}All outcomes are known,{03}
+predicted by Laplace's{03}
+Demon.{02}Things happen only by my{03}
+will and mine alone.{02}I sought a perfect world,{02}but what I found was boring{03}
+and sterile, devoid of{03}
+novelty.{02}But I can start anew.{02}This time I will create{03}
+perfection.{02}{01} {00}{aa}
+------------------
