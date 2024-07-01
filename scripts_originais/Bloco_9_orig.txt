@@ -37,7 +37,7 @@ Learned {79}Wrath of God{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00002d85}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002d88}
 The door is locked from the{03}
@@ -50,13 +50,13 @@ up a little blue ring.{02}Cerulean Ring acquired.{02}{00}{aa}
 {00002d8e}
 A venomous spider was{03}
 found hiding under the{03}
-bedsheets{75}{02}My finger was bitten{75}{02}{00}{aa}
+bedsheets!{02}My finger was bitten!{02}{00}{aa}
 ------------------
 {00002d91}
 A map is in the drawer.{02}Castle 1F Map acquired.{02}{00}{aa}
 ------------------
 {00002d94}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002d97}
 A statue of a satyr holding{03}
@@ -112,7 +112,7 @@ and saw something move out{03}
 of the corner of my eye.{02}The eyeball of a strange{03}
 creature had just shifted.{02}I watched as its feelers{03}
 began to warp and stretch.{02}Suddenly, they crept right{03}
-off the painting at me{75}{02}But I was too quick and the{03}
+off the painting at me!{02}But I was too quick and the{03}
 strange feelers wrapped up{03}
 nothing but empty space.{02}After examining it from a{03}
 distance, I believe that{03}
@@ -169,7 +169,7 @@ There's a ring on the{03}
 corner of the table.{02}Xanthous Ring acquired.{02}{00}{aa}
 ------------------
 {00002dd6}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002dd9}
 Shadows dance in time to{03}
@@ -181,12 +181,12 @@ Welcome, dear guests.{02}Please come inside.{02}{00}{aa}
 ------------------
 {00002ddf}
 I don't believe we've met{03}
-before, have we{76}{02}What odd attire. Did{03}
+before, have we?{02}What odd attire. Did{03}
 Moldiv summon you,{03}
-perhaps{76}{02}{00}{aa}
+perhaps?{02}{00}{aa}
 ------------------
 {00002de2}
-Why, I never{75}{02}The ghostly figure suddenly{03}
+Why, I never!{02}The ghostly figure suddenly{03}
 vanishes.{02}{00}{aa}
 ------------------
 {00002de5}
@@ -198,16 +198,16 @@ friend of Benedict's.{02}Now if you'll excuse me, I{03}
 suddenly feel a bit faint.{02}{00}{aa}
 ------------------
 {00002de8}
-Who are you{76} Stay out of{03}
-my way{75}{02}{00}{aa}
+Who are you? Stay out of{03}
+my way!{02}{00}{aa}
 ------------------
 {00002deb}
-The nerve{75}{02}The ghostly figure up and{03}
+The nerve!{02}The ghostly figure up and{03}
 vanishes.{02}{00}{aa}
 ------------------
 {00002dee}
 So my expression offends{03}
-you, does it{76} How very{03}
+you, does it? How very{03}
 intolerant of you.{02}Your garb tells me you know{03}
 Benedict, so I will assume{03}
 you are his friend.{02}You rub me the wrong way,{03}
@@ -216,11 +216,11 @@ so just leave me alone.{02}{00}{aa}
 {00002df1}
 Were you also summoned{03}
 here as guests of Sir{03}
-Laplace{76}{02}He should be on the top{03}
+Laplace?{02}He should be on the top{03}
 floor of the castle.{02}{00}{aa}
 ------------------
 {00002df4}
-How terribly rude of you{75}{02}The ghostly figure suddenly{03}
+How terribly rude of you!{02}The ghostly figure suddenly{03}
 vanishes.{02}{00}{aa}
 ------------------
 {00002df7}
@@ -228,17 +228,17 @@ You could stand to be less{03}
 judgmental of my face.{02}I gave my flesh willingly{03}
 to Moldiv's magic,{02}and now, as a spirit, I{03}
 have true freedom.{02}This is my eternal life, a{03}
-boon from Moldiv{75}{02}{00}{aa}
+boon from Moldiv!{02}{00}{aa}
 ------------------
 {00002dfa}
 I haven't seen Miss{03}
 Cassandra for some time,{03}
 I'm afraid.{02}Nor the knight Bayard, for{03}
 that matter. Has something{03}
-happened to them{76}{02}{00}{aa}
+happened to them?{02}{00}{aa}
 ------------------
 {00002dfd}
-How rude{75}{02}The ghostly figure just{03}
+How rude!{02}The ghostly figure just{03}
 vanishes.{02}{00}{aa}
 ------------------
 {00002e00}
@@ -246,7 +246,7 @@ My face should be no cause{03}
 for fright.{02}Moldiv's magic took my{03}
 flesh from me, but{02}gave me true freedom as a{03}
 spirit in return.{02}I give thanks every day for{03}
-the life he gave me{75}{02}{00}{aa}
+the life he gave me!{02}{00}{aa}
 ------------------
 {00002e03}
 On the 2nd floor of the{03}
@@ -257,27 +257,27 @@ mysterious item.{02}Someone else was looking{03}
 for it, too...{02}{00}{aa}
 ------------------
 {00002e06}
-How vulgar of you{75}{02}The ghostly figure just{03}
+How vulgar of you!{02}The ghostly figure just{03}
 disappears.{02}{00}{aa}
 ------------------
 {00002e09}
-What's wrong{76} Why such{03}
-alarmed expressions{76}{03}
+What's wrong? Why such{03}
+alarmed expressions?{03}
 What strange people...{02}{00}{aa}
 ------------------
 {00002e0c}
 I hear that Laplace stays{03}
 locked up in his room{03}
 lately.{02}He can't be sick, so what{03}
-could he be up to{76}{02}{00}{aa}
+could he be up to?{02}{00}{aa}
 ------------------
 {00002e0f}
-How rude{75}{02}The ghostly figure vanishes{03}
+How rude!{02}The ghostly figure vanishes{03}
 from sight.{02}{00}{aa}
 ------------------
 {00002e12}
-What's wrong{76} Why such{03}
-alarmed expressions{76}{03}
+What's wrong? Why such{03}
+alarmed expressions?{03}
 What strange people...{02}{00}{aa}
 ------------------
 {00002e15}
@@ -285,7 +285,7 @@ A silver bracelet lies atop{03}
 the table.{02}Silver Bracelet acquired.{02}{00}{aa}
 ------------------
 {00002e18}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002e1b}
 This room seems to be the{03}
@@ -298,7 +298,7 @@ the drawer.{02}Silver Bell acquired.{02}{00}{aa}
 ------------------
 {00002e21}
 Damn, the bell seems to be{03}
-broken{75} It won't ring.{02}{00}{aa}
+broken! It won't ring.{02}{00}{aa}
 ------------------
 {00002e24}
 The servant here seems to{03}
@@ -307,7 +307,7 @@ see me.{02}{00}{aa}
 ------------------
 {00002e27}
 Are you by any chance one{03}
-of Benedict's friends{76}{03}
+of Benedict's friends?{03}
 I'm sure I'm not mistaken.{02}If it's him you seek, then{03}
 look for him in a cell.{02}{00}{aa}
 ------------------
@@ -317,14 +317,14 @@ looking quite frightened.{02}{00}{aa}
 ------------------
 {00002e2d}
 And just as conversation{03}
-ended, in walks a guard.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+ended, in walks a guard.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e30}
 There's a map inside the{03}
 drawer.{02}Castle 3F Map acquired.{02}{00}{aa}
 ------------------
 {00002e33}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002e36}
 There's a servant here.{03}
@@ -335,7 +335,7 @@ The man scurries off,{03}
 looking quite frightened.{02}{00}{aa}
 ------------------
 {00002e3c}
-What do you want{76} My head{03}
+What do you want? My head{03}
 is pounding, I can't get{03}
 any sleep...{02}At night, I can hear moans{03}
 coming up from the floor,{03}
@@ -358,7 +358,7 @@ so I can finally sleep.{02}{00}{aa}
 ------------------
 {00002e48}
 We finish talking and a{03}
-a guard walks in.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+a guard walks in.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e4b}
 A man in an adorned robe is{03}
@@ -373,7 +373,7 @@ you and I.{02}{00}{aa}
 {00002e51}
 Oh, how rare it is to have{03}
 guests here.{02}I was about to have dinner.{03}
-Care to join me{76}{02}{00}{aa}
+Care to join me?{02}{00}{aa}
 ------------------
 {00002e54}
 I see. What a pity.{02}{00}{aa}
@@ -402,7 +402,7 @@ wants to forget about.{02}Perhaps Joanna is also{03}
 being imprisoned there.{02}{00}{aa}
 ------------------
 {00002e63}
-Well if it isn't Joanna{75}{02}I'd heard that you were{03}
+Well if it isn't Joanna!{02}I'd heard that you were{03}
 captured by the guards. So{03}
 nice to see you again.{02}{00}{aa}
 ------------------
@@ -415,8 +415,8 @@ and the others here.{02}{01} {00}{aa}
 A guard stands.{02}{00}{aa}
 ------------------
 {00002e6c}
-Who are you{76} Leave{03}
-immediately{75}{02}{00}{aa}
+Who are you? Leave{03}
+immediately!{02}{00}{aa}
 ------------------
 {00002e6f}
 Weapons and armor are{03}
@@ -432,7 +432,7 @@ Look, I found a silver{03}
 sickle.{02}Druidic Boline acquired.{02}{00}{aa}
 ------------------
 {00002e78}
-A guard appeared.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+A guard appeared.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e7b}
 Weapons and armor are{03}
@@ -445,7 +445,7 @@ Look, I found a dagger.{02}Trench Knife acquired.{02}{00}{aa}
 Look, I found a saber.{02}Curved Backsword acquired.{02}{00}{aa}
 ------------------
 {00002e84}
-A guard appeared.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+A guard appeared.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e87}
 Weapons and armor are{03}
@@ -458,7 +458,7 @@ I found a cap.{02}Leather Headgear acquired.{02}{00}{aa}
 I found a spangenhelm.{02}Steel Bascinet acquired.{02}{00}{aa}
 ------------------
 {00002e90}
-A guard appeared.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+A guard appeared.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e93}
 Various items are arranged{03}
@@ -469,7 +469,7 @@ Look, I found a pentagram.{02}Pentacle Necklace{03}
 acquired.{02}{00}{aa}
 ------------------
 {00002e99}
-A guard appeared.{02}Intruders{75} Come quietly{75}{02}{00}{aa}
+A guard appeared.{02}Intruders! Come quietly!{02}{00}{aa}
 ------------------
 {00002e9c}
 Various items are arranged{03}
@@ -480,28 +480,28 @@ A nifty little necklace{03}
 with a hexagram pendant.{02}Hexacle Necklace acquired.{02}{00}{aa}
 ------------------
 {00002ea2}
-A guard.{02}Get down on the ground{75}{02}{00}{aa}
+A guard.{02}Get down on the ground!{02}{00}{aa}
 ------------------
 {00002ea5}
 There's a guard here.{02}{00}{aa}
 ------------------
 {00002ea8}
-Intruders{75}{02}{00}{aa}
+Intruders!{02}{00}{aa}
 ------------------
 {00002eab}
-Benedict's allies{76}{02}You are foolish to be here.{02}Your friend caused much{03}
+Benedict's allies?{02}You are foolish to be here.{02}Your friend caused much{03}
 grief to King Laplace, and{03}
 now rots in a cell.{02}{00}{aa}
 ------------------
 {00002eae}
-Is that Benedict{76}{03}
-Why is he here{76}{02}{00}{aa}
+Is that Benedict?{03}
+Why is he here?{02}{00}{aa}
 ------------------
 {00002eb1}
 It appears Master Laplace{03}
-is afraid of something.{02}Just why is that{76} Does it{03}
+is afraid of something.{02}Just why is that? Does it{03}
 have to do with Benedict,{03}
-who escaped{76}{02}{00}{aa}
+who escaped?{02}{00}{aa}
 ------------------
 {00002eb4}
 The door is locked.{02}{00}{aa}
@@ -515,11 +515,11 @@ freed from a cell is here.{03}
 He lights up as he sees me.{02}{00}{aa}
 ------------------
 {00002ebd}
-It's me. It's Ryan{75} Please{03}
+It's me. It's Ryan! Please{03}
 stop and hear me out.{02}{00}{aa}
 ------------------
 {00002ec0}
-{01}{0c}{04}{00}, right{76} I'm Ryan{75}{03}
+{01}{0c}{04}{00}, right? I'm Ryan!{03}
 You saved me from starving{03}
 to death in a jail cell.{02}I'm here searching for my{03}
 sweetheart, Anita, but this{02}whole dang place is like{03}
@@ -533,7 +533,7 @@ Anita, please tell her I{03}
 was searching for her.{02}{01} {00}{aa}
 ------------------
 {00002ec6}
-Can I go with you{76}{02}{00}{aa}
+Can I go with you?{02}{00}{aa}
 ------------------
 {00002ec9}
 Thanks. Well then, I'll{03}
@@ -553,7 +553,7 @@ Well, if it isn't Ryan.{02}Anita was taken away by a{03}
 monster living in the{03}
 cemetery by the lake.{02}If you go up the stairs to{03}
 the east you should be able{03}
-to catch up with them.{02}You should hurry{75}{02}{00}{aa}
+to catch up with them.{02}You should hurry!{02}{00}{aa}
 ------------------
 {00002ed5}
 Anita was taken away by a{03}
@@ -563,7 +563,7 @@ but the creatures here are{03}
 too frightening.{02}{00}{aa}
 ------------------
 {00002ed8}
-Is Anita alright{76}{02}{00}{aa}
+Is Anita alright?{02}{00}{aa}
 ------------------
 {00002edb}
 A book. I'll just take a...{02}Mythos power shocks my mind{03}
@@ -572,7 +572,7 @@ the smell of ozone.{02}Learned {79}Electrical Shock{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00002ede}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002ee1}
 There was a magic book in{03}
@@ -580,7 +580,7 @@ the drawer.{02}Learned {79}Sanctify Armament{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00002ee4}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002ee7}
 In the drawer was an exotic{03}
@@ -589,7 +589,7 @@ blade and ornate pommel.{02}Vedic Kila Phurba{03}
 acquired.{02}{00}{aa}
 ------------------
 {00002eea}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002eed}
 The maid looks at me like I{03}
@@ -606,14 +606,14 @@ in a cell for trying to save{03}
 a pointless little girl.{02}{00}{aa}
 ------------------
 {00002ef6}
-So you're alright, Master{76}{02}Moldiv's initiates came{03}
+So you're alright, Master?{02}Moldiv's initiates came{03}
 here many times but I drove{03}
 them away.{02}It makes me glad to see how{03}
 alive you are.{02}{00}{aa}
 ------------------
 {00002ef9}
 Do you need something{03}
-with Master Adolph{76} He's{03}
+with Master Adolph? He's{03}
 in the back room.{02}{00}{aa}
 ------------------
 {00002efc}
@@ -647,7 +647,7 @@ slightly.{02}Learned {79}Psyche Eater{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00002f11}
-Oh no{75} It's a trap{75}{02}{00}{aa}
+Oh no! It's a trap!{02}{00}{aa}
 ------------------
 {00002f14}
 That man I let out of a{03}
@@ -657,7 +657,7 @@ jail cell.{02}{00}{aa}
 Adolph's here.{02}{00}{aa}
 ------------------
 {00002f1a}
-What are you doing{76}{75}{03}
+What are you doing?!{03}
 It's me, Adolph.{02}{00}{aa}
 ------------------
 {00002f1d}
@@ -665,11 +665,11 @@ Oh, if it isn't {04}{00}.{03}
 I'm Adolph.{02}I haven't forgotten my debt{03}
 to you for getting me out{03}
 of that stinking pit.{02}Did you meet a magician{03}
-named Moldiv{76}{02}{00}{aa}
+named Moldiv?{02}{00}{aa}
 ------------------
 {00002f20}
-You defeated Moldiv{76}{03}
-Excellent{75}{02}It was his influence that{03}
+You defeated Moldiv?{03}
+Excellent!{02}It was his influence that{03}
 led King Laplace down the{03}
 path of darkness.{02}It was he who summoned the{03}
 Demon to this castle.{02}It seems that he taught the{03}
@@ -705,7 +705,7 @@ Moldiv.{02}{00}{aa}
 ------------------
 {00002f26}
 I'm thinking of defeating{03}
-Moldiv. Try it with me{76}{02}{00}{aa}
+Moldiv. Try it with me?{02}{00}{aa}
 ------------------
 {00002f29}
 Let's work together and{03}
@@ -725,7 +725,7 @@ I will be waiting here.{02}{00}{aa}
 ------------------
 {00002f32}
 {04}{00}, how goes the{03}
-investigation{76}{02}{00}{aa}
+investigation?{02}{00}{aa}
 ------------------
 {00002f35}
 In the castle there are{03}
@@ -747,11 +747,11 @@ Be careful.{02}{00}{aa}
 ------------------
 {00002f3e}
 You're going to fight{03}
-Moldiv{76}{02}There's no way I'm going{03}
+Moldiv?{02}There's no way I'm going{03}
 to do something so{03}
-dangerous{75}{02}I'm going to continue{03}
-treasure hunting by myself{75}{03}
-Bye{75}{02}{00}{aa}
+dangerous!{02}I'm going to continue{03}
+treasure hunting by myself!{03}
+Bye!{02}{00}{aa}
 ------------------
 {00002f41}
 Oh well, I'm going home{03}
@@ -809,7 +809,7 @@ How horrible.{02}{00}{aa}
 {00002f5f}
 If you give me some money I{03}
 won't rat you out.{02}I'm friends with Benedict{03}
-too, right{76}{02}{00}{aa}
+too, right?{02}{00}{aa}
 ------------------
 {00002f62}
 Reluctantly, I decided to{03}
@@ -824,7 +824,7 @@ vicinity of the lake.{02}{00}{aa}
 {00002f68}
 If you give me some money I{03}
 won't rat you out.{02}I'm friends with Benedict{03}
-too, right{76}{02}{00}{aa}
+too, right?{02}{00}{aa}
 ------------------
 {00002f6b}
 I hand the money over.{02}{00}{aa}
@@ -845,7 +845,7 @@ and staring at me.{02}{00}{aa}
 {00002f77}
 I got me a bunch of sneak{03}
 thieves trying to burgle{03}
-up some treasure{75} Ha{75} Ha{75}{02}{00}{aa}
+up some treasure! Ha! Ha!{02}{00}{aa}
 ------------------
 {00002f7a}
 A large bundle of keys hang{03}
@@ -873,7 +873,7 @@ There were Digitalis Herbs{03}
 in the drawer.{02}Digitalis Herbs acquired.{02}{00}{aa}
 ------------------
 {00002f8c}
-Oh no, it's a trap{75}{02}{00}{aa}
+Oh no, it's a trap!{02}{00}{aa}
 ------------------
 {00002f8f}
 A shadowy figure lies on{03}
@@ -920,7 +920,7 @@ A guard saw us and started{03}
 yelling.{02}{00}{aa}
 ------------------
 {00002fad}
-Who goes there{76}{02}{00}{aa}
+Who goes there?{02}{00}{aa}
 ------------------
 {00002fb0}
 Moldiv's chambers lie to{03}
@@ -931,8 +931,8 @@ passage of water.{02}I don't really know anymore{03}
 details.{02}{00}{aa}
 ------------------
 {00002fb3}
-Hold on there{75}{02}You're the intruders{75}{03}
-Come peacefully{75}{02}{00}{aa}
+Hold on there!{02}You're the intruders!{03}
+Come peacefully!{02}{00}{aa}
 ------------------
 {00002fb6}
 A huge amount of water{03}
@@ -963,7 +963,7 @@ vomit.{02}Learned {79}Mythos Desecration{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00002fc8}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00002fcb}
 There's a young man wearing{03}
@@ -973,22 +973,22 @@ at them.{02}{00}{aa}
 ------------------
 {00002fce}
 {01}{14}How rude, attacking out{03}
-of the blue like that{75}{02}{01} {00}{aa}
+of the blue like that!{02}{01} {00}{aa}
 ------------------
 {00002fd1}
 His cold stare stays my{03}
 hand somehow. I can't{03}
-move to attack him{75}{02}{00}{aa}
+move to attack him!{02}{00}{aa}
 ------------------
 {00002fd4}
 {01}{14}Are you friends of{03}
-Benedict{76}{00}{aa}
+Benedict?{00}{aa}
 ------------------
 {00002fd7}
 {01}{14}My name is Louvain. I am{03}
 Benedict's... assistant.{02}You insist you are his{03}
-friends{76}{02}He is being held prisoner{03}
-by the lake. Go free him.{02}Be warned, though{75} His{03}
+friends?{02}He is being held prisoner{03}
+by the lake. Go free him.{02}Be warned, though! His{03}
 prison is being guarded{03}
 by quite a monster indeed.{02}I'd wager you need a{03}
 talisman to vanquish it.{02}Moldiv's pet just so{03}
@@ -1000,11 +1000,11 @@ talisman southeast of here.{02}Take it off its corpse.{02}{01} {00}{aa}
 here. Leave now.{02}{01} {00}{aa}
 ------------------
 {00002fdd}
-{01}{14}Isn't that Benedict{76}{02}{01} {00}{aa}
+{01}{14}Isn't that Benedict?{02}{01} {00}{aa}
 ------------------
 {00002fe0}
-{01}{0e}Help me, Louvain{75} These{03}
-are our enemies{75}{02}{01} {00}{aa}
+{01}{0e}Help me, Louvain! These{03}
+are our enemies!{02}{01} {00}{aa}
 ------------------
 {00002fe3}
 Breaking free {04}{00}{03}
@@ -1012,11 +1012,11 @@ and the others, Benedict{03}
 rushed over to the wizard.{02}{00}{aa}
 ------------------
 {00002fe6}
-{01}{14}Enemies you say{76}{02}Well, I'd know just what to{03}
+{01}{14}Enemies you say?{02}Well, I'd know just what to{03}
 do with my enemies if I had{03}
 any, heh heh.{02}Perhaps I'll show you, just{03}
 to see your true strength.{02}{01} Louvain's form shifts to a{03}
-demon as he attacks{76}{02}{00}{aa}
+demon as he attacks?{02}{00}{aa}
 ------------------
 {00002fe9}
 {01}{14}Not bad. You can at least{03}
@@ -1024,7 +1024,7 @@ kill Benedict for me.{02}{01} {00}{aa}
 ------------------
 {00002fec}
 {01}{0e}So you're turning on me{03}
-at last, Louvain{76}{02}{01} {00}{aa}
+at last, Louvain?{02}{01} {00}{aa}
 ------------------
 {00002fef}
 {01}{14}Yes, I think now's the{03}
@@ -1038,11 +1038,11 @@ Benedict agrees to talk.{02}{00}{aa}
 ------------------
 {00002ff5}
 {01}{00}What is the deal with that{03}
-Louvain guy{76}{02}{01} {00}{aa}
+Louvain guy?{02}{01} {00}{aa}
 ------------------
 {00002ff8}
 {01}{01}Just what is up with that{03}
-Louvain guy{76}{02}{01} {00}{aa}
+Louvain guy?{02}{01} {00}{aa}
 ------------------
 {00002ffb}
 {01}{0e}... Let's talk after we've{03}
@@ -1052,19 +1052,19 @@ we'll be tortured and then{03}
 killed.{02}{01} {00}{aa}
 ------------------
 {00002ffe}
-There's a guard.{02}Stop right there{75}{02}{00}{aa}
+There's a guard.{02}Stop right there!{02}{00}{aa}
 ------------------
 {00003001}
 The guard had a cell key.{02}Cell Key acquired.{02}{00}{aa}
 ------------------
 {00003004}
-There's a guard.{02}Stop right there{75}{02}{00}{aa}
+There's a guard.{02}Stop right there!{02}{00}{aa}
 ------------------
 {00003007}
 The door is locked.{02}{00}{aa}
 ------------------
 {0000300a}
-What are you doing{76}{03}
+What are you doing?{03}
 Wait just a minute.{02}{00}{aa}
 ------------------
 {0000300d}
@@ -1073,7 +1073,7 @@ cloth.{02}{00}{aa}
 ------------------
 {00003010}
 {01}{0b}My name is Adolph. Have{03}
-you come to my rescue{76}{02}Moldiv caught me in one{03}
+you come to my rescue?{02}Moldiv caught me in one{03}
 of his magical traps.{02}He's been manipulating{03}
 Master Laplace ever since{03}
 he arrived.{02}{00}{aa}
@@ -1082,7 +1082,7 @@ he arrived.{02}{00}{aa}
 I plan to slay Moldiv in{03}
 order to save my lord from{03}
 his villainous clutches.{02}Please join me now in{03}
-defeating him{75}{02}{01} {00}{aa}
+defeating him!{02}{01} {00}{aa}
 ------------------
 {00003016}
 {01}{0b}Good. We begin our search{03}
@@ -1113,7 +1113,7 @@ knightly countenance.{02}{00}{aa}
 ------------------
 {00003022}
 Do not address me so.{02}I, Ser Bayard, will not{03}
-stand for such disrespect{75}{02}{00}{aa}
+stand for such disrespect!{02}{00}{aa}
 ------------------
 {00003025}
 {01}{0d}I am Ser Bayard, servant to{03}
@@ -1126,7 +1126,7 @@ must tell me.{02}{00}{aa}
 My charge is to rescue this{03}
 man before I may return to{03}
 Lady Cassandra's side.{02}I require your aid. You{03}
-must assist me{75}{02}{00}{aa}
+must assist me!{02}{00}{aa}
 ------------------
 {0000302b}
 {01}{0d}You have my gratitude.{02}He was betrayed by a man{03}
@@ -1144,14 +1144,14 @@ cross again. Take care.{02}{01} {00}{aa}
 ------------------
 {00003034}
 {01}{0d}Oh, if it isn't Sir{03}
-Kenichiro{75}{02}A pleasure to see you again{03}
+Kenichiro!{02}A pleasure to see you again{03}
 so soon. Lady Cassandra's{03}
 been worried about you.{02}{01} {00}{aa}
 ------------------
 {00003037}
 {01}{03}
 Sorry for worrying you. Is{03}
-Princess Cassandra alright{76}{02}{01} {00}{aa}
+Princess Cassandra alright?{02}{01} {00}{aa}
 ------------------
 {0000303a}
 {01}{0d}Nary have I heard from her{03}
@@ -1165,7 +1165,7 @@ A small pool of clear water.{03}
 A number of shining objects{03}
 lie at the bottom.{02}Maybe it seems like a good{03}
 idea to try fishing these{03}
-out{76}{02}{00}{aa}
+out?{02}{00}{aa}
 ------------------
 {00003040}
 A pool of acid. Great.{02}{00}{aa}
@@ -1188,7 +1188,7 @@ dirty that doesn't wash{03}
 out.{02}{00}{aa}
 ------------------
 {0000304c}
-Who disturbs my slumber{75}{76}{02}{00}{aa}
+Who disturbs my slumber!?{02}{00}{aa}
 ------------------
 {0000304f}
 A dead oriental.{02}His torso is covered by{03}
@@ -1205,7 +1205,7 @@ wants to return to town.{02}{00}{aa}
 {00003055}
 {79}People who came from the{03}
 American town of Newcam,{03}
-am I correct{76}{02}I am Kenichiro Kusakabe.{02}I sought to thwart Benedict{03}
+am I correct?{02}I am Kenichiro Kusakabe.{02}I sought to thwart Benedict{03}
 but I was captured and then{03}
 tortured to death.{02}Benedict's plan is to take{03}
 control of the King's Demon{03}
@@ -1216,13 +1216,13 @@ you if you can return here{03}
 with a vial of holy water.{7a}{02}{00}{aa}
 ------------------
 {00003058}
-{01}{0d}Sir Kenichiro{75}{02}What horrifying atrocities{03}
+{01}{0d}Sir Kenichiro!{02}What horrifying atrocities{03}
 befell you in this{03}
-wretched pit{75}{76}{02}{01} {00}{aa}
+wretched pit!?{02}{01} {00}{aa}
 ------------------
 {0000305b}
-{79}Sir Bayard{76} Is Princess{03}
-Cassandra safe{76}{7a}{02}{00}{aa}
+{79}Sir Bayard? Is Princess{03}
+Cassandra safe?{7a}{02}{00}{aa}
 ------------------
 {0000305e}
 {01}{0d}Well... I left the{03}
@@ -1250,7 +1250,7 @@ Realized 2000 experience.{02}{00}{aa}
 {0000306d}
 {01} Arigato. I am still very{03}
 weak, but I will survive.{02}We should return to your{03}
-city for now.{02}Shall we go right now{76}{02}{00}{aa}
+city for now.{02}Shall we go right now?{02}{00}{aa}
 ------------------
 {00003070}
 Thinking about Kenichiro's{03}
@@ -1277,7 +1277,7 @@ excuse me.{02}{01} {00}{aa}
 ------------------
 {0000307c}
 {01}{0f}You're going to return to{03}
-your town{76}{02}Well then, I'll continue{03}
+your town?{02}Well then, I'll continue{03}
 my treasure hunting by{03}
 myself.{02}{00}{aa}
 ------------------
@@ -1319,17 +1319,17 @@ fight you.{02}{00}{aa}
 ------------------
 {00003091}
 {01}{0f}What, you're going to{03}
-save me{76} Thanks. I'm{03}
+save me? Thanks. I'm{03}
 Germaine Boxley.{02}I heard that the gryphon's{03}
 treasure was somewhere in{03}
 the castle, so I snuck in.{02}{00}{aa}
 ------------------
 {00003094}
 You guys know the way round{03}
-a fight, right{76}{02}Right. Here's the {79}D{7a}, see{76}{03}
+a fight, right?{02}Right. Here's the {79}D{7a}, see?{03}
 Fifty-fifty.{02}If you like it then let's{03}
 get hoofin' and mum's the{03}
-bloody word{75}{02}{01} {00}{aa}
+bloody word!{02}{01} {00}{aa}
 ------------------
 {00003097}
 {01}{0f}Thanks, guv.{02}{01} {00}{aa}
@@ -1347,7 +1347,7 @@ excitedly.{02}{00}{aa}
 {000030a0}
 Please you got to save me{03}
 from this awful place, I{03}
-hate it here{75}{02}{00}{aa}
+hate it here!{02}{00}{aa}
 ------------------
 {000030a3}
 {01}{04}Thanks for the rescue.{03}
@@ -1355,19 +1355,19 @@ I'm Jambon.{02}My mistress is the witch{03}
 who lives on the north{03}
 shore of the lake...{02}... that lies on the third{03}
 floor of the castle. Are{03}
-you headed that way{76}{02}{00}{aa}
+you headed that way?{02}{00}{aa}
 ------------------
 {000030a6}
 Won't you take me with{03}
-you{76}{02}{00}{aa}
+you?{02}{00}{aa}
 ------------------
 {000030a9}
-Thanks{75}{02}{01} {00}{aa}
+Thanks!{02}{01} {00}{aa}
 ------------------
 {000030ac}
 If you ever are at the{03}
 lake, pay a visit to my{03}
-mistress. Later{75}{02}{01} {00}{aa}
+mistress. Later!{02}{01} {00}{aa}
 ------------------
 {000030af}
 A young man stares at me,{03}
@@ -1379,7 +1379,7 @@ Please, just spare my{03}
 life.{02}{00}{aa}
 ------------------
 {000030b5}
-{01}{0c}Who are you{76} I'm Ryan.{02}I came to search for my{03}
+{01}{0c}Who are you? I'm Ryan.{02}I came to search for my{03}
 sister Anita who is being{03}
 forced to work here,{02}but when I snuck inside I{03}
 was caught by the guards.{02}{00}{aa}
@@ -1387,7 +1387,7 @@ was caught by the guards.{02}{00}{aa}
 {000030b8}
 I can't search for Anita{03}
 by myself... Can I go with{03}
-you{76}{02}{00}{aa}
+you?{02}{00}{aa}
 ------------------
 {000030bb}
 Thanks.{02}{01} {00}{aa}
@@ -1399,7 +1399,7 @@ tell her hello for me.{02}{01} {00}{aa}
 {000030c1}
 There's a woman wearing the{03}
 same kind of clothes as{03}
-you{75}{02}She's surprised when she{03}
+you!{02}She's surprised when she{03}
 sees you.{02}{00}{aa}
 ------------------
 {000030c4}
@@ -1408,7 +1408,7 @@ I came from Newcam.{02}{00}{aa}
 ------------------
 {000030c7}
 {01}{08}Did you come from Newcam{03}
-too{76} I'm Joanna.{02}I came in search of my{03}
+too? I'm Joanna.{02}I came in search of my{03}
 boyfriend,{02}and was led all the way{03}
 here by a mysterious{03}
 power...{02}{00}{aa}
@@ -1416,7 +1416,7 @@ power...{02}{00}{aa}
 {000030ca}
 I know that he was headed{03}
 for the top floor,{02}but I hear there are many{03}
-eerie monsters there.{02}Can I go with you{76}{02}{00}{aa}
+eerie monsters there.{02}Can I go with you?{02}{00}{aa}
 ------------------
 {000030cd}
 Thanks a lot.{02}{01} {00}{aa}
@@ -1432,7 +1432,7 @@ robe here. He seems to be{03}
 an apprentice.{02}{00}{aa}
 ------------------
 {000030d6}
-Who are you{75}{76}{02}{00}{aa}
+Who are you!?{02}{00}{aa}
 ------------------
 {000030d9}
 A man named Benedict was{03}
@@ -1446,7 +1446,7 @@ robe here. He seems to be{03}
 an apprentice.{02}{00}{aa}
 ------------------
 {000030df}
-Who are you{75}{76}{02}{00}{aa}
+Who are you!?{02}{00}{aa}
 ------------------
 {000030e2}
 There's a strange wizard{03}
@@ -1454,7 +1454,7 @@ named Louvain in the room{03}
 to the west on this floor.{02}According to rumor, they{03}
 say he's not a human....{02}Master Moldiv says that{03}
 he's planning something.{03}
-I wonder if he's right{76}{02}{00}{aa}
+I wonder if he's right?{02}{00}{aa}
 ------------------
 {000030e5}
 There's a man wearing a{03}
@@ -1462,7 +1462,7 @@ robe. He seems to be{03}
 an apprentice.{02}{00}{aa}
 ------------------
 {000030e8}
-Who are you{75}{76}{02}{00}{aa}
+Who are you!?{02}{00}{aa}
 ------------------
 {000030eb}
 Master Laplace summoned a{03}
@@ -1482,7 +1482,7 @@ the room.{02}{00}{aa}
 {000030f1}
 What do you get when you{03}
 cross a water buffalo, a{03}
-giraffe, and a boar{76}{02}Its head looks too heavy{03}
+giraffe, and a boar?{02}Its head looks too heavy{03}
 for its long neck to even{03}
 lift.{02}I stepped nearer, but was{03}
 sensed almost at once.{02}{00}{aa}
@@ -1497,42 +1497,42 @@ the cabinet.{02}Staff of Sanctity{03}
 acquired.{02}{00}{aa}
 ------------------
 {000030fa}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {000030fd}
 There was a mirror in the{03}
 cabinet.{02}Mirror of Purity acquired.{02}{00}{aa}
 ------------------
 {00003100}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00003103}
 There was a circlet in the{03}
 cabinet.{02}Shell Circlet acquired.{02}{00}{aa}
 ------------------
 {00003106}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00003109}
 There was a mandrake on{03}
 the table.{02}Mandrake Root acquired.{02}{00}{aa}
 ------------------
 {0000310c}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {0000310f}
 There was a crystal on the{03}
 table.{02}Raw Crystal acquired.{02}{00}{aa}
 ------------------
 {00003112}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00003115}
 There was a rod on the{03}
 table.{02}Gilder Verger acquired.{02}{00}{aa}
 ------------------
 {00003118}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {0000311b}
 Stuffed trophies of various{03}
@@ -1553,7 +1553,7 @@ lizard-man of some kind.{02}{00}{aa}
 ------------------
 {00003127}
 The stuffed lizard-man{03}
-suddenly moved{75}{02}{00}{aa}
+suddenly moved!{02}{00}{aa}
 ------------------
 {0000312a}
 There's a stuffed body of{03}
@@ -1578,7 +1578,7 @@ green-skinned giant.{02}{00}{aa}
 ------------------
 {00003139}
 The stuffed giant suddenly{03}
-moved{75}{02}{00}{aa}
+moved!{02}{00}{aa}
 ------------------
 {0000313c}
 There's a man who's wearing{03}
@@ -1590,9 +1590,9 @@ there were some intruders{03}
 wandering around.{02}So it was you guys...{02}{00}{aa}
 ------------------
 {00003142}
-{01}{0b}Moldiv{75}{02}You're the one who tempted{03}
+{01}{0b}Moldiv!{02}You're the one who tempted{03}
 Master Laplace and summoned{03}
-forth the abominable demon{75}{02}{01} {00}{aa}
+forth the abominable demon!{02}{01} {00}{aa}
 ------------------
 {00003145}
 {01}{15}Oh, if it isn't Adolph.{02}I thought you were pushing{03}
@@ -1601,20 +1601,20 @@ up daisies in the dungeon.{02}{01} {00}{aa}
 {00003148}
 {01}{0b}I won't die until I've{03}
 defeated you and saved{03}
-Master Laplace{75}{02}{01} {00}{aa}
+Master Laplace!{02}{01} {00}{aa}
 ------------------
 {0000314b}
-{01}{15}Fool{75} I'll finish you off{03}
-this time. Have at you{75}{02}{01} {00}{aa}
+{01}{15}Fool! I'll finish you off{03}
+this time. Have at you!{02}{01} {00}{aa}
 ------------------
 {0000314e}
 {01}{15}Judging from your clothes{03}
 you must be friends of{03}
-Benedict.{02}Come to save him, have you{76}{03}
+Benedict.{02}Come to save him, have you?{03}
 Foolish.{02}You've walked right into{03}
 your captor's hands,{02}and soon you'll be tortured{03}
 to death.{02}Don't think you'll die{03}
-painlessly{75}{02}{01} {00}{aa}
+painlessly!{02}{01} {00}{aa}
 ------------------
 {00003151}
 {01}{15}I... misjudged you...{02}But even if you defeat me,{03}
@@ -1627,9 +1627,9 @@ I looked on stoically as{03}
 Moldiv breathed his last.{02}{00}{aa}
 ------------------
 {00003157}
-{01}{0b}Impossible{75} So then does{03}
+{01}{0b}Impossible! So then does{03}
 that mean this is the world{03}
-Master Laplace desired...{76}{02}{01} {00}{aa}
+Master Laplace desired...?{02}{01} {00}{aa}
 ------------------
 {0000315a}
 {01}{00}Adolph...{02}{01} {00}{aa}

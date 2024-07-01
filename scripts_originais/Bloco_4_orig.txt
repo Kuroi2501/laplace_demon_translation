@@ -4,7 +4,7 @@ wing is inaccessible from{03}
 this floor.{02}{00}{aa}
 ------------------
 {000020dd}
-Did you get the key{76}{03}
+Did you get the key?{03}
 It should be in the Master{03}
 Bedroom...{02}{00}{aa}
 ------------------
@@ -14,7 +14,7 @@ place for prayer.{02}{00}{aa}
 ------------------
 {000020e3}
 The bell is somehow sealed,{03}
-as if by magic{75}{02}You should give it a rest.{02}{00}{aa}
+as if by magic!{02}You should give it a rest.{02}{00}{aa}
 ------------------
 {000020e6}
 The mirror has the power of{03}
@@ -98,7 +98,7 @@ of the Maze of Mirrors.{02}{00}{aa}
 ------------------
 {00002119}
 Trying to find your way to{03}
-the Maze of Mirrors{76}{02}Climb up the stairs on the{03}
+the Maze of Mirrors?{02}Climb up the stairs on the{03}
 first floor of the south{03}
 wing of the hall.{02}{00}{aa}
 ------------------
@@ -175,9 +175,9 @@ The statue only answers to{03}
 Our Lord's commands.{02}{00}{aa}
 ------------------
 {00002149}
-Just what is happening{76}{03}
+Just what is happening?{03}
 Is the world coming to an{03}
-end{76}{02}{00}{aa}
+end?{02}{00}{aa}
 ------------------
 {0000214c}
 Try as you might, you can{03}
@@ -191,7 +191,7 @@ by Benedict's presence.{02}{00}{aa}
 Benedict and Louvain are{03}
 conspiring in the castle{03}
 undercroft.{02}Just what are their{03}
-schemes{76}{02}{00}{aa}
+schemes?{02}{00}{aa}
 ------------------
 {00002155}
 Our Lord has taken to his{03}
@@ -245,7 +245,7 @@ be your Hell.{02}{00}{aa}
 Louvain occupies the{03}
 northern portion of this{03}
 realm.{02}But then, do you even know{03}
-which way North is here{76}{02}{00}{aa}
+which way North is here?{02}{00}{aa}
 ------------------
 {00002176}
 Laplace's Domain has begun{03}

@@ -4,7 +4,7 @@ mythos tears into me...{02}Learned {79}Blood Sucker{7a}{03}
 invocation.{02}{00}{aa}
 ------------------
 {00003190}
-Something jumped out at me{75}{02}{00}{aa}
+Something jumped out at me!{02}{00}{aa}
 ------------------
 {00003193}
 I'm already there.{02}{00}{aa}
@@ -45,7 +45,7 @@ here.{02}{01} Adolph left.{02}{00}{aa}
 {000031ae}
 {01}{03}
 Are you not going to{03}
-Newcam...{76}{02}I'm... at my limit...{03}
+Newcam...?{02}I'm... at my limit...{03}
 I'll return by myself...{02}{01} Kenichiro staggered away.{02}{00}{aa}
 ------------------
 {000031b1}
@@ -125,7 +125,7 @@ invocation.{02}{00}{aa}
 ------------------
 {000031de}
 You don't know your{03}
-enemy{76} How foolish...{02}{00}{aa}
+enemy? How foolish...{02}{00}{aa}
 ------------------
 {000031e1}
 There is a small throne.{03}
@@ -137,12 +137,12 @@ A very tired old man sits{03}
 on the throne before me.{02}I can sense great power{03}
 behind his eyes,{02}but there's much madness{03}
 inside there as well. This{03}
-can only be Laplace{75}{02}{01}{11}{79}More intruders from earth's{03}
+can only be Laplace!{02}{01}{11}{79}More intruders from earth's{03}
 twentieth century, I see.{02}Whatever you're planning,{03}
 it will fail. Go home.{7a}{02}{01} {00}{aa}
 ------------------
 {000031e7}
-{01}{11}Halt the invasion{76} How{03}
+{01}{11}Halt the invasion? How{03}
 droll you are, giving{03}
 commands to a monarch.{02}You'll never comprehend my{03}
 plans for your world.{02}If you wish me stopped,{03}
@@ -152,9 +152,9 @@ halt the invasion.{02}If I win, your souls are a{03}
 sacrifice to the demon.{02}For he has a special power.{02}With your souls it forges{03}
 a connection to your world,{03}
 extending its power there.{02}In other words, your souls{03}
-will serve as its beacon.{02}So, what will it be{76}{02}My prophetic powers cannot{03}
+will serve as its beacon.{02}So, what will it be?{02}My prophetic powers cannot{03}
 affect you, so we fight on{03}
-equal terms. Shall we{76}{02}{01} {00}{aa}
+equal terms. Shall we?{02}{01} {00}{aa}
 ------------------
 {000031ea}
 {01}{11}I'm defeated. Laplace's{03}
@@ -175,10 +175,10 @@ pact with Laplace's Demon.{02}{01} {00}{aa}
 ------------------
 {000031f3}
 {01}{11}You're worried that the{03}
-Demon is dangerous{76}{02}It is under my control{75}{03}
-There is nothing to fear{75}{02}Besides, this world relies{03}
+Demon is dangerous?{02}It is under my control!{03}
+There is nothing to fear!{02}Besides, this world relies{03}
 on the demon's power to{03}
-even exist{75}{02}Bah{75} I grow weary.{03}
+even exist!{02}Bah! I grow weary.{03}
 Leave me be.{02}I shall close the elder{03}
 sign as promised.{02}You must return home{03}
 quickly, or be trapped here{03}
@@ -199,7 +199,7 @@ Arena of Strength.{02}{00}{aa}
 {000031fc}
 This is the sacrifice room{03}
 used in Master Laplace's{03}
-ceremonies.{02}Interlopers{75}{02}{00}{aa}
+ceremonies.{02}Interlopers!{02}{00}{aa}
 ------------------
 {000031ff}
 A sobbing girl sits in the{03}
@@ -213,16 +213,16 @@ town.{02}Dragged off to be part of{03}
 some dark ritual...{02}{00}{aa}
 ------------------
 {00003205}
-{01}{00}You're Amy, right{76} Your{03}
+{01}{00}You're Amy, right? Your{03}
 mother's been worried sick{03}
-about you{75}{02}Let's go back and see your{03}
-mother, okay{76}{02}{01} {00}{aa}
+about you!{02}Let's go back and see your{03}
+mother, okay?{02}{01} {00}{aa}
 ------------------
 {00003208}
-{01}{01}You're Amy, right{76} Your{03}
+{01}{01}You're Amy, right? Your{03}
 mother asked us to come{03}
 and find you.{02}Your mother is waiting for{03}
-you, so let's get going{75}{02}{01} {00}{aa}
+you, so let's get going!{02}{01} {00}{aa}
 ------------------
 {0000320b}
 She timidly inches closer{03}
@@ -254,10 +254,10 @@ Room.{02}Just correctly answer a{03}
 riddle from the monsters in{03}
 each of the rooms,{02}and you may meet Laplace.{02}I highly doubt you'll{03}
 be able to solve even one{03}
-of them, though.{02}Let's begin{75} The first{03}
+of them, though.{02}Let's begin! The first{03}
 question iiiiiiisss...{02}What is the name of the man{03}
 whose magic aided in the{03}
-summoning of the Demon{76}{02}{00}{aa}
+summoning of the Demon?{02}{00}{aa}
 ------------------
 {0000321d}
 Moldiv{03}
@@ -280,7 +280,7 @@ bows after noticing me.{02}{00}{aa}
 Welcome to the 2nd{03}
 Riddle Room. Here's your{03}
 riddle...{02}What is the name of{03}
-Laplace's daughter{76}{02}{00}{aa}
+Laplace's daughter?{02}{00}{aa}
 ------------------
 {0000322c}
 Kassandra{03}
@@ -293,7 +293,7 @@ the next room.{02}{00}{aa}
 ------------------
 {00003232}
 No more guesses. Come back{03}
-later{75}{02}... well, I suppose if{03}
+later!{02}... well, I suppose if{03}
 you'd let me suck away{03}
 some of your life force,{02}I could let you pass.{03}
 Come on, just a nibble.{02}{00}{aa}
@@ -303,9 +303,9 @@ That is a shame.{03}
 Come back again later.{02}{00}{aa}
 ------------------
 {00003238}
-Oops{75} Was that too much{76}{03}
+Oops! Was that too much?{03}
 I'm sure you're just fine.{03}
-Good luck out there{75}{02}{00}{aa}
+Good luck out there!{02}{00}{aa}
 ------------------
 {0000323b}
 A wavering black shadow{03}
@@ -316,7 +316,7 @@ of me.{02}{00}{aa}
 3rd Riddle Room. You know{03}
 the drill by now.{02}What is the name of the{03}
 knight who pledged loyalty{03}
-to Princess Cassandra{76}{02}{00}{aa}
+to Princess Cassandra?{02}{00}{aa}
 ------------------
 {00003241}
 Bayard{03}
@@ -325,15 +325,15 @@ Orlandu{02}{00}{aa}
 ------------------
 {00003244}
 Precisely. Continue on to{03}
-the next room{75}{02}{00}{aa}
+the next room!{02}{00}{aa}
 ------------------
 {00003247}
-Wrong. Come back later{75}{02}{00}{aa}
+Wrong. Come back later!{02}{00}{aa}
 ------------------
 {0000324a}
 It says,{02}4 rooms left. They'll{03}
 squeeze all the wisdom{03}
-out of you{75}{02}{00}{aa}
+out of you!{02}{00}{aa}
 ------------------
 {0000324d}
 A human face oozes out of{03}
@@ -342,7 +342,7 @@ the wall.{02}{00}{aa}
 {00003250}
 This is the 4th Riddle{03}
 Room.{02}What is Master Laplace's{03}
-first name{76}{02}{00}{aa}
+first name?{02}{00}{aa}
 ------------------
 {00003253}
 John{03}
@@ -364,9 +364,9 @@ of me.{02}{00}{aa}
 {0000325f}
 Here's the 5th riddle.{03}
 Now is when it gets hard,{03}
-so you'd best be ready{75}{02}What is the name of the{03}
+so you'd best be ready!{02}What is the name of the{03}
 powerful stone giant...{02}... animated by the power{03}
-of magic{76}{02}{00}{aa}
+of magic?{02}{00}{aa}
 ------------------
 {00003262}
 Sphinx{03}
@@ -374,20 +374,20 @@ Gargoyle{03}
 Golem{02}{00}{aa}
 ------------------
 {00003265}
-Somebody's been studying{75}{03}
+Somebody's been studying!{03}
 You may continue to the{03}
 next room.{02}{00}{aa}
 ------------------
 {00003268}
-Too bad. Try again{75}{02}{00}{aa}
+Too bad. Try again!{02}{00}{aa}
 ------------------
 {0000326b}
-Oh dear, a werewolf now{76}{02}{00}{aa}
+Oh dear, a werewolf now?{02}{00}{aa}
 ------------------
 {0000326e}
 Here is the 6th riddle.{02}What practice in alchemy is{03}
 said to transmute lead into{03}
-gold{76}{02}{00}{aa}
+gold?{02}{00}{aa}
 ------------------
 {00003271}
 Chrysopeia{03}
@@ -408,7 +408,7 @@ A lizardman this time.{02}{00}{aa}
 {0000327d}
 This is the final riddle.{02}What is the meaning of the{03}
 Tower card used in reading{03}
-the Tarot{76}{02}{00}{aa}
+the Tarot?{02}{00}{aa}
 ------------------
 {00003280}
 Success{03}
@@ -457,7 +457,7 @@ brandishes a huge axe and{03}
 swings at me.{02}{00}{aa}
 ------------------
 {0000329e}
-A giant attacks{75}{02}{00}{aa}
+A giant attacks!{02}{00}{aa}
 ------------------
 {000032a1}
 An 8-headed giant serpent{03}
@@ -487,7 +487,7 @@ forward.{02}{00}{aa}
 ------------------
 {000032ad}
 {01}{0d}Sir {04}{00}, thou must{03}
-again refrain to thy realm{76}{02}Nay, I am a creature of the{03}
+again refrain to thy realm?{02}Nay, I am a creature of the{03}
 castle, so I cannot follow{03}
 you into that place you go.{02}I shall retain a vigil here{03}
 over the Elder Sign.{02}{01} {00}{aa}
@@ -509,13 +509,13 @@ patience.{02}{00}{aa}
 ------------------
 {000032b9}
 {01}{0c}Are you going to return{03}
-to your own world{76}{02}I'm worried about my sister{03}
+to your own world?{02}I'm worried about my sister{03}
 so I'll stay here.{02}I will be waiting next to{03}
 the Elder Sign, so please{03}
 come back soon.{02}{01} {00}{aa}
 ------------------
 {000032bc}
-{01}{0c}Oh good, you're back{75}{03}
+{01}{0c}Oh good, you're back!{03}
 My sister is still missing{03}
 I'm afraid.{02}Please, {04}{00}, search{03}
 for my sister with me.{02}{00}{aa}
@@ -531,51 +531,51 @@ yard on the first floor.{02}Please come by later.{02}{01} {00}{aa}
 ------------------
 {000032c5}
 {01}{04}So you're going back to{03}
-your own world, {04}{00}{76}{02}Well then, I'll be waiting{03}
+your own world, {04}{00}?{02}Well then, I'll be waiting{03}
 next to the Elder Sign, so{03}
-come by, okay{76}{02}Don't forget{75}{02}{00}{aa}
+come by, okay?{02}Don't forget!{02}{00}{aa}
 ------------------
 {000032c8}
 {01}{04}Welcome back. You're going{03}
-to the top floor, right{76}{02}Shall we go together then{76}{02}{00}{aa}
+to the top floor, right?{02}Shall we go together then?{02}{00}{aa}
 ------------------
 {000032cb}
-Yay{75}{02}{01} {00}{aa}
+Yay!{02}{01} {00}{aa}
 ------------------
 {000032ce}
 I guess I'll go home by{03}
 myself. I'll be just fine.{03}
-Don't worry. Take care{75}{02}{01} {00}{aa}
+Don't worry. Take care!{02}{01} {00}{aa}
 ------------------
 {000032d1}
 {01}{0f}You're returning to your{03}
-town{76}{02}Well then, I'll be waiting{03}
+town?{02}Well then, I'll be waiting{03}
 next to the Elder Sign, so{03}
-come back later, okay{76}{02}{01} {00}{aa}
+come back later, okay?{02}{01} {00}{aa}
 ------------------
 {000032d4}
-{01}{0f}Hey, you're back{75}{03}
+{01}{0f}Hey, you're back!{03}
 Let's go find some{03}
-treasure{75}{02}{00}{aa}
+treasure!{02}{00}{aa}
 ------------------
 {000032d7}
 Thanks, buddy.{02}{01} {00}{aa}
 ------------------
 {000032da}
 Oh, you don't feel like{03}
-going along{76}{02}Well then, that means more{03}
+going along?{02}Well then, that means more{03}
 loot left for me. Good luck{03}
-out there{75}{02}{01} {00}{aa}
+out there!{02}{01} {00}{aa}
 ------------------
 {000032dd}
 {01}{0b}You're returning to your{03}
-world{76}{02}Then I shall stand vigilant{03}
+world?{02}Then I shall stand vigilant{03}
 next to the Elder Sign.{02}Until I know what Moldiv{03}
 is scheming, I must remain{03}
 here in this world.{02}{01} {00}{aa}
 ------------------
 {000032e0}
-{01}{0b}You've returned{76} Moldiv{03}
+{01}{0b}You've returned? Moldiv{03}
 has yet to fully reveal his{03}
 scheme.{02}But the floor above remains{03}
 closed to us until he is{03}
@@ -597,12 +597,12 @@ Farewell for now.{02}{01} {00}{aa}
 ------------------
 {000032e9}
 {01}{10}You're going back to your{03}
-own world{76}{02}Well then, I'll be waiting{03}
+own world?{02}Well then, I'll be waiting{03}
 next to the Elder Sign.{02}{01} {00}{aa}
 ------------------
 {000032ec}
 {01}{10}You're back. Will you{03}
-fight alongside me{76}{02}{00}{aa}
+fight alongside me?{02}{00}{aa}
 ------------------
 {000032ef}
 Okay, I'll let you tag{03}

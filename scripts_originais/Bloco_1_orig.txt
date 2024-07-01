@@ -907,9 +907,9 @@ an enemy's{03}
 mind.{00}{aa}
 ------------------
 {000012dc}
-Lady luck{76}{39}
+Lady luck?{39}
 Or a sea-{03}
-goddess{76}{00}{aa}
+goddess?{00}{aa}
 ------------------
 {000012df}
 Aged but{39}
@@ -939,7 +939,7 @@ for evil.{00}{aa}
 ------------------
 {000012f1}
 It's your{39}
-lucky day{75}{00}{aa}
+lucky day!{00}{aa}
 ------------------
 {000012f4}
 It stinks,{39}
@@ -1202,7 +1202,7 @@ No effect.{02}{00}{aa}
 ------------------
 {000013a2}
 Do nothing{03}
-for now{76}{00}{aa}
+for now?{00}{aa}
 ------------------
 {000013a5}
 's   {03}
@@ -1276,7 +1276,7 @@ restored by{03}
 {00}{aa}
 ------------------
 {000013cc}
- points{75}{02}{00}{aa}
+ points!{02}{00}{aa}
 ------------------
 {000013cf}
 's   {39}
@@ -1287,7 +1287,7 @@ restored by{39}
 {000013d2}
  can be treated{03}
 for {eb}{04}{03}
-. Is this okay{76}{02}{00}{aa}
+. Is this okay?{02}{00}{aa}
 ------------------
 {000013d5}
 Treatment complete.{02}{00}{aa}
@@ -1318,15 +1318,15 @@ Massachusetts, 1924.{00}{aa}
 {000013ed}
 Who was the stranger seen{03}
 venturing into Weathertop{03}
-Hall that stormy night.{06}.{06}{76}{06}{00}{aa}
+Hall that stormy night.{06}.{06}?{06}{00}{aa}
 ------------------
 {000013f0}
 Where did he come from, and{03}
 why was he the one to unlock{03}
-its doors.{06}.{06}{76}{06}{06}{00}{aa}
+its doors.{06}.{06}?{06}{06}{00}{aa}
 ------------------
 {000013f3}
-What kind of man is he{76}{00}{aa}
+What kind of man is he?{00}{aa}
 ------------------
 {000013f6}
 And that is how we all got{03}
@@ -1336,7 +1336,7 @@ killed.{06}.{06}.{06}{00}{aa}
 Skill EXP{00}{aa}
 ------------------
 {000013fc}
-Ghuh{76}{00}{aa}
+Ghuh?{00}{aa}
 ------------------
 {000013ff}
 Max{00}{aa}
@@ -1387,7 +1387,7 @@ took{00}{aa}
 ------------------
 {00001429}
  points{03}
-of damage{75}{02}{00}{aa}
+of damage!{02}{00}{aa}
 ------------------
 {0000142c}
 Castle 1F {00}{aa}
@@ -1490,7 +1490,7 @@ Invocation{03}
 failed.{02}{00}{aa}
 ------------------
 {00001483}
- Finished{75}{02}{00}{aa}
+ Finished!{02}{00}{aa}
 ------------------
 {00001486}
 fully.{00}{aa}
@@ -2539,26 +2539,26 @@ Translator Device{00}{aa}
 {00}{aa}
 ------------------
 {000017dd}
-Which will you have{76}{02}{00}{aa}
+Which will you have?{02}{00}{aa}
 ------------------
 {000017e0}
-{01}{04}Which{76}{02}{01} {00}{aa}
+{01}{04}Which?{02}{01} {00}{aa}
 ------------------
 {000017e3}
 The price is {eb}{04}{03}
 .{03}
-Are you satisfied{76}{00}{aa}
+Are you satisfied?{00}{aa}
 ------------------
 {000017e6}
 The price is {eb}{04}{03}
 .{03}
-Are you satisfied{76}{00}{aa}
+Are you satisfied?{00}{aa}
 ------------------
 {000017e9}
 Thank you very much.{02}{00}{aa}
 ------------------
 {000017ec}
-Thank you very much{75}{02}{00}{aa}
+Thank you very much!{02}{00}{aa}
 ------------------
 {000017ef}
 I'm sorry but that isn't{03}
@@ -2566,26 +2566,26 @@ enough money.{03}
 Come again.{02}{00}{aa}
 ------------------
 {000017f2}
-You don't have enough money{75}{03}
+You don't have enough money!{03}
 I have to make a living too.{02}I don't even give discounts{03}
 to friends. Can't get by{03}
-without any scratch, yeah{76}{02}{00}{aa}
+without any scratch, yeah?{02}{00}{aa}
 ------------------
 {000017f5}
-Which are you selling{76}{02}{00}{aa}
+Which are you selling?{02}{00}{aa}
 ------------------
 {000017f8}
-Which are you selling{76}{02}{00}{aa}
+Which are you selling?{02}{00}{aa}
 ------------------
 {000017fb}
 I'll buy this. {eb}{04}{03}
 .{03}
-Okay{76}{00}{aa}
+Okay?{00}{aa}
 ------------------
 {000017fe}
 I'll buy this. {eb}{04}{03}
 .{03}
-Is that okay{76}{00}{aa}
+Is that okay?{00}{aa}
 ------------------
 {00001801}
 This isn't the sort of item{03}
@@ -2612,22 +2612,22 @@ I'll give ya {eb}{04}{03}
 Not this one.{02}{00}{aa}
 ------------------
 {00001813}
-How many{76}{00}{aa}
+How many?{00}{aa}
 ------------------
 {00001816}
-How many{76}{00}{aa}
+How many?{00}{aa}
 ------------------
 {00001819}
-Where you gonna put it{76}{02}{00}{aa}
+Where you gonna put it?{02}{00}{aa}
 ------------------
 {0000181c}
 You can't carry any more.{02}{00}{aa}
 ------------------
 {0000181f}
-How many will you sell{76}{00}{aa}
+How many will you sell?{00}{aa}
 ------------------
 {00001822}
-How many will you sell{76}{00}{aa}
+How many will you sell?{00}{aa}
 ------------------
 {00001825}
 You don't have anything.{02}{00}{aa}
@@ -2640,8 +2640,8 @@ It doesn't seem you have{03}
 any especially rare photos.{02}{00}{aa}
 ------------------
 {0000182e}
-Huh{76} You still haven't take{03}
-any more pictures{76}{02}Go take some pictures of{03}
+Huh? You still haven't take{03}
+any more pictures?{02}Go take some pictures of{03}
 monsters, then come back.{02}{00}{aa}
 ------------------
 {00001831}
@@ -2918,21 +2918,21 @@ Fast Talk{00}{aa}
 ------------------
 {00001921}
 Which person{03}
-is me{76}{00}{aa}
+is me?{00}{aa}
 ------------------
 {00001924}
 {00}{aa}
 ------------------
 {00001927}
 Do you know{03}
-my name{76}{00}{aa}
+my name?{00}{aa}
 ------------------
 {0000192a}
 Please divide out{03}
 training points.{00}{aa}
 ------------------
 {0000192d}
-Is this true{76}{00}{aa}
+Is this true?{00}{aa}
 ------------------
 {00001930}
 0 1 2 3 4  5 6 7 8 9{00}{aa}
@@ -2944,7 +2944,7 @@ A B C D E  F G H I J{00}{aa}
 K L M N O  P Q R S T{00}{aa}
 ------------------
 {00001939}
-U V W X Y  Z {75} {76} {eb} .{00}{aa}
+U V W X Y  Z ! ? {eb} .{00}{aa}
 ------------------
 {0000193c}
 {00}{aa}
@@ -2968,7 +2968,7 @@ a b c d e  f g h i j{00}{aa}
 k l m n o  p q r s t{00}{aa}
 ------------------
 {00001951}
-u v w x y  z {75} {76} {eb} .{00}{aa}
+u v w x y  z ! ? {eb} .{00}{aa}
 ------------------
 {00001954}
 {00}{aa}
@@ -2992,7 +2992,7 @@ A B C D E  F G H I J{00}{aa}
 K L M N O  P Q R S T{00}{aa}
 ------------------
 {00001969}
-U V W X Y  Z {75} {76} {eb} .{00}{aa}
+U V W X Y  Z ! ? {eb} .{00}{aa}
 ------------------
 {0000196c}
 {03}

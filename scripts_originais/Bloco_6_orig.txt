@@ -1,16 +1,16 @@
 {0000261a}
 {01}{01}Eek, what was that,{03}
-all of a sudden{76}{02}{01} {00}{aa}
+all of a sudden?{02}{01} {00}{aa}
 ------------------
 {0000261d}
-{01}{09}Jeepers creepers{75} What was{03}
-that just now{76}{02}{01} {00}{aa}
+{01}{09}Jeepers creepers! What was{03}
+that just now?{02}{01} {00}{aa}
 ------------------
 {00002620}
-{01}{00}What do you remember{76}{02}{01} {00}{aa}
+{01}{00}What do you remember?{02}{01} {00}{aa}
 ------------------
 {00002623}
-{01}{02}Do you remember anything{76}{02}{01} {00}{aa}
+{01}{02}Do you remember anything?{02}{01} {00}{aa}
 ------------------
 {00002626}
 {01}{00}You don't think that's...{02}{00}{aa}
@@ -24,17 +24,17 @@ that just now{76}{02}{01} {00}{aa}
 {0000262f}
 {01}{00}The portrait on the 1st{03}
 floor of the castle.{03}
-I knew I recognized it{75}{02}{01} {00}{aa}
+I knew I recognized it!{02}{01} {00}{aa}
 ------------------
 {00002632}
 {01}{05}The portrait on the 1st{03}
 floor of the castle.{03}
-I knew I recognized it{75}{02}{01} {00}{aa}
+I knew I recognized it!{02}{01} {00}{aa}
 ------------------
 {00002635}
 {01}{01}The portrait on the 1st{03}
 floor of the castle.{03}
-I knew I recognized it{75}{02}{01} {00}{aa}
+I knew I recognized it!{02}{01} {00}{aa}
 ------------------
 {00002638}
 I took a thick book from{03}
@@ -77,14 +77,14 @@ possibly be accidental. But{03}
 Laplace is dead.{02}{01} {00}{aa}
 ------------------
 {00002650}
-{01}{02}Died 1827, eh{76} Done a thing{03}
+{01}{02}Died 1827, eh? Done a thing{03}
 or two about that, hasn't{03}
-he{76} An immortal Frenchman.{02}{01} {00}{aa}
+he? An immortal Frenchman.{02}{01} {00}{aa}
 ------------------
 {00002653}
 {01}{00}It really is Laplace.{02}Could the flow of time{03}
 in that world be so{03}
-different than our own{76}{02}{01} {00}{aa}
+different than our own?{02}{01} {00}{aa}
 ------------------
 {00002656}
 {01}{01}It really is Laplace.{02}Maybe the flow of time{03}
@@ -122,9 +122,9 @@ You can't go there.{02}{00}{aa}
 An Elder Sign.{02}{00}{aa}
 ------------------
 {0000266b}
-{01}{0d}You made it back{75}{03}
+{01}{0d}You made it back!{03}
 Will you lend us your{03}
-strength once more{76}{02}{00}{aa}
+strength once more?{02}{00}{aa}
 ------------------
 {0000266e}
 Thanks.{02}{01} {00}{aa}
@@ -150,17 +150,17 @@ the 1st floor for now.{02}Please come by later.{02}{01} {00}{aa}
 {0000267d}
 {01}{04}Welcome back. You're going{03}
 to the top of the castle,{03}
-right{76}{02}Shall I escort you{76}{02}{00}{aa}
+right?{02}Shall I escort you?{02}{00}{aa}
 ------------------
 {00002680}
-Yay{75}{02}{01} {00}{aa}
+Yay!{02}{01} {00}{aa}
 ------------------
 {00002683}
 I'll just have to go home{03}
-by myself then. Take care{75}{02}{01} {00}{aa}
+by myself then. Take care!{02}{01} {00}{aa}
 ------------------
 {00002686}
-{01}{0f}You came back{75} Okay, let's{03}
+{01}{0f}You came back! Okay, let's{03}
 go look for treasure.{02}{00}{aa}
 ------------------
 {00002689}
@@ -168,12 +168,12 @@ Thanks, partner.{02}{01} {00}{aa}
 ------------------
 {0000268c}
 Oh, you don't feel{03}
-like it{76}{02}Ok, I'll just continue{03}
+like it?{02}Ok, I'll just continue{03}
 looking for treasure{03}
-myself. Bye{75}{02}{01} {00}{aa}
+myself. Bye!{02}{01} {00}{aa}
 ------------------
 {0000268f}
-{01}{0b}You came back{76} Moldiv{03}
+{01}{0b}You came back? Moldiv{03}
 seems to be inactive at{03}
 the moment.{02}But you must defeat him to{03}
 get to the next floor.{02}{04}{00}, let's defeat{03}
@@ -193,7 +193,7 @@ Let's meet again.{02}{01} {00}{aa}
 ------------------
 {00002698}
 {01}{10}You're back. Do you still{03}
-insist on foolish violence{76}{02}{00}{aa}
+insist on foolish violence?{02}{00}{aa}
 ------------------
 {0000269b}
 Very well, I'll indulge{03}
@@ -217,7 +217,7 @@ it became his obsession.{02}And so he plotted to take{03}
 that power for himself.{02}But Kenichiro chasing him{03}
 from Newcam spoiled{03}
 everything for him.{02}And so Benedict's failure{03}
-led to his capture by{02}Laplace. The End{76}{02}{00}{aa}
+led to his capture by{02}Laplace. The End?{02}{00}{aa}
 ------------------
 {000026a4}
 Arriving at Laplace{03}
@@ -227,37 +227,37 @@ guards.{02}{00}{aa}
 {000026a7}
 You're on a fool's errand,{03}
 trying to assassinate{03}
-Master Laplace{75}{02}{00}{aa}
+Master Laplace!{02}{00}{aa}
 ------------------
 {000026aa}
-Benedict's lackeys{75}{02}{00}{aa}
+Benedict's lackeys!{02}{00}{aa}
 ------------------
 {000026ad}
-Where is Louvain{75}{76}{02}{00}{aa}
+Where is Louvain!?{02}{00}{aa}
 ------------------
 {000026b0}
 All the guards attack{03}
-at once{75}{02}{00}{aa}
+at once!{02}{00}{aa}
 ------------------
 {000026b3}
 A man's voice suddenly{03}
 could be heard.{02}{00}{aa}
 ------------------
 {000026b6}
-{01}{0b}Get out of here{75} You must{03}
+{01}{0b}Get out of here! You must{03}
 escape to the floor above.{02}{00}{aa}
 ------------------
 {000026b9}
-{01}{0b}{04}{00}, hurry{75}{02}{00}{aa}
+{01}{0b}{04}{00}, hurry!{02}{00}{aa}
 ------------------
 {000026bc}
-{01}{00}Was that... Adolph{76}{02}{01} {00}{aa}
+{01}{00}Was that... Adolph?{02}{01} {00}{aa}
 ------------------
 {000026bf}
-{01}{01}Was that Adolph's voice{76}{02}{01} {00}{aa}
+{01}{01}Was that Adolph's voice?{02}{01} {00}{aa}
 ------------------
 {000026c2}
-{01}{0b}Hurry{75}{02}{01} {00}{aa}
+{01}{0b}Hurry!{02}{01} {00}{aa}
 ------------------
 {000026c5}
 The voice grew faint.{02}{00}{aa}
@@ -288,7 +288,7 @@ if things get too scary.{02}{00}{aa}
 ------------------
 {000026da}
 Can't use a gun without{03}
-bullets. Stock up{75}{02}{00}{aa}
+bullets. Stock up!{02}{00}{aa}
 ------------------
 {000026dd}
 Using Medicine will{03}

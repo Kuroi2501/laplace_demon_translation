@@ -601,16 +601,16 @@ points of MP.{00}{aa}
  points.{00}{aa}
 ------------------
 {00001d02}
-appeared{75}{02}{00}{aa}
+appeared!{02}{00}{aa}
 ------------------
 {00001d05}
-We fled to safety{75}{00}{aa}
+We fled to safety!{00}{aa}
 ------------------
 {00001d08}
-We could not flee{75}{00}{aa}
+We could not flee!{00}{aa}
 ------------------
 {00001d0b}
-{75}{00}{aa}
+!{00}{aa}
 ------------------
 {00001d0e}
 wo{00}{aa}
@@ -619,7 +619,7 @@ wo{00}{aa}
  is on guard.{00}{aa}
 ------------------
 {00001d14}
-'s attack{75}{00}{aa}
+'s attack!{00}{aa}
 ------------------
 {00001d17}
  attacked{03}
@@ -652,11 +652,11 @@ Could not focus.{00}{aa}
 ------------------
 {00001d2f}
  points of{03}
-physical damage{75}{00}{aa}
+physical damage!{00}{aa}
 ------------------
 {00001d32}
  points of{03}
-mental damage{75}{00}{aa}
+mental damage!{00}{aa}
 ------------------
 {00001d35}
  quickly dodged.{00}{aa}
@@ -665,7 +665,7 @@ mental damage{75}{00}{aa}
  was poisoned.{00}{aa}
 ------------------
 {00001d3b}
-No good{75}{03}
+No good!{03}
 Not talkers.{00}{aa}
 ------------------
 {00001d3e}
@@ -737,7 +737,7 @@ Not talkers.{00}{aa}
         Killer Rampage{00}{aa}
 ------------------
 {00001d71}
-The shotgun roars{75}{00}{aa}
+The shotgun roars!{00}{aa}
 ------------------
 {00001d74}
 But nothing happened.{00}{aa}
@@ -762,7 +762,7 @@ Spirit       Deism{00}{aa}
 took {00}{aa}
 ------------------
 {00001d89}
- points of damage{75}{00}{aa}
+ points of damage!{00}{aa}
 ------------------
 {00001d8c}
 But there was no effect.{00}{aa}
@@ -799,7 +799,7 @@ We survived.{02}{00}{aa}
  crunched.{00}{aa}
 ------------------
 {00001dad}
- bit{75}{00}{aa}
+ bit!{00}{aa}
 ------------------
 {00001db0}
  restrained.{00}{aa}
@@ -1275,7 +1275,7 @@ slumber.{00}{aa}
 all.{00}{aa}
 ------------------
 {00001f57}
- attacked{75}{03}
+ attacked!{03}
 {00}{aa}
 ------------------
 {00001f5a}
@@ -1373,7 +1373,7 @@ Sciux{00}{aa}
 {00}{aa}
 ------------------
 {00001fb7}
-Kusakabe drew the seal{75}{00}{aa}
+Kusakabe drew the seal!{00}{aa}
 ------------------
 {00001fba}
 Not enough MP.{00}{aa}
@@ -1458,7 +1458,7 @@ Traumatized.{00}{aa}
 {02}{00}{aa}
 ------------------
 {00002002}
-'s special attack{75}{00}{aa}
+'s special attack!{00}{aa}
 ------------------
 {00002005}
 No film.{00}{aa}
@@ -1557,7 +1557,7 @@ fear.{00}{aa}
 ------------------
 {00002056}
 The Mandrake released{03}
-its horrifying scream{75}{02}It was time to run away.{00}{aa}
+its horrifying scream!{02}It was time to run away.{00}{aa}
 ------------------
 {00002059}
 Escape may not be an option.{00}{aa}
@@ -1673,7 +1673,7 @@ Tools{05}{00}{00}{aa}
 {00}{aa}
 ------------------
 {000020c2}
-More humans{76} The last bunch{03}
+More humans? The last bunch{03}
 to come here were too weak{03}
 to survive, and most died.{02}{00}{aa}
 ------------------
@@ -1683,7 +1683,7 @@ north wing lingers about as{03}
 if he were lost.{02}He may be in need of some{03}
 kind of help, but so far no{03}
 one has stopped to ask.{02}Perhaps something worthy of{03}
-your investigation{76}{02}{00}{aa}
+your investigation?{02}{00}{aa}
 ------------------
 {000020c8}
 It's the butlers job to keep{03}
@@ -1692,7 +1692,7 @@ many of the doors locked.{02}{00}{aa}
 {000020cb}
 Do you believe in the rumor{03}
 that a secret grave site is{03}
-hidden somewhere close by{76}{02}I just can't imagine where{03}
+hidden somewhere close by?{02}I just can't imagine where{03}
 it could be.{02}{00}{aa}
 ------------------
 {000020ce}
@@ -1703,7 +1703,7 @@ around this floor.{02}{00}{aa}
 {000020d1}
 There seem to be several of{03}
 them. But just what in the{03}
-hell are they for{76}{02}{00}{aa}
+hell are they for?{02}{00}{aa}
 ------------------
 {000020d4}
 The executioner kept a key{03}
